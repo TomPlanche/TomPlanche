@@ -11,7 +11,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/TomPlanche/TomPlanche/blob/main/gifPerso" alt= "MyNameGif">
+    <img src="https://github.com/TomPlanche/TomPlanche/blob/main/gifPerso.gif" alt= "MyNameGif">
 </p>
 
 Hi,
