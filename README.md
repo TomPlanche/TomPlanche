@@ -16,7 +16,7 @@
             </li>
             <li>
                 <p>
-                    Je suis un <strong>étudiant</strong> 🎓 à l'<a link="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
+                    Je suis un <strong>étudiant</strong> 🎓 à l'<a href="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
                 </p>
             </li>
         </ul>
