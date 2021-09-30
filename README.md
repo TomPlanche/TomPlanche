@@ -29,14 +29,6 @@
 
 --- 
 
-
-<p align = "center">
-    <img src = "https://img.shields.io/badge/-tomplanche@icloud.com-c14438?style=flat-square&logo=ICloud&logoColor=white&link=mailto:tomplanche@icloud.com&color=blue">
-    <img src = "https://img.shields.io/github/stars/tomPlanche?style=social" link = "https://github.com/TomPlanche">
-</p>
-
----
-
 <p align = "center">
     <img src = "https://img.shields.io/badge/-Kali-FCC624?logo=Linux&style=for-the-badge&logoColor=black">
     <img src = "https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white">
@@ -52,7 +44,9 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+---
 
-Hi,
-I'm Tom Planche, a 19yo French Student living in southern France.
-Interested in drones, tech, and programming.
+<p align = "center">
+    <img src = "https://img.shields.io/badge/-tomplanche@icloud.com-c14438?style=flat-square&logo=ICloud&logoColor=white&link=mailto:tomplanche@icloud.com&color=blue">
+    <img src = "https://img.shields.io/github/stars/tomPlanche?style=social" link = "https://github.com/TomPlanche">
+</p>
