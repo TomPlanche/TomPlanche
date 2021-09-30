@@ -5,21 +5,28 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Tom Planche 👨‍💻
 
 ---
-<div style="height: 250px;">
-    <ul>
-        <li>
-            <p>
-                Bonjour ! J'ai <strong>19</strong> ans.
-            </p>
-        </li>
-        <li>
-            <p>
-                Je suis un <strong>étudiant</strong> 🎓 à l'<a link="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
-            </p>
-        </li>
-    </ul>
-    <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&layout=compact" height="200">
-</div>
+
+<div style="height: 750px;">
+            <div style="float:left; width: 40%">
+                <ul>
+                    <li>
+                        <p>
+                            Bonjour ! J'ai <strong>19</strong> ans.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Je suis un <strong>étudiant</strong> 🎓 à l'<a link="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
+                        </p>
+                    </li>
+                </ul>
+            </div>
+            <div style="float:right;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&theme=dark&layout=compact" height="200" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+                <br>
+                <img src="https://github-readme-stats.vercel.app/api?username=tomplanche&theme=dark&show_icons=true" height="200" width="500px">
+            </div>
+        </div>
 
 --- 
 
