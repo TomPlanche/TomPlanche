@@ -34,8 +34,10 @@
 
 ---
 
-![Linux](https://img.shields.io/badge/-Kali-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
-![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
+<p align = "center">
+    <img src = "https://img.shields.io/badge/-Kali-FCC624?logo=Linux&style=for-the-badge&logoColor=black">
+    <img src = "https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white">
+</p>
 
 ---
 
