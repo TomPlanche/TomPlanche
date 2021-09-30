@@ -26,11 +26,16 @@
 
 --- 
 
+
 <p align = "center">
     <img src = "https://img.shields.io/badge/-tomplanche@icloud.com-c14438?style=flat-square&logo=ICloud&logoColor=white&link=mailto:tomplanche@icloud.com&color=blue">
-    <img src = "https://img.shields.io/github/followers/tomPlanche?style=social">
     <img src = "https://img.shields.io/github/stars/tomPlanche?style=social">
 </p>
+
+---
+
+![Linux](https://img.shields.io/badge/-Kali-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
+![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
 
 ---
 
