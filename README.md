@@ -53,6 +53,7 @@
 </p>
 
 <h4>
+
 ```cpp
 /**
   * @file   me.cpp
@@ -145,4 +146,5 @@ int main(void)
     return 0;
 }
 ```
-</h6>
+
+</h4>
