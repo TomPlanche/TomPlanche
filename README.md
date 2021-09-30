@@ -21,7 +21,7 @@
                     </li>
                 </ul>
             </div>
-            <div style="float:right;">
+            <div style="float:right; width: 60%">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&theme=dark&layout=compact" style="display: block; margin-left: auto; margin-right: auto; width: 100%">
                 <br>
                 <img src="https://github-readme-stats.vercel.app/api?username=tomplanche&theme=dark&show_icons=true">
