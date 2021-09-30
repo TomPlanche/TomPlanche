@@ -3,8 +3,8 @@
 </p>
 
 ---
-<a href="https://samujjwaal.me/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&theme=dark&layout=compact" align="right" height="200" /></a>
-<a href="https://samujjwaal.me/"><img src="https://github-readme-stats.vercel.app/api?username=tomplanche&theme=dark&show_icons=true" align="right" height="167" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&theme=dark&layout=compact" align="right" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=tomplanche&theme=dark&show_icons=true" align="right" height="167" />
 
 <div style="height: auto;">
     <div>
