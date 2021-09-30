@@ -22,9 +22,9 @@
                 </ul>
             </div>
             <div style="float:right;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&theme=dark&layout=compact" height="200" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&theme=dark&layout=compact" height="100" width="300px" style="display: block; margin-left: auto; margin-right: auto;">
                 <br>
-                <img src="https://github-readme-stats.vercel.app/api?username=tomplanche&theme=dark&show_icons=true" height="200" width="500px">
+                <img src="https://github-readme-stats.vercel.app/api?username=tomplanche&theme=dark&show_icons=true" height="100" width="300px">
             </div>
         </div>
 
