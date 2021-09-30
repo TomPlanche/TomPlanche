@@ -47,11 +47,12 @@
 
 ---
 
-<h6>
+
 <p align = "center">
     <img src = "https://img.shields.io/badge/-tomplanche@icloud.com-c14438?style=flat-square&logo=ICloud&logoColor=white&link=mailto:tomplanche@icloud.com&color=blue">
 </p>
 
+<h4>
 ```cpp
 /**
   * @file   me.cpp
@@ -76,6 +77,7 @@ class Person {
         signed short int dateOfBirth;
         std::string firstName;
         std::string lastName;
+        std::string school;
         std::vector<std::string> files;
         Tools tools;
         std::vector<std::string> passions;
@@ -98,6 +100,8 @@ int main(void)
     me.dateOfBirth = 2002;
     me.firstName = "Tom";
     me.firstName = "Planche";
+
+    me.school = "University Institute of Technology of Bayonne.";
 
     me.files = {
         ".cpp",
@@ -137,7 +141,7 @@ int main(void)
         "technology",
         "programming"
     };
-    
+
     return 0;
 }
 ```
