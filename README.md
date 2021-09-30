@@ -7,7 +7,7 @@
 ---
 
 <div style="height: 750px;">
-            <div style="float:left; width: 50%">
+            <div style="float:left; width: 40%">
                 <ul>
                     <li>
                         <p>
