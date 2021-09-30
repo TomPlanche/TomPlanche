@@ -38,9 +38,7 @@ class Person {
             time_t now = time(0);
             tm *ltm = localtime(&now);
 
-            return (
-                ltm->tm_year - dateOfBirth + 1900
-            );
+            return ltm->tm_year - dateOfBirth + 1900;
         }
 };
 
