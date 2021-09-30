@@ -47,98 +47,98 @@
 
 ---
 
+<h6>
 <p align = "center">
     <img src = "https://img.shields.io/badge/-tomplanche@icloud.com-c14438?style=flat-square&logo=ICloud&logoColor=white&link=mailto:tomplanche@icloud.com&color=blue">
 </p>
 
-<pre>
-    <code>
-        /**
-        * @file   me.cpp
-        * @author T.PLANCHE
-        * @brief  My Resume
-        * @date   30 sept. 2021
-        **/
+```cpp
+/**
+  * @file   me.cpp
+  * @author T.PLANCHE
+  * @brief  My Resume
+  * @date   30 sept. 2021
+  **/
 
-        #include <iostream>
-        #include <string>
-        #include <vector>
-        #include <ctime>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <ctime>
 
-        class Tools {
-            public:
-                std::vector<std::string> hardware;
-                std::vector<std::string> softwares;
-        };
+class Tools {
+    public:
+        std::vector<std::string> hardware;
+        std::vector<std::string> softwares;
+};
 
-        class Person {
-            public:
-                signed short int dateOfBirth;
-                std::string firstName;
-                std::string lastName;
-                std::vector<std::string> files;
-                Tools tools;
-                std::vector<std::string> passions;
+class Person {
+    public:
+        signed short int dateOfBirth;
+        std::string firstName;
+        std::string lastName;
+        std::vector<std::string> files;
+        Tools tools;
+        std::vector<std::string> passions;
 
-                signed short int age() {
-                    time_t now = time(0);
-                    tm *ltm = localtime(&now);
+        signed short int age() {
+            time_t now = time(0);
+            tm *ltm = localtime(&now);
 
-                    return (
-                        ltm->tm_year - dateOfBirth + 1900
-                    );
-                }
-        };
-
-
-        int main(void)
-        {
-            Person me;
-
-            me.dateOfBirth = 2002;
-            me.firstName = "Tom";
-            me.firstName = "Planche";
-
-            me.files = {
-                ".cpp",
-                ".swift",
-                ".py",
-                ".html",
-                ".css",
-                ".ai",
-                ".ps",
-                ".aep"
-            };
-
-            me.tools.hardware = {
-                "m1 mac mini 16Gb",
-                "m1 macBook pro 8Gb",
-                "ipad pro 12,9\" 2020",
-                "iphone 12 pro",
-            };
-
-            me.tools.softwares = {
-                "vscode",
-                "xcode",
-                "pycharm",
-                "clion",
-                "github",
-                "sketch",
-                "after effects",
-                "illustrator",
-                "affinity photo",
-                "photoshop",
-                "final cut pro"
-            };
-
-            me.passions = {
-                "drones",
-                "cars",
-                "technology",
-                "programming"
-            };
-            
-            return 0;
+            return (
+                ltm->tm_year - dateOfBirth + 1900
+            );
         }
-    </code>
-</pre>
+};
+
+
+int main(void)
+{
+    Person me;
+
+    me.dateOfBirth = 2002;
+    me.firstName = "Tom";
+    me.firstName = "Planche";
+
+    me.files = {
+        ".cpp",
+        ".swift",
+        ".py",
+        ".html",
+        ".css",
+        ".ai",
+        ".ps",
+        ".aep"
+    };
+
+    me.tools.hardware = {
+        "m1 mac mini 16Gb",
+        "m1 macBook pro 8Gb",
+        "ipad pro 12,9\" 2020",
+        "iphone 12 pro",
+    };
+
+    me.tools.softwares = {
+        "vscode",
+        "xcode",
+        "pycharm",
+        "clion",
+        "github",
+        "sketch",
+        "after effects",
+        "illustrator",
+        "affinity photo",
+        "photoshop",
+        "final cut pro"
+    };
+
+    me.passions = {
+        "drones",
+        "cars",
+        "technology",
+        "programming"
+    };
+    
+    return 0;
+}
+```
+</h6>
