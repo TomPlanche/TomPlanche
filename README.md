@@ -18,7 +18,7 @@
             </p>
         </li>
     </ul>
-    <img style="float: right;" src="https://github-stack-overflow-stats.vercel.app/api/index?user=13864585&site=stackoverflow" height="200">
+    <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&layout=compact" height="200">
 </div>
 
 --- 
