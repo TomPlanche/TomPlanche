@@ -30,19 +30,19 @@
 --- 
 
 <p align = "center">
-    <img src = "https://img.shields.io/badge/-Kali-FCC624?logo=Linux&style=for-the-badge&logoColor=black">
-    <img src = "https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white">
+    <img src = "https://img.shields.io/badge/-Kali-2777FF?logo=Linux&style=for-the-badge&logoColor=white">
+    <img src = "https://img.shields.io/badge/-Mac_OS%20-%23121011.svg?logo=Apple&style=for-the-badge&logoColor=white">
 </p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/swift%20-red.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/html5%20-red.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%2300599C.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/suite adobe%20-red.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Adobe-red??&style=for-the-badge&logo=adobe&logoColor=white"/>
 </p>
 
 ---
