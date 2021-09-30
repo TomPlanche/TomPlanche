@@ -9,21 +9,17 @@
     <ul>
         <li>
             <p>
-                Je suis un <strong>étudiant</strong> 🎓 à l'<a link="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
+                Bonjour ! J'ai <strong>19</strong> ans.
             </p>
         </li>
         <li>
             <p>
-            Salut ! J'ai <strong id="age"></strong> ans.
+                Je suis un <strong>étudiant</strong> 🎓 à l'<a link="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
             </p>
         </li>
     </ul>
     <img style="float: right;" src="https://github-readme-stackoverflow.vercel.app/?userID=13864585&theme=dark" height="200">
 </div>
-
-<script>
-    document.getElementById("age").innerHTML = new Date().getFullYear() - 2002;
-</script>
 
 --- 
 
