@@ -3,9 +3,27 @@
 </p>
 
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Tom Planche 👨‍💻
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=13864585&theme=dark" height="250">
 
-- Je suis un **étudiant** 🎓 à l'[IUT de Bayonne et du Pays-Basque](https://www.iutbayonne.univ-pau.fr)
+---
+<div style="height: 250px;">
+    <ul>
+        <li>
+            <p>
+                Je suis un <strong>étudiant</strong> 🎓 à l'<a link="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
+            </p>
+        </li>
+        <li>
+            <p>
+            Salut ! J'ai <strong id="age"></strong> ans.
+            </p>
+        </li>
+    </ul>
+    <img style="float: right;" src="https://github-readme-stackoverflow.vercel.app/?userID=13864585&theme=dark" height="200">
+</div>
+
+<script>
+    document.getElementById("age").innerHTML = new Date().getFullYear() - 2002;
+</script>
 
 --- 
 
