@@ -49,5 +49,4 @@
 
 <p align = "center">
     <img src = "https://img.shields.io/badge/-tomplanche@icloud.com-c14438?style=flat-square&logo=ICloud&logoColor=white&link=mailto:tomplanche@icloud.com&color=blue">
-    <img src = "https://img.shields.io/github/stars/tomPlanche?style=social" link = "https://github.com/TomPlanche">
 </p>
