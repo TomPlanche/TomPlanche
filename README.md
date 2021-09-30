@@ -23,9 +23,6 @@
             </li>
         </ul>
     </div>
-    <div style="float:right; width: 60%">
-        <br>
-    </div>
 </div>
 
 --- 
