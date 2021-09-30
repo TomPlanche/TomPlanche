@@ -5,28 +5,28 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Tom Planche 👨‍💻
 
 ---
+<a href="https://samujjwaal.me/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&theme=dark&layout=compact" align="right" height="200" /></a>
+<a href="https://samujjwaal.me/"><img src="https://github-readme-stats.vercel.app/api?username=tomplanche&theme=dark&show_icons=true" align="right" height="167" /></a>
 
 <div style="height: 750px;">
-            <div style="float:left; width: 40%">
-                <ul>
-                    <li>
-                        <p>
-                            Bonjour ! J'ai <strong>19</strong> ans.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Je suis un <strong>étudiant</strong> 🎓 à l'<a link="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
-                        </p>
-                    </li>
-                </ul>
-            </div>
-            <div style="float:right; width: 60%">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&theme=dark&layout=compact" style="display: block; margin-left: auto; margin-right: auto;">
-                <br>
-                <img src="https://github-readme-stats.vercel.app/api?username=tomplanche&theme=dark&show_icons=true" style="display: block; margin-left: auto; margin-right: auto;">
-            </div>
-        </div>
+    <div style="float:left; width: 40%">
+        <ul>
+            <li>
+                <p>
+                    Bonjour ! J'ai <strong>19</strong> ans.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Je suis un <strong>étudiant</strong> 🎓 à l'<a link="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
+                </p>
+            </li>
+        </ul>
+    </div>
+    <div style="float:right; width: 60%">
+        <br>
+    </div>
+</div>
 
 --- 
 
