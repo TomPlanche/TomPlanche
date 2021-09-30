@@ -4,19 +4,19 @@
 
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&bg_color=071A2C&theme=tokyonight&layout=compact" align="right" height="200" />
-<img src="https://github-readme-stats.vercel.app/api?username=TomPlanche&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" align="right" height="177" />
+<img src="https://github-readme-stats.vercel.app/api?username=TomPlanche&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" align="right" height="178" />
 
 <div style="height: auto;">
     <div>
         <ul>
             <li>
                 <p>
-                    Bonjour ! Je suis Tom Planche, <strong>19</strong> ans.
+                    Tom Planche, <strong>19</strong> ans.
                 </p>
             </li>
             <li>
                 <p>
-                    Je suis un <strong>étudiant</strong> 🎓 à l'<a href="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
+                    🧑‍💻 à l'<a href="https://www.iutbayonne.univ-pau.fr">IUT de Bayonne et du Pays-Basque</a>.
                 </p>
             </li>
             <li>
