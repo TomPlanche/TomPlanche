@@ -17,29 +17,30 @@
 #include <vector>
 #include <ctime>
 
-class Tools {
-    public:
-        std::vector<std::string> hardware;
-        std::vector<std::string> softwares;
+using std::vector;
+using std::string;
+
+struct Tools {
+    vector<string> hardware;
+    vector<string> softwares;
 };
 
-class Person {
-    public:
-        signed short int dateOfBirth;
-        std::string firstName;
-        std::string lastName;
-        std::string mail;
-        std::string school;
-        std::vector<std::string> files;
-        Tools tools;
-        std::vector<std::string> passions;
+struct Person {
+    signed short int dateOfBirth;
+    string firstName;
+    string lastName;
+    string mail;
+    string school;
+    vector<string> files;
+    Tools tools;
+    vector<string> passions;
 
-        signed short int age() {
-            time_t now = time(0);
-            tm *ltm = localtime(&now);
+    signed short int age() {
+        time_t now = time(0);
+        tm *ltm = localtime(&now);
 
-            return ltm->tm_year - dateOfBirth + 1900;
-        }
+        return (ltm->tm_year - dateOfBirth + 1900);
+    }
 };
 
 
@@ -70,7 +71,7 @@ int main(void)
         "m1 mac mini 16Gb",
         "m1 macBook pro 8Gb",
         "ipad pro 12,9\" 2020",
-        "iphone 12 pro",
+        "iphone 12 pro"
     };
 
     me.tools.softwares = {
@@ -94,8 +95,11 @@ int main(void)
         "programming"
     };
 
+    std::cout << me.age() << std::endl;
+
     return 0;
 }
+
 ```
 
 </h4>
