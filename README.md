@@ -35,7 +35,7 @@ struct Person {
     Tools tools;
     vector<string> passions;
 
-    signed short int age() {
+    unsigned short int age() {
         time_t now = time(0);
         tm *ltm = localtime(&now);
 
@@ -44,8 +44,7 @@ struct Person {
 };
 
 
-int main(void)
-{
+int main(void) {
     Person me;
 
     me.dateOfBirth = 2002;
@@ -58,6 +57,7 @@ int main(void)
 
     me.files = {
         ".cpp",
+        ".sh",
         ".swift",
         ".py",
         ".html",
