@@ -70,7 +70,7 @@ int main(void) {
     me.tools.hardware = {
         "m1 mac mini 16Gb",
         "m1 macBook pro 8Gb",
-        "ipad pro 12,9\" 2020",
+        "ipad pro 12.9\" 2020",
         "iphone 12 pro"
     };
 
