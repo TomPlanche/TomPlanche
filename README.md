@@ -19,6 +19,8 @@
 
 using std::vector;
 using std::string;
+using std::cout;
+using std::endl;
 
 struct Tools {
     vector<string> hardware;
@@ -26,7 +28,7 @@ struct Tools {
 };
 
 struct Person {
-    signed short int dateOfBirth;
+    unsigned short int dateOfBirth;
     string firstName;
     string lastName;
     string mail;
@@ -95,7 +97,7 @@ int main(void) {
         "programming"
     };
 
-    std::cout << me.age() << std::endl;
+    cout << me.age() << endl;
 
     return 0;
 }
