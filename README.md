@@ -1,6 +1,5 @@
+<hr>
 <p align="center">
-    <br>
-    <br>
     <br>
     <samp>
         Hello there. I'm <a href="http://tomplanche.github.io/">Tom Planche</a>.<br>
@@ -13,6 +12,6 @@
         </samp>
     <br>
     <br>
-    <br>
-    <img src="https://github.com/TomPlanche/TomPlanche/raw/main/gifPerso.gif" width="100%" />
 </p>
+<hr>
+<img src="https://github.com/TomPlanche/TomPlanche/raw/main/gifPerso.gif" width="100%" />
