@@ -22,12 +22,12 @@
 <summary> <b> <samp> Stats </samp></b></summary>
 
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&bg_color=181a1b&icon_color=32CBF1&show_icons=true&count_private=true&theme=react&&text_color=ffffff&layout=compact"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPlanche&bg_color=0D1116&icon_color=32CBF1&show_icons=true&count_private=true&theme=react&&text_color=ffffff&layout=compact"
      width="40%"
      align="left"
 />
 <img
-     src="https://github-readme-stats.vercel.app/api?username=TomPlanche&bg_color=181a1b&icon_color=32CBF1&show_icons=true&count_private=true&theme=react&&text_color=ffffff"
+     src="https://github-readme-stats.vercel.app/api?username=TomPlanche&bg_color=0D1116&icon_color=32CBF1&show_icons=true&count_private=true&theme=react&&text_color=ffffff"
      width="40%"
      align="right"
  />
