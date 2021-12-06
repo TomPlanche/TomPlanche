@@ -1,4 +1,9 @@
-<p align="center" style="width: 50%;">
+<!DOCTYPE html>
+<html lang='fr'>
+<style>
+  @import url("https://use.typekit.net/kgo2loc.css");
+</style>
+<p align="center" style="width: 50%;font-family: source-code-pro, monospace;font-weight: 400;font-style: normal;">
     <br>
     <br>
     <samp>
@@ -9,10 +14,11 @@
         #C++, #Python, #SwiftUI, #Bash, #Web
         <br>
         #VSCode, #PyCharm, #xCode, #Illustrator
-        </samp>
+    </samp>
     <br>
     <br>
 </p>
+</html>
 
 <img src="https://github.com/TomPlanche/TomPlanche/raw/main/gifPerso.gif" width="100%" />
 
