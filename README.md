@@ -25,6 +25,7 @@
         width="40%"
         align="left"
     />
+    
     <img
         src="https://github-readme-stats.vercel.app/api?username=TomPlanche&bg_color=0D1116&icon_color=32CBF1&show_icons=true&count_private=true&theme=react&&text_color=ffffff"
         width="40%"
