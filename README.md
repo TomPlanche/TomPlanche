@@ -7,7 +7,6 @@
     <br>
     <br>
     <br>
-    <samp>
         Hello there. I'm <a href="http://tomplanche.github.io/">Tom Planche</a>.<br>
         I'm an IT student from Bayonne, France.
         <br>
@@ -15,7 +14,6 @@
         #C++, #Python, #SwiftUI, #Bash, #Web
         <br>
         #VSCode, #PyCharm, #xCode, #Illustrator
-    </samp>
     <br>
     <br>
 </p>
