@@ -1,7 +1,4 @@
 <p align="center" style="width: 50%;">
-    <br>
-    <br>
-    <br>
     <samp>
         Hello there. I'm <a href="http://tomplanche.github.io/">Tom Planche</a>.<br>
         I'm an IT student from Bayonne, France.
