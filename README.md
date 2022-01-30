@@ -1,7 +1,7 @@
 <p align="center" style="width: 50%;">
     <samp>
         Hello there. I'm <a href="http://tomplanche.github.io/">Tom Planche</a>.<br>
-        I'm an IT student from Bayonne, France.
+        IT student from Bayonne, France.
         <br>
         <br>
         #C++, #Python, #SwiftUI, #Bash, #Web
