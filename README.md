@@ -4,9 +4,9 @@
         IT student from Bayonne, France.
         <br>
         <br>
-        #C++, #Python, #SwiftUI, #Bash, #Web
+        #JS, #Python, #R, #Bash, #C++
         <br>
-        #VSCode, #PyCharm, #xCode, #Illustrator
+        #Webflow, #PyCharm, #Dataspell, #Illustrator
     </samp>
     <br>
     <br>
