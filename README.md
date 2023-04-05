@@ -4,7 +4,7 @@
         IT student from Bayonne, France.
         <br>
         <br>
-        #JS, #Python, #R, #Bash, #Java, #C++
+        #JS(ES6, REACT), #Python, #R, #Bash, #Java, #C++
         <br>
         #JetBrains, #Adobe
     </samp>
