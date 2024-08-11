@@ -1,7 +1,7 @@
 <p align="center" style="width: 50%;">
     <samp>
         Hello there. I'm <a href="http://tomplanche.github.io/">Tom Planche</a>.<br>
-        IT student from Bayonne, France currently working at <a href="http://crealo.app">Crealo</a>.
+        CS engineer @ <a href="https://cnam.fr/">CNAM</a> Paris, worked @ <a href="http://crealo.app">Crealo</a>, currently freelance.
         <br>
         <br>
         #JS(ES6), #TS, #Rust, #Python, #R, #Bash, #C++, ...
@@ -13,6 +13,3 @@
 </p>
 
 <img src="https://github.com/TomPlanche/TomPlanche/raw/main/gifPerso.gif" width="100%" />
-
-
-
