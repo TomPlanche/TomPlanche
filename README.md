@@ -1,12 +1,11 @@
 <p align="center" style="width: 50%;">
     <samp>
-        Hello there. I'm <a href="http://tomplanche.github.io/">Tom Planche</a>.<br>
-        CS engineer @ <a href="https://cnam.fr/">CNAM</a> Paris, worked @ <a href="http://crealo.app">Crealo</a>, currently freelance.
+        Hello there. I'm <a href="http://tomplanche.com/">Tom Planche</a>.<br>
+        CS engineer @ <a href="https://cnam.fr/">CNAM</a> Paris, worked @ <a href="http://crealo.app">Crealo</a>, currently looking for apprenticeship.
         <br>
         <br>
-        #JS(ES6), #TS, #Rust, #Python, #R, #Bash, #C++, ...
+        #[J|T]S, #Rust, #Python, #R, #Bash, #C++, ...
         <br>
-        #JetBrains, #Postman, #Arc
     </samp>
     <br>
     <br>
