@@ -9,8 +9,8 @@
         #[J|T]S, #Rust, #Python, #R, #Bash, #C++, ...
         <br>
     </samp>
-    <br>
-    <br>
 </p>
 
-<img src="https://github.com/TomPlanche/TomPlanche/raw/main/gifPerso.gif" width="100%" />
+<div align="center" style="width: 50%;">
+  <img title="Plane drawn by Nora Gabillé using lithography" src="https://api.tomplanche.com/static/avion-blanc-nora.png" width="10%" />
+</div>
