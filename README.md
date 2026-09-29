@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [JACK & SALLY - Surprise](https://www.last.fm/music/Surprise/_/JACK+&+SALLY) · 29/09 09:01 · x133
-- [Les yeux, le reste - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Les+yeux,+le+reste) · 29/09 08:53 · x382
-- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 29/09 04:38 · x0
-- [I Love You - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You) · 29/09 04:33 · x13
-- [Marianne - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/Marianne) · 29/09 04:28 · x0
-- [Burning (Vibe Mix) - MK](https://www.last.fm/music/MK/_/Burning+(Vibe+Mix)) · 29/09 04:24 · x0
-- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 29/09 04:17 · x0
-- [I Love You - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You) · 29/09 04:12 · x13
-- [Karaba - Noir Lotus](https://www.last.fm/music/Noir+Lotus/_/Karaba) · 29/09 00:32 · x9
-- [What's the Use? - Mac Miller](https://www.last.fm/music/Mac+Miller/_/What%27s+the+Use%3F) · 29/09 00:29 · x17
+- [JACK & SALLY - Surprise](https://www.last.fm/music/Surprise/_/JACK+&+SALLY) · 29/09 09:01 · x274
+- [Les yeux, le reste - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Les+yeux,+le+reste) · 29/09 08:53 · x791
+- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 29/09 04:38 · x77
+- [I Love You - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You) · 29/09 04:33 · x41
+- [Marianne - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/Marianne) · 29/09 04:28 · x8
+- [Burning (Vibe Mix) - MK](https://www.last.fm/music/MK/_/Burning+(Vibe+Mix)) · 29/09 04:24 · x8
+- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 29/09 04:17 · x77
+- [I Love You - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You) · 29/09 04:12 · x41
+- [Karaba - Noir Lotus](https://www.last.fm/music/Noir+Lotus/_/Karaba) · 29/09 00:32 · x20
+- [What's the Use? - Mac Miller](https://www.last.fm/music/Mac+Miller/_/What%27s+the+Use%3F) · 29/09 00:29 · x40
 
 </details>
 <!-- LASTFM:END -->
