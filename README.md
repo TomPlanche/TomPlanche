@@ -14,3 +14,6 @@
 <div align="center" style="width: 50%;">
   <img title="Plane drawn by Nora Gabillé using lithography" src="https://api.tomplanche.com/static/avion-blanc-nora.png" width="10%" />
 </div>
+
+<!-- LASTFM:START -->
+<!-- LASTFM:END -->
