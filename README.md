@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [N D A - Ptite Soeur & neophron](https://www.last.fm/music/Ptite+Soeur+&+neophron/_/N+D+A) · 30/09 02:11 · x3
 - [JULIO & SA GOGO DANSEUSE | A COLORS SHOW - Krisy](https://www.last.fm/music/Krisy/_/JULIO+&+SA+GOGO+DANSEUSE+%7C+A+COLORS+SHOW) · 29/09 17:11 · x3843
 - [JACK & SALLY - Surprise](https://www.last.fm/music/Surprise/_/JACK+&+SALLY) · 29/09 09:01 · x274
 - [Les yeux, le reste - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Les+yeux,+le+reste) · 29/09 08:53 · x791
@@ -28,7 +29,6 @@
 - [Burning (Vibe Mix) - MK](https://www.last.fm/music/MK/_/Burning+(Vibe+Mix)) · 29/09 04:24 · x8
 - [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 29/09 04:17 · x77
 - [I Love You - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You) · 29/09 04:12 · x41
-- [Karaba - Noir Lotus](https://www.last.fm/music/Noir+Lotus/_/Karaba) · 29/09 00:32 · x20
 
 </details>
 <!-- LASTFM:END -->
