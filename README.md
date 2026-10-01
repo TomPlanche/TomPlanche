@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Aurevoir - Tengo John](https://www.last.fm/music/Tengo+John/_/Aurevoir) · 01/10 02:27 · x230
+- [Breathe - The Prodigy](https://www.last.fm/music/The+Prodigy/_/Breathe) · 01/10 02:24 · x81
+- [6 O'clock - Bu$hi](https://www.last.fm/music/Bu$hi/_/6+O%27clock) · 01/10 02:19 · x294
+- [06 Insomnie - Népal](https://www.last.fm/music/N%C3%A9pal/_/06+Insomnie) · 01/10 02:17 · x335
+- [La clé des champs - NTO](https://www.last.fm/music/NTO/_/La+cl%C3%A9+des+champs) · 01/10 02:13 · x128
+- [For the Damaged Coda - Blonde Redhead](https://www.last.fm/music/Blonde+Redhead/_/For+the+Damaged+Coda) · 01/10 02:06 · x68
+- [San - Orelsan](https://www.last.fm/music/Orelsan/_/San) · 01/10 02:03 · x62
 - [J'oublie tout - Jul](https://www.last.fm/music/Jul/_/J%27oublie+tout) · 01/10 01:59 · x14
 - [Astrosyn (My House Is Your House) - Montini Experience](https://www.last.fm/music/Montini+Experience/_/Astrosyn+(My+House+Is+Your+House)) · 01/10 01:54 · x8
 - [Western Eyes - Portishead, Nick Ingman & Orchestra](https://www.last.fm/music/Portishead,+Nick+Ingman+&+Orchestra/_/Western+Eyes) · 01/10 01:47 · x216
-- [Les corbeaux - Madeline](https://www.last.fm/music/Madeline/_/Les+corbeaux) · 01/10 01:41 · x222
-- [Drip Advisor - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Drip+Advisor) · 01/10 01:37 · x46
-- [RUSH - Jeshi](https://www.last.fm/music/Jeshi/_/RUSH) · 30/09 08:51 · x563
-- [Ça donne pas envie - Surprise](https://www.last.fm/music/Surprise/_/%C3%87a+donne+pas+envie) · 30/09 08:42 · x106
-- [Rolling Credits (Her Future) - muddymamba](https://www.last.fm/music/muddymamba/_/Rolling+Credits+(Her+Future)) · 30/09 08:39 · x344
-- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 30/09 04:07 · x83
-- [L'averse (Vendredi) - Flavien Berger & La Brume](https://www.last.fm/music/Flavien+Berger+&+La+Brume/_/L%27averse+(Vendredi)) · 30/09 04:02 · x687
 
 </details>
 <!-- LASTFM:END -->
