@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Carbon (feat. Amnezzia) - IRKO](https://www.last.fm/music/IRKO/_/Carbon+(feat.+Amnezzia)) · 01/10 18:27 · x267
+- [Hello .RAW-Z - Laylow](https://www.last.fm/music/Laylow/_/Hello+.RAW-Z) · 01/10 18:20 · x872
 - [Barbade - Lacrim](https://www.last.fm/music/Lacrim/_/Barbade) · 01/10 12:45 · x81
 - [L'aérogramme de Los Angeles - Woodkid](https://www.last.fm/music/Woodkid/_/L%27a%C3%A9rogramme+de+Los+Angeles) · 01/10 12:41 · x44
 - [Strange Weather - Anna Calvi](https://www.last.fm/music/Anna+Calvi/_/Strange+Weather) · 01/10 12:41 · x64
@@ -27,8 +29,6 @@
 - [Journey Among Worlds - Niklas Paschburg](https://www.last.fm/music/Niklas+Paschburg/_/Journey+Among+Worlds) · 01/10 12:35 · x51
 - [L'enfant Seul - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+Seul) · 01/10 12:28 · x111
 - [Ceibo - Viruks](https://www.last.fm/music/Viruks/_/Ceibo) · 01/10 12:23 · x11
-- [Echos - Erykah Badu](https://www.last.fm/music/Erykah+Badu/_/Echos) · 01/10 12:23 · x11
-- [I Just Play A Part - Erykah Badu](https://www.last.fm/music/Erykah+Badu/_/I+Just+Play+A+Part) · 01/10 12:20 · x18
 
 </details>
 <!-- LASTFM:END -->
