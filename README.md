@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [L'enfant Seul - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+Seul) · 01/10 12:28 · x111
+- [Ceibo - Viruks](https://www.last.fm/music/Viruks/_/Ceibo) · 01/10 12:23 · x11
+- [Echos - Erykah Badu](https://www.last.fm/music/Erykah+Badu/_/Echos) · 01/10 12:23 · x11
+- [I Just Play A Part - Erykah Badu](https://www.last.fm/music/Erykah+Badu/_/I+Just+Play+A+Part) · 01/10 12:20 · x18
+- [Dis-moi que tu m'aimes - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes) · 01/10 12:15 · x31
+- [Coming Home - Robbie Doherty](https://www.last.fm/music/Robbie+Doherty/_/Coming+Home) · 01/10 12:13 · x35
+- [Intergalactic - Gigsta](https://www.last.fm/music/Gigsta/_/Intergalactic) · 01/10 12:11 · x2
 - [L'averse (Vendredi) - Flavien Berger & La Brume](https://www.last.fm/music/Flavien+Berger+&+La+Brume/_/L%27averse+(Vendredi)) · 01/10 04:44 · x698
 - [La dispute (Portrait Version) - Yann Tiersen](https://www.last.fm/music/Yann+Tiersen/_/La+dispute+(Portrait+Version)) · 01/10 04:39 · x1615
 - [Hometown Glory - Adele](https://www.last.fm/music/Adele/_/Hometown+Glory) · 01/10 04:37 · x1948
-- [L'enfant seul (Remasterisé) - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+seul+(Remasteris%C3%A9)) · 01/10 04:33 · x728
-- [Les yeux, le reste - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Les+yeux,+le+reste) · 01/10 04:28 · x800
-- [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 01/10 04:25 · x2341
-- [Pyramid Song - Radiohead](https://www.last.fm/music/Radiohead/_/Pyramid+Song) · 01/10 04:21 · x1164
-- [L'averse (Vendredi) - Flavien Berger & La Brume](https://www.last.fm/music/Flavien+Berger+&+La+Brume/_/L%27averse+(Vendredi)) · 01/10 04:16 · x698
-- [La dispute (Portrait Version) - Yann Tiersen](https://www.last.fm/music/Yann+Tiersen/_/La+dispute+(Portrait+Version)) · 01/10 04:12 · x1615
-- [Hometown Glory - Adele](https://www.last.fm/music/Adele/_/Hometown+Glory) · 01/10 04:09 · x1948
 
 </details>
 <!-- LASTFM:END -->
