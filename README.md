@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [L'enfant seul (Remasterisé) - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+seul+(Remasteris%C3%A9)) · 01/10 03:28 · x722
+- [Creep (Best Live Performance) - Radiohead](https://www.last.fm/music/Radiohead/_/Creep+(Best+Live+Performance)) · 01/10 03:23 · x2812
 - [Journey Among Worlds - Niklas Paschburg](https://www.last.fm/music/Niklas+Paschburg/_/Journey+Among+Worlds) · 01/10 02:44 · x50
 - [2080 - malik djoudi](https://www.last.fm/music/malik+djoudi/_/2080) · 01/10 02:39 · x12
 - [\_\_\_\_\_\_\_\_\_ Rock \_\_\_ (2/3) - C'typeencostume](https://www.last.fm/music/C%27typeencostume/_/_________+Rock+___+(2%2F3)) · 01/10 02:35 · x83
@@ -27,8 +29,6 @@
 - [Breathe - The Prodigy](https://www.last.fm/music/The+Prodigy/_/Breathe) · 01/10 02:24 · x81
 - [6 O'clock - Bu$hi](https://www.last.fm/music/Bu$hi/_/6+O%27clock) · 01/10 02:19 · x294
 - [06 Insomnie - Népal](https://www.last.fm/music/N%C3%A9pal/_/06+Insomnie) · 01/10 02:17 · x335
-- [La clé des champs - NTO](https://www.last.fm/music/NTO/_/La+cl%C3%A9+des+champs) · 01/10 02:13 · x128
-- [For the Damaged Coda - Blonde Redhead](https://www.last.fm/music/Blonde+Redhead/_/For+the+Damaged+Coda) · 01/10 02:06 · x68
 
 </details>
 <!-- LASTFM:END -->
