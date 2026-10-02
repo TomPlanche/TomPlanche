@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Seule - Iliona](https://www.last.fm/music/Iliona/_/Seule) · 02/10 04:56 · x188
+- [Mille Vagues - Feu! Chatterton](https://www.last.fm/music/Feu!+Chatterton/_/Mille+Vagues) · 02/10 04:51 · x248
+- [Les yeux, le reste - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Les+yeux,+le+reste) · 02/10 04:51 · x801
+- [Contre-Temps - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Contre-Temps) · 02/10 04:48 · x307
+- [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 02/10 04:44 · x959
+- [La Chanson des Vieux Amants - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/La+Chanson+des+Vieux+Amants) · 02/10 04:39 · x3205
+- [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 02/10 04:35 · x2342
 - [Braquage à l'africaine ,Pt. 5 (feat. Kalash Criminel & Freeze Corleone) - Sazamyzy](https://www.last.fm/music/Sazamyzy/_/Braquage+%C3%A0+l%27africaine+,Pt.+5+(feat.+Kalash+Criminel+&+Freeze+Corleone)) · 02/10 02:01 · x27
 - [Polaire - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Polaire) · 02/10 01:58 · x183
 - [07 Kodak White - Népal](https://www.last.fm/music/N%C3%A9pal/_/07+Kodak+White) · 02/10 01:55 · x48
-- [Theme from Love Story - Henry Mancini](https://www.last.fm/music/Henry+Mancini/_/Theme+from+Love+Story) · 02/10 01:41 · x292
-- [le rêve de paul - Lucien Kimono](https://www.last.fm/music/Lucien+Kimono/_/le+r%C3%AAve+de+paul) · 02/10 01:38 · x112
-- [Voyager - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Voyager) · 02/10 01:36 · x479
-- [La dispute (Portrait Version) - Yann Tiersen](https://www.last.fm/music/Yann+Tiersen/_/La+dispute+(Portrait+Version)) · 02/10 01:09 · x1616
-- [La bohème - Charles Aznavour](https://www.last.fm/music/Charles+Aznavour/_/La+boh%C3%A8me) · 02/10 00:51 · x805
-- [Détail (feat. Alpha Wann) - Captaine Roshi](https://www.last.fm/music/Captaine+Roshi/_/D%C3%A9tail+(feat.+Alpha+Wann)) · 02/10 00:21 · x72
-- [When the Sun Goes Down - Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys/_/When+the+Sun+Goes+Down) · 01/10 18:31 · x164
 
 </details>
 <!-- LASTFM:END -->
