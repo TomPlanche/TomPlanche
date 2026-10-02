@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Theme from Love Story - Henry Mancini](https://www.last.fm/music/Henry+Mancini/_/Theme+from+Love+Story) · 02/10 01:41 · x292
+- [le rêve de paul - Lucien Kimono](https://www.last.fm/music/Lucien+Kimono/_/le+r%C3%AAve+de+paul) · 02/10 01:38 · x112
+- [Voyager - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Voyager) · 02/10 01:36 · x479
+- [La dispute (Portrait Version) - Yann Tiersen](https://www.last.fm/music/Yann+Tiersen/_/La+dispute+(Portrait+Version)) · 02/10 01:09 · x1616
+- [La bohème - Charles Aznavour](https://www.last.fm/music/Charles+Aznavour/_/La+boh%C3%A8me) · 02/10 00:51 · x805
+- [Détail (feat. Alpha Wann) - Captaine Roshi](https://www.last.fm/music/Captaine+Roshi/_/D%C3%A9tail+(feat.+Alpha+Wann)) · 02/10 00:21 · x72
 - [When the Sun Goes Down - Arctic Monkeys](https://www.last.fm/music/Arctic+Monkeys/_/When+the+Sun+Goes+Down) · 01/10 18:31 · x164
 - [Carbon (feat. Amnezzia) - IRKO](https://www.last.fm/music/IRKO/_/Carbon+(feat.+Amnezzia)) · 01/10 18:27 · x267
 - [Hello .RAW-Z - Laylow](https://www.last.fm/music/Laylow/_/Hello+.RAW-Z) · 01/10 18:20 · x872
 - [Barbade - Lacrim](https://www.last.fm/music/Lacrim/_/Barbade) · 01/10 12:45 · x81
-- [L'aérogramme de Los Angeles - Woodkid](https://www.last.fm/music/Woodkid/_/L%27a%C3%A9rogramme+de+Los+Angeles) · 01/10 12:41 · x44
-- [Strange Weather - Anna Calvi](https://www.last.fm/music/Anna+Calvi/_/Strange+Weather) · 01/10 12:41 · x64
-- [Cours, cours, et cours encore... - Tim Dup](https://www.last.fm/music/Tim+Dup/_/Cours,+cours,+et+cours+encore...) · 01/10 12:37 · x79
-- [Arp - Contrefacon](https://www.last.fm/music/Contrefacon/_/Arp) · 01/10 12:35 · x52
-- [Journey Among Worlds - Niklas Paschburg](https://www.last.fm/music/Niklas+Paschburg/_/Journey+Among+Worlds) · 01/10 12:35 · x51
-- [L'enfant Seul - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+Seul) · 01/10 12:28 · x111
 
 </details>
 <!-- LASTFM:END -->
