@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Heart to Heart - Mac DeMarco](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart) · 02/10 05:03 · x685
+- [Iris - Chloé Antoniotti](https://www.last.fm/music/Chlo%C3%A9+Antoniotti/_/Iris) · 02/10 05:00 · x997
 - [Seule - Iliona](https://www.last.fm/music/Iliona/_/Seule) · 02/10 04:56 · x188
 - [Mille Vagues - Feu! Chatterton](https://www.last.fm/music/Feu!+Chatterton/_/Mille+Vagues) · 02/10 04:51 · x248
 - [Les yeux, le reste - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Les+yeux,+le+reste) · 02/10 04:51 · x801
@@ -27,8 +29,6 @@
 - [La Chanson des Vieux Amants - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/La+Chanson+des+Vieux+Amants) · 02/10 04:39 · x3205
 - [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 02/10 04:35 · x2342
 - [Braquage à l'africaine ,Pt. 5 (feat. Kalash Criminel & Freeze Corleone) - Sazamyzy](https://www.last.fm/music/Sazamyzy/_/Braquage+%C3%A0+l%27africaine+,Pt.+5+(feat.+Kalash+Criminel+&+Freeze+Corleone)) · 02/10 02:01 · x27
-- [Polaire - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Polaire) · 02/10 01:58 · x183
-- [07 Kodak White - Népal](https://www.last.fm/music/N%C3%A9pal/_/07+Kodak+White) · 02/10 01:55 · x48
 
 </details>
 <!-- LASTFM:END -->
