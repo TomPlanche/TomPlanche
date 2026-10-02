@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Vanille - Josman](https://www.last.fm/music/Josman/_/Vanille) · 02/10 12:28 · x54
+- [perdue - philonille](https://www.last.fm/music/philonille/_/perdue) · 02/10 12:25 · x194
+- [Flûtes recyclables - ISHA, Caballero & JeanJass & Limsa D'aulnay](https://www.last.fm/music/ISHA,+Caballero+&+JeanJass+&+Limsa+D%27aulnay/_/Fl%C3%BBtes+recyclables) · 02/10 12:21 · x21
+- [Berkane (feat. Nemir) - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Berkane+(feat.+Nemir)) · 02/10 12:09 · x129
+- [EBEB! - Wantché](https://www.last.fm/music/Wantch%C3%A9/_/EBEB!) · 02/10 11:56 · x18
+- [More Than A Mountain - Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake/_/More+Than+A+Mountain) · 02/10 11:54 · x52
 - [C ma shit, Pt. 2 (feat. Simala, Abel31 & Recklessboise) - Realo](https://www.last.fm/music/Realo/_/C+ma+shit,+Pt.+2+(feat.+Simala,+Abel31+&+Recklessboise)) · 02/10 11:15 · x224
 - [Heart to Heart - Mac DeMarco](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart) · 02/10 05:03 · x685
 - [Iris - Chloé Antoniotti](https://www.last.fm/music/Chlo%C3%A9+Antoniotti/_/Iris) · 02/10 05:00 · x997
 - [Seule - Iliona](https://www.last.fm/music/Iliona/_/Seule) · 02/10 04:56 · x188
-- [Mille Vagues - Feu! Chatterton](https://www.last.fm/music/Feu!+Chatterton/_/Mille+Vagues) · 02/10 04:51 · x248
-- [Les yeux, le reste - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Les+yeux,+le+reste) · 02/10 04:51 · x801
-- [Contre-Temps - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Contre-Temps) · 02/10 04:48 · x307
-- [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 02/10 04:44 · x959
-- [La Chanson des Vieux Amants - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/La+Chanson+des+Vieux+Amants) · 02/10 04:39 · x3205
-- [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 02/10 04:35 · x2342
 
 </details>
 <!-- LASTFM:END -->
