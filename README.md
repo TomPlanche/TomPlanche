@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [C ma shit, Pt. 2 (feat. Simala, Abel31 & Recklessboise) - Realo](https://www.last.fm/music/Realo/_/C+ma+shit,+Pt.+2+(feat.+Simala,+Abel31+&+Recklessboise)) · 02/10 11:15 · x224
 - [Heart to Heart - Mac DeMarco](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart) · 02/10 05:03 · x685
 - [Iris - Chloé Antoniotti](https://www.last.fm/music/Chlo%C3%A9+Antoniotti/_/Iris) · 02/10 05:00 · x997
 - [Seule - Iliona](https://www.last.fm/music/Iliona/_/Seule) · 02/10 04:56 · x188
@@ -28,7 +29,6 @@
 - [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 02/10 04:44 · x959
 - [La Chanson des Vieux Amants - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/La+Chanson+des+Vieux+Amants) · 02/10 04:39 · x3205
 - [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 02/10 04:35 · x2342
-- [Braquage à l'africaine ,Pt. 5 (feat. Kalash Criminel & Freeze Corleone) - Sazamyzy](https://www.last.fm/music/Sazamyzy/_/Braquage+%C3%A0+l%27africaine+,Pt.+5+(feat.+Kalash+Criminel+&+Freeze+Corleone)) · 02/10 02:01 · x27
 
 </details>
 <!-- LASTFM:END -->
