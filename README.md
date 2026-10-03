@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [The Final Frontier (The Groove) - Logic](https://www.last.fm/music/Logic/_/The+Final+Frontier+(The+Groove)) · 03/10 12:09 · x1
-- [La dispute (Portrait Version) - Yann Tiersen](https://www.last.fm/music/Yann+Tiersen/_/La+dispute+(Portrait+Version)) · 03/10 02:47 · x1619
-- [Skyfall - Adele](https://www.last.fm/music/Adele/_/Skyfall) · 03/10 02:45 · x1166
-- [Requiem KV 626: Lacrimosa - Barbara Scherler, Elly Ameling, Louis Devos, Michel Corboz & Orchestra of the Gulbenkian Foundation](https://www.last.fm/music/Barbara+Scherler,+Elly+Ameling,+Louis+Devos,+Michel+Corboz+&+Orchestra+of+the+Gulbenkian+Foundation/_/Requiem+KV+626:+Lacrimosa) · 03/10 02:40 · x1436
-- [30 Hours - Kanye West](https://www.last.fm/music/Kanye+West/_/30+Hours) · 03/10 02:36 · x1291
-- [Lacrimosa - Requiem em ré menor (K. 626) - W.A Mozart - Braulino Lansac](https://www.last.fm/music/Braulino+Lansac/_/Lacrimosa+-+Requiem+em+r%C3%A9+menor+(K.+626)+-+W.A+Mozart) · 03/10 02:31 · x2952
-- [Where is my mind - Maxence Cyrin](https://www.last.fm/music/Maxence+Cyrin/_/Where+is+my+mind) · 03/10 02:27 · x2267
-- [Hometown Glory - Adele](https://www.last.fm/music/Adele/_/Hometown+Glory) · 03/10 02:24 · x1953
-- [Amsterdam (Live Olympia 1964) - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/Amsterdam+(Live+Olympia+1964)) · 03/10 02:20 · x1433
-- [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 03/10 02:17 · x2348
+- [The Final Frontier (The Groove) - Logic](https://www.last.fm/music/Logic/_/The+Final+Frontier+(The+Groove)) · 03/10 16:16 · x2
+- [Femme fatale - LOOPGARDEN](https://www.last.fm/music/LOOPGARDEN/_/Femme+fatale) · 03/10 15:01 · x19
+- [New Hares (Same Shit) - Josman](https://www.last.fm/music/Josman/_/New+Hares+(Same+Shit)) · 03/10 14:59 · x43
+- [CORTÈGE - Infinit'](https://www.last.fm/music/Infinit%27/_/CORT%C3%88GE) · 03/10 14:56 · x10
+- [Happiness Is A Warm Gun (2018 Mix) - The Beatles](https://www.last.fm/music/The+Beatles/_/Happiness+Is+A+Warm+Gun+(2018+Mix)) · 03/10 14:54 · x9
+- [Niki's Rhapsody / Tenderly - Marius de Vries](https://www.last.fm/music/Marius+de+Vries/_/Niki%27s+Rhapsody+%2F+Tenderly) · 03/10 14:52 · x17
+- [Matière Noire - Eléonore Moreaux](https://www.last.fm/music/El%C3%A9onore+Moreaux/_/Mati%C3%A8re+Noire) · 03/10 14:49 · x3
+- [Time (Clock of the Heart) - Culture Club](https://www.last.fm/music/Culture+Club/_/Time+(Clock+of+the+Heart)) · 03/10 14:45 · x9
+- [You Got Me Thinking - Lewis Taylor](https://www.last.fm/music/Lewis+Taylor/_/You+Got+Me+Thinking) · 03/10 14:42 · x1
+- [Whoever - Lewis Taylor](https://www.last.fm/music/Lewis+Taylor/_/Whoever) · 03/10 14:37 · x1
 
 </details>
 <!-- LASTFM:END -->
