@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [The Final Frontier (The Groove) - Logic](https://www.last.fm/music/Logic/_/The+Final+Frontier+(The+Groove)) · 03/10 12:09 · x1
 - [La dispute (Portrait Version) - Yann Tiersen](https://www.last.fm/music/Yann+Tiersen/_/La+dispute+(Portrait+Version)) · 03/10 02:47 · x1619
 - [Skyfall - Adele](https://www.last.fm/music/Adele/_/Skyfall) · 03/10 02:45 · x1166
 - [Requiem KV 626: Lacrimosa - Barbara Scherler, Elly Ameling, Louis Devos, Michel Corboz & Orchestra of the Gulbenkian Foundation](https://www.last.fm/music/Barbara+Scherler,+Elly+Ameling,+Louis+Devos,+Michel+Corboz+&+Orchestra+of+the+Gulbenkian+Foundation/_/Requiem+KV+626:+Lacrimosa) · 03/10 02:40 · x1436
@@ -28,7 +29,6 @@
 - [Hometown Glory - Adele](https://www.last.fm/music/Adele/_/Hometown+Glory) · 03/10 02:24 · x1953
 - [Amsterdam (Live Olympia 1964) - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/Amsterdam+(Live+Olympia+1964)) · 03/10 02:20 · x1433
 - [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 03/10 02:17 · x2348
-- [Ne me quitte pas - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/Ne+me+quitte+pas) · 03/10 02:12 · x1832
 
 </details>
 <!-- LASTFM:END -->
