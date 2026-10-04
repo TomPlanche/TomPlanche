@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [We Are Your Friends (Justice Vs Simian) - Simian & Justice](https://www.last.fm/music/Simian+&+Justice/_/We+Are+Your+Friends+(Justice+Vs+Simian)) · 04/10 02:16 · x30
+- [Lose Yourself To Dance - Daft Punk & Pharrell Williams](https://www.last.fm/music/Daft+Punk+&+Pharrell+Williams/_/Lose+Yourself+To+Dance) · 04/10 02:12 · x88
+- [Petit cœur - 13 Block](https://www.last.fm/music/13+Block/_/Petit+c%C5%93ur) · 04/10 02:06 · x47
+- [BUTTERFLY EFFECT - Travis Scott](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT) · 04/10 02:02 · x52
 - [MAISON DE CAMPAGNE - Gemen](https://www.last.fm/music/Gemen/_/MAISON+DE+CAMPAGNE) · 04/10 01:58 · x93
 - [Porcelain (2006 Remaster) - Moby](https://www.last.fm/music/Moby/_/Porcelain+(2006+Remaster)) · 04/10 01:57 · x62
 - [Everybody - Logic](https://www.last.fm/music/Logic/_/Everybody) · 04/10 01:53 · x112
 - [I Drink Wine - Adele](https://www.last.fm/music/Adele/_/I+Drink+Wine) · 04/10 01:51 · x29
 - [Morning Bell / Amnesiac - Radiohead](https://www.last.fm/music/Radiohead/_/Morning+Bell+%2F+Amnesiac) · 04/10 01:44 · x43
 - [STUNTMEN (feat. Alpha Wann & Wit.) - Laylow](https://www.last.fm/music/Laylow/_/STUNTMEN+(feat.+Alpha+Wann+&+Wit.)) · 04/10 01:41 · x149
-- [Easy Tiger - Depeche Mode](https://www.last.fm/music/Depeche+Mode/_/Easy+Tiger) · 04/10 01:38 · x120
-- [Rich Spirit - Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar/_/Rich+Spirit) · 04/10 01:36 · x29
-- [Sahaary - Meyem](https://www.last.fm/music/Meyem/_/Sahaary) · 04/10 01:32 · x16
-- [Almost Blue - Chet Baker](https://www.last.fm/music/Chet+Baker/_/Almost+Blue) · 04/10 01:26 · x305
 
 </details>
 <!-- LASTFM:END -->
