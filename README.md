@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [MAISON DE CAMPAGNE - Gemen](https://www.last.fm/music/Gemen/_/MAISON+DE+CAMPAGNE) · 04/10 01:58 · x93
+- [Porcelain (2006 Remaster) - Moby](https://www.last.fm/music/Moby/_/Porcelain+(2006+Remaster)) · 04/10 01:57 · x62
+- [Everybody - Logic](https://www.last.fm/music/Logic/_/Everybody) · 04/10 01:53 · x112
+- [I Drink Wine - Adele](https://www.last.fm/music/Adele/_/I+Drink+Wine) · 04/10 01:51 · x29
+- [Morning Bell / Amnesiac - Radiohead](https://www.last.fm/music/Radiohead/_/Morning+Bell+%2F+Amnesiac) · 04/10 01:44 · x43
+- [STUNTMEN (feat. Alpha Wann & Wit.) - Laylow](https://www.last.fm/music/Laylow/_/STUNTMEN+(feat.+Alpha+Wann+&+Wit.)) · 04/10 01:41 · x149
+- [Easy Tiger - Depeche Mode](https://www.last.fm/music/Depeche+Mode/_/Easy+Tiger) · 04/10 01:38 · x120
+- [Rich Spirit - Kendrick Lamar](https://www.last.fm/music/Kendrick+Lamar/_/Rich+Spirit) · 04/10 01:36 · x29
+- [Sahaary - Meyem](https://www.last.fm/music/Meyem/_/Sahaary) · 04/10 01:32 · x16
 - [Almost Blue - Chet Baker](https://www.last.fm/music/Chet+Baker/_/Almost+Blue) · 04/10 01:26 · x305
-- [Bunker - Sopico](https://www.last.fm/music/Sopico/_/Bunker) · 04/10 01:18 · x59
-- [In the sheets - IzzaMuzzic](https://www.last.fm/music/IzzaMuzzic/_/In+the+sheets) · 04/10 01:16 · x119
-- [Gettin' Rich (feat. Mike Dece, Denzel Curry, Sdotbraddy & Speak) - CALEB\_STONE](https://www.last.fm/music/CALEB_STONE/_/Gettin%27+Rich+(feat.+Mike+Dece,+Denzel+Curry,+Sdotbraddy+&+Speak)) · 04/10 01:12 · x11
-- [Çinekop - Yeet Bey, Bilen & Mauricesax](https://www.last.fm/music/Yeet+Bey,+Bilen+&+Mauricesax/_/%C3%87inekop) · 04/10 01:08 · x2
-- [Nwaar - Siboy](https://www.last.fm/music/Siboy/_/Nwaar) · 04/10 01:05 · x51
-- [MICKEY (feat. Offset & Lil Baby) - Lil Yachty](https://www.last.fm/music/Lil+Yachty/_/MICKEY+(feat.+Offset+&+Lil+Baby)) · 04/10 01:03 · x37
-- [The Final Frontier (The Groove) - Logic](https://www.last.fm/music/Logic/_/The+Final+Frontier+(The+Groove)) · 03/10 16:16 · x2
-- [Femme fatale - LOOPGARDEN](https://www.last.fm/music/LOOPGARDEN/_/Femme+fatale) · 03/10 15:01 · x19
-- [New Hares (Same Shit) - Josman](https://www.last.fm/music/Josman/_/New+Hares+(Same+Shit)) · 03/10 14:59 · x43
 
 </details>
 <!-- LASTFM:END -->
