@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [We Are Your Friends (Justice Vs Simian) - Simian & Justice](https://www.last.fm/music/Simian+&+Justice/_/We+Are+Your+Friends+(Justice+Vs+Simian)) · 04/10 02:16 · x30
-- [Lose Yourself To Dance - Daft Punk & Pharrell Williams](https://www.last.fm/music/Daft+Punk+&+Pharrell+Williams/_/Lose+Yourself+To+Dance) · 04/10 02:12 · x88
-- [Petit cœur - 13 Block](https://www.last.fm/music/13+Block/_/Petit+c%C5%93ur) · 04/10 02:06 · x47
-- [BUTTERFLY EFFECT - Travis Scott](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT) · 04/10 02:02 · x52
-- [MAISON DE CAMPAGNE - Gemen](https://www.last.fm/music/Gemen/_/MAISON+DE+CAMPAGNE) · 04/10 01:58 · x93
-- [Porcelain (2006 Remaster) - Moby](https://www.last.fm/music/Moby/_/Porcelain+(2006+Remaster)) · 04/10 01:57 · x62
-- [Everybody - Logic](https://www.last.fm/music/Logic/_/Everybody) · 04/10 01:53 · x112
-- [I Drink Wine - Adele](https://www.last.fm/music/Adele/_/I+Drink+Wine) · 04/10 01:51 · x29
-- [Morning Bell / Amnesiac - Radiohead](https://www.last.fm/music/Radiohead/_/Morning+Bell+%2F+Amnesiac) · 04/10 01:44 · x43
-- [STUNTMEN (feat. Alpha Wann & Wit.) - Laylow](https://www.last.fm/music/Laylow/_/STUNTMEN+(feat.+Alpha+Wann+&+Wit.)) · 04/10 01:41 · x149
+- [Rien d'Spécial #LaxVision - Népal](https://www.last.fm/music/N%C3%A9pal/_/Rien+d%27Sp%C3%A9cial+%23LaxVision) · 05/10 00:25 · x1829
+- [Slalom - L'or du commun](https://www.last.fm/music/L%27or+du+commun/_/Slalom) · 05/10 00:20 · x41
+- [No Time to Die - Billie Eilish](https://www.last.fm/music/Billie+Eilish/_/No+Time+to+Die) · 05/10 00:15 · x73
+- [Murder On My Mind - YNW Melly](https://www.last.fm/music/YNW+Melly/_/Murder+On+My+Mind) · 05/10 00:11 · x33
+- [Venom - Ghostemane](https://www.last.fm/music/Ghostemane/_/Venom) · 05/10 00:07 · x29
+- [9mm - Brutalismus 3000](https://www.last.fm/music/Brutalismus+3000/_/9mm) · 05/10 00:05 · x72
+- [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep) · 05/10 00:01 · x40
+- [Le cœur Y Est - Hugo (TSR)](https://www.last.fm/music/Hugo+(TSR)/_/Le+c%C5%93ur+Y+Est) · 04/10 23:57 · x75
+- [The Lonely One - Nat King Cole](https://www.last.fm/music/Nat+King+Cole/_/The+Lonely+One) · 04/10 23:48 · x362
+- [Tard le soir - ISHA & Limsa d'Aulnay](https://www.last.fm/music/ISHA+&+Limsa+d%27Aulnay/_/Tard+le+soir) · 04/10 23:45 · x24
 
 </details>
 <!-- LASTFM:END -->
