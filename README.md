@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Valse de Melody - Serge Gainsbourg](https://www.last.fm/music/Serge+Gainsbourg/_/Valse+de+Melody) · 07/10 01:26 · x27
+- [Impérial - Luka](https://www.last.fm/music/Luka/_/Imp%C3%A9rial) · 07/10 01:24 · x53
+- [Brain Stew - Green Day](https://www.last.fm/music/Green+Day/_/Brain+Stew) · 07/10 01:20 · x192
+- [Motivé (Bonus Track) - JeanJass](https://www.last.fm/music/JeanJass/_/Motiv%C3%A9+(Bonus+Track)) · 07/10 01:17 · x51
+- [Excuse moi (feat. Gab) - Coelho](https://www.last.fm/music/Coelho/_/Excuse+moi+(feat.+Gab)) · 07/10 01:13 · x158
+- [AMG Performance - Dinos & Lossapardo](https://www.last.fm/music/Dinos+&+Lossapardo/_/AMG+Performance) · 07/10 01:10 · x48
+- [Cyan Hardcore - Machine Girl](https://www.last.fm/music/Machine+Girl/_/Cyan+Hardcore) · 07/10 01:02 · x30
 - [Rien d'Spécial #LaxVision - Népal](https://www.last.fm/music/N%C3%A9pal/_/Rien+d%27Sp%C3%A9cial+%23LaxVision) · 05/10 00:25 · x1829
 - [Slalom - L'or du commun](https://www.last.fm/music/L%27or+du+commun/_/Slalom) · 05/10 00:20 · x41
 - [No Time to Die - Billie Eilish](https://www.last.fm/music/Billie+Eilish/_/No+Time+to+Die) · 05/10 00:15 · x73
-- [Murder On My Mind - YNW Melly](https://www.last.fm/music/YNW+Melly/_/Murder+On+My+Mind) · 05/10 00:11 · x33
-- [Venom - Ghostemane](https://www.last.fm/music/Ghostemane/_/Venom) · 05/10 00:07 · x29
-- [9mm - Brutalismus 3000](https://www.last.fm/music/Brutalismus+3000/_/9mm) · 05/10 00:05 · x72
-- [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep) · 05/10 00:01 · x40
-- [Le cœur Y Est - Hugo (TSR)](https://www.last.fm/music/Hugo+(TSR)/_/Le+c%C5%93ur+Y+Est) · 04/10 23:57 · x75
-- [The Lonely One - Nat King Cole](https://www.last.fm/music/Nat+King+Cole/_/The+Lonely+One) · 04/10 23:48 · x362
-- [Tard le soir - ISHA & Limsa d'Aulnay](https://www.last.fm/music/ISHA+&+Limsa+d%27Aulnay/_/Tard+le+soir) · 04/10 23:45 · x24
 
 </details>
 <!-- LASTFM:END -->
