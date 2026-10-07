@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Coming Home - Robbie Doherty](https://www.last.fm/music/Robbie+Doherty/_/Coming+Home) · 07/10 15:27 · x42
+- [Pleine Lune - Walter Astral](https://www.last.fm/music/Walter+Astral/_/Pleine+Lune) · 07/10 15:21 · x28
+- [Marianne - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/Marianne) · 07/10 15:07 · x11
+- [Adieu (Rue de la Victoire) - Flavien Berger & La Brume](https://www.last.fm/music/Flavien+Berger+&+La+Brume/_/Adieu+(Rue+de+la+Victoire)) · 07/10 15:02 · x23
 - [Funky Shit - The Prodigy](https://www.last.fm/music/The+Prodigy/_/Funky+Shit) · 07/10 14:48 · x1
 - [Dis moi - Serane](https://www.last.fm/music/Serane/_/Dis+moi) · 07/10 14:43 · x4
-- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 07/10 14:40
+- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 07/10 14:40 · x1
 - [Self Care - Mac Miller](https://www.last.fm/music/Mac+Miller/_/Self+Care) · 07/10 08:52 · x48
 - [Low - Tuerie](https://www.last.fm/music/Tuerie/_/Low) · 07/10 08:47 · x37
 - [L'aérogramme de Los Angeles - Woodkid & Louis Garrel](https://www.last.fm/music/Woodkid+&+Louis+Garrel/_/L%27a%C3%A9rogramme+de+Los+Angeles) · 07/10 08:43 · x8
-- [While My Guitar Gently Weeps - Prince, Tom Petty, Jeff Lynne and Steve Winwood](https://www.last.fm/music/Prince,+Tom+Petty,+Jeff+Lynne+and+Steve+Winwood/_/While+My+Guitar+Gently+Weeps) · 07/10 08:39 · x27
-- [Runaway (feat. Pusha T) - Kanye West](https://www.last.fm/music/Kanye+West/_/Runaway+(feat.+Pusha+T)) · 07/10 08:33 · x78
-- [Couleur miroir - Hugo (TSR)](https://www.last.fm/music/Hugo+(TSR)/_/Couleur+miroir) · 07/10 08:24 · x16
-- [Billet de 100 - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Billet+de+100) · 07/10 08:21 · x64
 
 </details>
 <!-- LASTFM:END -->
