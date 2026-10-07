@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Z-machine (feat. .Wit) - Laylow](https://www.last.fm/music/Laylow/_/Z-machine+(feat.+.Wit)) · 07/10 02:59 · x452
+- [Love Song (After JE) - Max Richter](https://www.last.fm/music/Max+Richter/_/Love+Song+(After+JE)) · 07/10 02:56 · x25
+- [Too Long - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Too+Long) · 07/10 02:51 · x99
+- [Les aléas - Tom D.](https://www.last.fm/music/Tom+D./_/Les+al%C3%A9as) · 07/10 02:41 · x26
+- [Au Bout - Josman](https://www.last.fm/music/Josman/_/Au+Bout) · 07/10 02:38 · x58
+- [BLOODY PLM - Khali](https://www.last.fm/music/Khali/_/BLOODY+PLM) · 07/10 02:34 · x842
+- [You Could Feel the Sky - Boards of Canada](https://www.last.fm/music/Boards+of+Canada/_/You+Could+Feel+the+Sky) · 07/10 02:31 · x84
 - [Karaba - Noir Lotus](https://www.last.fm/music/Noir+Lotus/_/Karaba) · 07/10 02:26 · x21
 - [Batards - Koba LaD & Laylow](https://www.last.fm/music/Koba+LaD+&+Laylow/_/Batards) · 07/10 02:23 · x47
 - [Fukk Sleep (feat. FKA twigs) - A$AP Rocky](https://www.last.fm/music/A$AP+Rocky/_/Fukk+Sleep+(feat.+FKA+twigs)) · 07/10 02:21 · x133
-- [Femme de ménage - Mister V](https://www.last.fm/music/Mister+V/_/Femme+de+m%C3%A9nage) · 07/10 02:17 · x36
-- [layitallonme - COD](https://www.last.fm/music/COD/_/layitallonme) · 07/10 02:14 · x11
-- [C'est Pas Compliqué - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/C%27est+Pas+Compliqu%C3%A9) · 07/10 02:09 · x18
-- [Tout s'en va - Luv Resval](https://www.last.fm/music/Luv+Resval/_/Tout+s%27en+va) · 07/10 02:06 · x527
-- [Honest Mistake - Hohnen Ford](https://www.last.fm/music/Hohnen+Ford/_/Honest+Mistake) · 07/10 02:03 · x43
-- [Matière Noire - Eléonore Moreaux](https://www.last.fm/music/El%C3%A9onore+Moreaux/_/Mati%C3%A8re+Noire) · 07/10 01:59 · x4
-- [something will happen - Berlioz](https://www.last.fm/music/Berlioz/_/something+will+happen) · 07/10 01:55 · x40
 
 </details>
 <!-- LASTFM:END -->
