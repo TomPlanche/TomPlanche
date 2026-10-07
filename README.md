@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Crystal - abel31 & Luther](https://www.last.fm/music/abel31+&+Luther/_/Crystal) · 07/10 03:59 · x799
+- [2080 - malik djoudi](https://www.last.fm/music/malik+djoudi/_/2080) · 07/10 03:57 · x13
+- [大象 - 花伦](https://www.last.fm/music/%E8%8A%B1%E4%BC%A6/_/%E5%A4%A7%E8%B1%A1) · 07/10 03:53 · x6
+- [Hymne à l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024) - Céline Dion](https://www.last.fm/music/C%C3%A9line+Dion/_/Hymne+%C3%A0+l%27amour+(Live+aux+Jeux+Olympiques+de+Paris+2024+%2F+Live+from+the+Olympic+Games+Paris+2024)) · 07/10 03:49 · x302
+- [Insomnie - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/Insomnie) · 07/10 03:45 · x10
+- [Stretch 4 - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Stretch+4) · 07/10 03:42 · x92
+- [Niveau 1 - Népal](https://www.last.fm/music/N%C3%A9pal/_/Niveau+1) · 07/10 03:36 · x96
+- [Take Me to Church - Hozier](https://www.last.fm/music/Hozier/_/Take+Me+to+Church) · 07/10 03:34 · x287
+- [Paro Hour - Luciid](https://www.last.fm/music/Luciid/_/Paro+Hour) · 07/10 03:30 · x11
 - [Come Back to Earth - Mac Miller](https://www.last.fm/music/Mac+Miller/_/Come+Back+to+Earth) · 07/10 03:24 · x34
-- [01 Laisse Rouler - Népal](https://www.last.fm/music/N%C3%A9pal/_/01+Laisse+Rouler) · 07/10 03:21 · x64
-- [JACK & SALLY - Surprise](https://www.last.fm/music/Surprise/_/JACK+&+SALLY) · 07/10 03:18 · x277
-- [Incompris - Kalash Criminel](https://www.last.fm/music/Kalash+Criminel/_/Incompris) · 07/10 03:16 · x66
-- [soldat tue soldat-cd - Alpha Wann, Kaaris & Infinit'](https://www.last.fm/music/Alpha+Wann,+Kaaris+&+Infinit%27/_/soldat+tue+soldat-cd) · 07/10 03:12 · x61
-- [La cage - Hugo (TSR)](https://www.last.fm/music/Hugo+(TSR)/_/La+cage) · 07/10 03:09 · x19
-- [Mercutio - Sean](https://www.last.fm/music/Sean/_/Mercutio) · 07/10 03:06 · x193
-- [Love Courtney - Lord Esperanza](https://www.last.fm/music/Lord+Esperanza/_/Love+Courtney) · 07/10 03:02 · x33
-- [Z-machine (feat. .Wit) - Laylow](https://www.last.fm/music/Laylow/_/Z-machine+(feat.+.Wit)) · 07/10 02:59 · x453
-- [Love Song (After JE) - Max Richter](https://www.last.fm/music/Max+Richter/_/Love+Song+(After+JE)) · 07/10 02:56 · x25
 
 </details>
 <!-- LASTFM:END -->
