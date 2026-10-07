@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [TrinityVille - Laylow](https://www.last.fm/music/Laylow/_/TrinityVille) · 07/10 06:57 · x186
+- [Gypsy Jazz - "Minor Swing" - Rhythm Future Quartet - magicfiddle](https://www.last.fm/music/magicfiddle/_/Gypsy+Jazz+-+%22Minor+Swing%22+-+Rhythm+Future+Quartet) · 07/10 06:54 · x243
+- [Tous les mêmes - Stromae](https://www.last.fm/music/Stromae/_/Tous+les+m%C3%AAmes) · 07/10 06:47 · x132
+- [November - Max Richter, BBC Philharmonic & Rumon Gamba](https://www.last.fm/music/Max+Richter,+BBC+Philharmonic+&+Rumon+Gamba/_/November) · 07/10 06:43 · x398
+- [Dinero - GLGV](https://www.last.fm/music/GLGV/_/Dinero) · 07/10 06:37 · x64
+- [Bethleem - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Bethleem) · 07/10 06:33 · x47
+- [My System (C4STL3 edit) - C4STL3](https://www.last.fm/music/C4STL3/_/My+System+(C4STL3+edit)) · 07/10 06:31 · x60
 - [See No B Man - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/See+No+B+Man) · 07/10 06:26 · x33
 - [Colette - Isha](https://www.last.fm/music/Isha/_/Colette) · 07/10 06:20 · x114
 - [La hauteur de la lune (feat. Vanessa Paradis) - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/La+hauteur+de+la+lune+(feat.+Vanessa+Paradis)) · 07/10 06:17 · x2
-- [Waltz in C-Sharp Minor, Op. 64 No. 2 - Yuja Wang](https://www.last.fm/music/Yuja+Wang/_/Waltz+in+C-Sharp+Minor,+Op.+64+No.+2) · 07/10 06:15 · x236
-- [Burning (Vibe Mix) - MK](https://www.last.fm/music/MK/_/Burning+(Vibe+Mix)) · 07/10 06:11 · x10
-- [Abso skit - Caballero & JeanJass & Absolem](https://www.last.fm/music/Caballero+&+JeanJass+&+Absolem/_/Abso+skit) · 07/10 06:05 · x25
-- [Celadon - Phairo](https://www.last.fm/music/Phairo/_/Celadon) · 07/10 06:03 · x29
-- [Hungarian Rhapsody - Michel Simone](https://www.last.fm/music/Michel+Simone/_/Hungarian+Rhapsody) · 07/10 05:59 · x88
-- [Asalto - Jul](https://www.last.fm/music/Jul/_/Asalto) · 07/10 05:49 · x12
-- [Intro - The xx](https://www.last.fm/music/The+xx/_/Intro) · 07/10 05:45 · x53
 
 </details>
 <!-- LASTFM:END -->
