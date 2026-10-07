@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Z-machine (feat. .Wit) - Laylow](https://www.last.fm/music/Laylow/_/Z-machine+(feat.+.Wit)) · 07/10 02:59 · x452
+- [Come Back to Earth - Mac Miller](https://www.last.fm/music/Mac+Miller/_/Come+Back+to+Earth) · 07/10 03:24 · x34
+- [01 Laisse Rouler - Népal](https://www.last.fm/music/N%C3%A9pal/_/01+Laisse+Rouler) · 07/10 03:21 · x64
+- [JACK & SALLY - Surprise](https://www.last.fm/music/Surprise/_/JACK+&+SALLY) · 07/10 03:18 · x277
+- [Incompris - Kalash Criminel](https://www.last.fm/music/Kalash+Criminel/_/Incompris) · 07/10 03:16 · x66
+- [soldat tue soldat-cd - Alpha Wann, Kaaris & Infinit'](https://www.last.fm/music/Alpha+Wann,+Kaaris+&+Infinit%27/_/soldat+tue+soldat-cd) · 07/10 03:12 · x61
+- [La cage - Hugo (TSR)](https://www.last.fm/music/Hugo+(TSR)/_/La+cage) · 07/10 03:09 · x19
+- [Mercutio - Sean](https://www.last.fm/music/Sean/_/Mercutio) · 07/10 03:06 · x193
+- [Love Courtney - Lord Esperanza](https://www.last.fm/music/Lord+Esperanza/_/Love+Courtney) · 07/10 03:02 · x33
+- [Z-machine (feat. .Wit) - Laylow](https://www.last.fm/music/Laylow/_/Z-machine+(feat.+.Wit)) · 07/10 02:59 · x453
 - [Love Song (After JE) - Max Richter](https://www.last.fm/music/Max+Richter/_/Love+Song+(After+JE)) · 07/10 02:56 · x25
-- [Too Long - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Too+Long) · 07/10 02:51 · x99
-- [Les aléas - Tom D.](https://www.last.fm/music/Tom+D./_/Les+al%C3%A9as) · 07/10 02:41 · x26
-- [Au Bout - Josman](https://www.last.fm/music/Josman/_/Au+Bout) · 07/10 02:38 · x58
-- [BLOODY PLM - Khali](https://www.last.fm/music/Khali/_/BLOODY+PLM) · 07/10 02:34 · x842
-- [You Could Feel the Sky - Boards of Canada](https://www.last.fm/music/Boards+of+Canada/_/You+Could+Feel+the+Sky) · 07/10 02:31 · x84
-- [Karaba - Noir Lotus](https://www.last.fm/music/Noir+Lotus/_/Karaba) · 07/10 02:26 · x21
-- [Batards - Koba LaD & Laylow](https://www.last.fm/music/Koba+LaD+&+Laylow/_/Batards) · 07/10 02:23 · x47
-- [Fukk Sleep (feat. FKA twigs) - A$AP Rocky](https://www.last.fm/music/A$AP+Rocky/_/Fukk+Sleep+(feat.+FKA+twigs)) · 07/10 02:21 · x133
 
 </details>
 <!-- LASTFM:END -->
