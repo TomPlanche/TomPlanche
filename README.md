@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Karaba - Noir Lotus](https://www.last.fm/music/Noir+Lotus/_/Karaba) · 07/10 02:26 · x21
+- [Batards - Koba LaD & Laylow](https://www.last.fm/music/Koba+LaD+&+Laylow/_/Batards) · 07/10 02:23 · x47
+- [Fukk Sleep (feat. FKA twigs) - A$AP Rocky](https://www.last.fm/music/A$AP+Rocky/_/Fukk+Sleep+(feat.+FKA+twigs)) · 07/10 02:21 · x133
+- [Femme de ménage - Mister V](https://www.last.fm/music/Mister+V/_/Femme+de+m%C3%A9nage) · 07/10 02:17 · x36
+- [layitallonme - COD](https://www.last.fm/music/COD/_/layitallonme) · 07/10 02:14 · x11
+- [C'est Pas Compliqué - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/C%27est+Pas+Compliqu%C3%A9) · 07/10 02:09 · x18
+- [Tout s'en va - Luv Resval](https://www.last.fm/music/Luv+Resval/_/Tout+s%27en+va) · 07/10 02:06 · x527
+- [Honest Mistake - Hohnen Ford](https://www.last.fm/music/Hohnen+Ford/_/Honest+Mistake) · 07/10 02:03 · x43
 - [Matière Noire - Eléonore Moreaux](https://www.last.fm/music/El%C3%A9onore+Moreaux/_/Mati%C3%A8re+Noire) · 07/10 01:59 · x4
 - [something will happen - Berlioz](https://www.last.fm/music/Berlioz/_/something+will+happen) · 07/10 01:55 · x40
-- [Suga Suga ft. Doums - Népal](https://www.last.fm/music/N%C3%A9pal/_/Suga+Suga+ft.+Doums) · 07/10 01:52 · x34
-- [Wonderbra - MC Solaar](https://www.last.fm/music/MC+Solaar/_/Wonderbra) · 07/10 01:48 · x70
-- [Big Pharma - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Big+Pharma) · 07/10 01:44 · x49
-- [Praise God - Kanye West](https://www.last.fm/music/Kanye+West/_/Praise+God) · 07/10 01:41 · x85
-- [L'été Indien - Joe Dassin](https://www.last.fm/music/Joe+Dassin/_/L%27%C3%A9t%C3%A9+Indien) · 07/10 01:37 · x1075
-- [Keyboard Song - Arthur](https://www.last.fm/music/Arthur/_/Keyboard+Song) · 07/10 01:32 · x449
-- [One Beer - MF DOOM](https://www.last.fm/music/MF+DOOM/_/One+Beer) · 07/10 01:30 · x13
-- [Valse de Melody - Serge Gainsbourg](https://www.last.fm/music/Serge+Gainsbourg/_/Valse+de+Melody) · 07/10 01:26 · x27
 
 </details>
 <!-- LASTFM:END -->
