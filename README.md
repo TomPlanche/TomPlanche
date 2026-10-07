@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Rituel (feat. Sirius) - Vald](https://www.last.fm/music/Vald/_/Rituel+(feat.+Sirius)) · 07/10 04:27 · x55
+- [New Hares (Same Shit) - Josman](https://www.last.fm/music/Josman/_/New+Hares+(Same+Shit)) · 07/10 04:23 · x44
+- [aaa-cd - Alpha Wann & Nekfeu](https://www.last.fm/music/Alpha+Wann+&+Nekfeu/_/aaa-cd) · 07/10 04:20 · x124
+- [Le générique - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Le+g%C3%A9n%C3%A9rique) · 07/10 04:17 · x45
+- [Aïe aïe aïe (feat. Caballero & JeanJass) - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/A%C3%AFe+a%C3%AFe+a%C3%AFe+(feat.+Caballero+&+JeanJass)) · 07/10 04:13 · x241
+- [LE PASSÉ - yvnnis & lilchick](https://www.last.fm/music/yvnnis+&+lilchick/_/LE+PASS%C3%89) · 07/10 04:10 · x174
+- [Tel Quel - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/Tel+Quel) · 07/10 04:06 · x116
+- [Nice - Krisy](https://www.last.fm/music/Krisy/_/Nice) · 07/10 04:03 · x89
 - [Crystal - abel31 & Luther](https://www.last.fm/music/abel31+&+Luther/_/Crystal) · 07/10 03:59 · x799
 - [2080 - malik djoudi](https://www.last.fm/music/malik+djoudi/_/2080) · 07/10 03:57 · x13
-- [大象 - 花伦](https://www.last.fm/music/%E8%8A%B1%E4%BC%A6/_/%E5%A4%A7%E8%B1%A1) · 07/10 03:53 · x6
-- [Hymne à l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024) - Céline Dion](https://www.last.fm/music/C%C3%A9line+Dion/_/Hymne+%C3%A0+l%27amour+(Live+aux+Jeux+Olympiques+de+Paris+2024+%2F+Live+from+the+Olympic+Games+Paris+2024)) · 07/10 03:49 · x302
-- [Insomnie - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/Insomnie) · 07/10 03:45 · x10
-- [Stretch 4 - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Stretch+4) · 07/10 03:42 · x92
-- [Niveau 1 - Népal](https://www.last.fm/music/N%C3%A9pal/_/Niveau+1) · 07/10 03:36 · x96
-- [Take Me to Church - Hozier](https://www.last.fm/music/Hozier/_/Take+Me+to+Church) · 07/10 03:34 · x287
-- [Paro Hour - Luciid](https://www.last.fm/music/Luciid/_/Paro+Hour) · 07/10 03:30 · x11
-- [Come Back to Earth - Mac Miller](https://www.last.fm/music/Mac+Miller/_/Come+Back+to+Earth) · 07/10 03:24 · x34
 
 </details>
 <!-- LASTFM:END -->
