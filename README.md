@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Falling (ihatemodels set) - Digitalism](https://www.last.fm/music/Digitalism/_/Falling+(ihatemodels+set)) · 07/10 05:27 · x121
+- [Bleu sous-marin - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Bleu+sous-marin) · 07/10 05:23 · x82
+- [KILL YOURSELF, PT. III - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF,+PT.+III) · 07/10 05:16 · x61
+- [figures from another time - moon-li 历](https://www.last.fm/music/moon-li+%E5%8E%86/_/figures+from+another+time) · 07/10 05:14 · x16
+- [Newjack - Justice](https://www.last.fm/music/Justice/_/Newjack) · 07/10 05:10 · x15
+- [Work (Prod. Cashflow) - K.A.A.N](https://www.last.fm/music/K.A.A.N/_/Work+(Prod.+Cashflow)) · 07/10 05:07 · x116
+- [Cléopâtre - Mairo, JeanJass & Haile Supreme](https://www.last.fm/music/Mairo,+JeanJass+&+Haile+Supreme/_/Cl%C3%A9op%C3%A2tre) · 07/10 05:04 · x161
+- [Then I have You - Mark-Almond](https://www.last.fm/music/Mark-Almond/_/Then+I+have+You) · 07/10 05:01 · x56
 - [LRH - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/LRH) · 07/10 04:55 · x73
 - [Dans le fond - Népal](https://www.last.fm/music/N%C3%A9pal/_/Dans+le+fond) · 07/10 04:51 · x37
-- [L'appart vide - Suzane](https://www.last.fm/music/Suzane/_/L%27appart+vide) · 07/10 04:49 · x663
-- [Arcade - Kaiydo](https://www.last.fm/music/Kaiydo/_/Arcade) · 07/10 04:45 · x19
-- [Do Not Disturb - Drake](https://www.last.fm/music/Drake/_/Do+Not+Disturb) · 07/10 04:41 · x55
-- [180 - Rkomi](https://www.last.fm/music/Rkomi/_/180) · 07/10 04:37 · x94
-- [MARCH 4 EIGHT (feat. Maxwell Hunter, Nick Lamb, Jack Siegel, Jordan Donald, Leo Varella & Emry Mesich) - Johnathan Hulett](https://www.last.fm/music/Johnathan+Hulett/_/MARCH+4+EIGHT+(feat.+Maxwell+Hunter,+Nick+Lamb,+Jack+Siegel,+Jordan+Donald,+Leo+Varella+&+Emry+Mesich)) · 07/10 04:34 · x95
-- [Rituel (feat. Sirius) - Vald](https://www.last.fm/music/Vald/_/Rituel+(feat.+Sirius)) · 07/10 04:27 · x55
-- [New Hares (Same Shit) - Josman](https://www.last.fm/music/Josman/_/New+Hares+(Same+Shit)) · 07/10 04:23 · x44
-- [aaa-cd - Alpha Wann & Nekfeu](https://www.last.fm/music/Alpha+Wann+&+Nekfeu/_/aaa-cd) · 07/10 04:20 · x124
 
 </details>
 <!-- LASTFM:END -->
