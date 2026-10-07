@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Hungarian Rhapsody - Michel Simone](https://www.last.fm/music/Michel+Simone/_/Hungarian+Rhapsody) · 07/10 05:59 · x87
+- [See No B Man - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/See+No+B+Man) · 07/10 06:26 · x33
+- [Colette - Isha](https://www.last.fm/music/Isha/_/Colette) · 07/10 06:20 · x114
+- [La hauteur de la lune (feat. Vanessa Paradis) - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/La+hauteur+de+la+lune+(feat.+Vanessa+Paradis)) · 07/10 06:17 · x2
+- [Waltz in C-Sharp Minor, Op. 64 No. 2 - Yuja Wang](https://www.last.fm/music/Yuja+Wang/_/Waltz+in+C-Sharp+Minor,+Op.+64+No.+2) · 07/10 06:15 · x236
+- [Burning (Vibe Mix) - MK](https://www.last.fm/music/MK/_/Burning+(Vibe+Mix)) · 07/10 06:11 · x10
+- [Abso skit - Caballero & JeanJass & Absolem](https://www.last.fm/music/Caballero+&+JeanJass+&+Absolem/_/Abso+skit) · 07/10 06:05 · x25
+- [Celadon - Phairo](https://www.last.fm/music/Phairo/_/Celadon) · 07/10 06:03 · x29
+- [Hungarian Rhapsody - Michel Simone](https://www.last.fm/music/Michel+Simone/_/Hungarian+Rhapsody) · 07/10 05:59 · x88
 - [Asalto - Jul](https://www.last.fm/music/Jul/_/Asalto) · 07/10 05:49 · x12
 - [Intro - The xx](https://www.last.fm/music/The+xx/_/Intro) · 07/10 05:45 · x53
-- [Millionaire (feat. Doums) - Népal](https://www.last.fm/music/N%C3%A9pal/_/Millionaire+(feat.+Doums)) · 07/10 05:43 · x44
-- [Sans toi - Cortex](https://www.last.fm/music/Cortex/_/Sans+toi) · 07/10 05:40 · x18
-- [OCEAN 2077 - NELICK](https://www.last.fm/music/NELICK/_/OCEAN+2077) · 07/10 05:34 · x167
-- [STORM - Cinty Fo](https://www.last.fm/music/Cinty+Fo/_/STORM) · 07/10 05:31 · x19
-- [Falling (ihatemodels set) - Digitalism](https://www.last.fm/music/Digitalism/_/Falling+(ihatemodels+set)) · 07/10 05:27 · x121
-- [Bleu sous-marin - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Bleu+sous-marin) · 07/10 05:23 · x82
-- [KILL YOURSELF, PT. III - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF,+PT.+III) · 07/10 05:16 · x61
 
 </details>
 <!-- LASTFM:END -->
