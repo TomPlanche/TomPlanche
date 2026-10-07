@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Mes Grands-parents - Orelsan](https://www.last.fm/music/Orelsan/_/Mes+Grands-parents) · 07/10 07:58 · x35
+- [The Rhythm Divine (feat. Shirley Bassey) - Yello](https://www.last.fm/music/Yello/_/The+Rhythm+Divine+(feat.+Shirley+Bassey)) · 07/10 07:56 · x14
+- [Grand bain - SCH](https://www.last.fm/music/SCH/_/Grand+bain) · 07/10 07:51 · x179
+- [Easy - Son Lux](https://www.last.fm/music/Son+Lux/_/Easy) · 07/10 07:48 · x44
+- [Borderline - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Borderline) · 07/10 07:44 · x51
+- [Parachute - Bu$hi](https://www.last.fm/music/Bu$hi/_/Parachute) · 07/10 07:40 · x287
+- [Rolando (Caught In The Rain) - DUSTY LOCANE](https://www.last.fm/music/DUSTY+LOCANE/_/Rolando+(Caught+In+The+Rain)) · 07/10 07:38 · x89
+- [I'm Old Fashioned - Chet Baker](https://www.last.fm/music/Chet+Baker/_/I%27m+Old+Fashioned) · 07/10 07:35 · x11
+- [HELP !!! - Laylow](https://www.last.fm/music/Laylow/_/HELP+!!!) · 07/10 07:30 · x85
 - [Hotel California - Eagles](https://www.last.fm/music/Eagles/_/Hotel+California) · 07/10 07:28 · x652
-- [It Never Entered My Mind - Chet Baker](https://www.last.fm/music/Chet+Baker/_/It+Never+Entered+My+Mind) · 07/10 07:22 · x20
-- [Une Cible, Une Flèche - NES](https://www.last.fm/music/NES/_/Une+Cible,+Une+Fle%CC%80che) · 07/10 07:17 · x425
-- [Karma Police - Radiohead](https://www.last.fm/music/Radiohead/_/Karma+Police) · 07/10 07:14 · x295
-- [Mains qui prient (feat. Akhenaton) - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Mains+qui+prient+(feat.+Akhenaton)) · 07/10 07:10 · x107
-- [Kim K (feat. Doums) - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/Kim+K+(feat.+Doums)) · 07/10 07:06 · x78
-- [Pistolet Rose - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/Pistolet+Rose) · 07/10 07:02 · x313
-- [Affamé #1 - Shook - Zamdane](https://www.last.fm/music/Zamdane/_/Affam%C3%A9+%231+-+Shook) · 07/10 07:00 · x29
-- [TrinityVille - Laylow](https://www.last.fm/music/Laylow/_/TrinityVille) · 07/10 06:57 · x186
-- [Gypsy Jazz - "Minor Swing" - Rhythm Future Quartet - magicfiddle](https://www.last.fm/music/magicfiddle/_/Gypsy+Jazz+-+%22Minor+Swing%22+-+Rhythm+Future+Quartet) · 07/10 06:54 · x243
 
 </details>
 <!-- LASTFM:END -->
