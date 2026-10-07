@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Hotel California - Eagles](https://www.last.fm/music/Eagles/_/Hotel+California) · 07/10 07:28 · x652
+- [It Never Entered My Mind - Chet Baker](https://www.last.fm/music/Chet+Baker/_/It+Never+Entered+My+Mind) · 07/10 07:22 · x20
+- [Une Cible, Une Flèche - NES](https://www.last.fm/music/NES/_/Une+Cible,+Une+Fle%CC%80che) · 07/10 07:17 · x425
+- [Karma Police - Radiohead](https://www.last.fm/music/Radiohead/_/Karma+Police) · 07/10 07:14 · x295
+- [Mains qui prient (feat. Akhenaton) - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Mains+qui+prient+(feat.+Akhenaton)) · 07/10 07:10 · x107
+- [Kim K (feat. Doums) - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/Kim+K+(feat.+Doums)) · 07/10 07:06 · x78
+- [Pistolet Rose - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/Pistolet+Rose) · 07/10 07:02 · x313
+- [Affamé #1 - Shook - Zamdane](https://www.last.fm/music/Zamdane/_/Affam%C3%A9+%231+-+Shook) · 07/10 07:00 · x29
 - [TrinityVille - Laylow](https://www.last.fm/music/Laylow/_/TrinityVille) · 07/10 06:57 · x186
 - [Gypsy Jazz - "Minor Swing" - Rhythm Future Quartet - magicfiddle](https://www.last.fm/music/magicfiddle/_/Gypsy+Jazz+-+%22Minor+Swing%22+-+Rhythm+Future+Quartet) · 07/10 06:54 · x243
-- [Tous les mêmes - Stromae](https://www.last.fm/music/Stromae/_/Tous+les+m%C3%AAmes) · 07/10 06:47 · x132
-- [November - Max Richter, BBC Philharmonic & Rumon Gamba](https://www.last.fm/music/Max+Richter,+BBC+Philharmonic+&+Rumon+Gamba/_/November) · 07/10 06:43 · x398
-- [Dinero - GLGV](https://www.last.fm/music/GLGV/_/Dinero) · 07/10 06:37 · x64
-- [Bethleem - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Bethleem) · 07/10 06:33 · x47
-- [My System (C4STL3 edit) - C4STL3](https://www.last.fm/music/C4STL3/_/My+System+(C4STL3+edit)) · 07/10 06:31 · x60
-- [See No B Man - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/See+No+B+Man) · 07/10 06:26 · x33
-- [Colette - Isha](https://www.last.fm/music/Isha/_/Colette) · 07/10 06:20 · x114
-- [La hauteur de la lune (feat. Vanessa Paradis) - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/La+hauteur+de+la+lune+(feat.+Vanessa+Paradis)) · 07/10 06:17 · x2
 
 </details>
 <!-- LASTFM:END -->
