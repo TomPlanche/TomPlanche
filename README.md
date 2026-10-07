@@ -19,6 +19,9 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Funky Shit - The Prodigy](https://www.last.fm/music/The+Prodigy/_/Funky+Shit) · 07/10 14:48 · x1
+- [Dis moi - Serane](https://www.last.fm/music/Serane/_/Dis+moi) · 07/10 14:43 · x4
+- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 07/10 14:40
 - [Self Care - Mac Miller](https://www.last.fm/music/Mac+Miller/_/Self+Care) · 07/10 08:52 · x48
 - [Low - Tuerie](https://www.last.fm/music/Tuerie/_/Low) · 07/10 08:47 · x37
 - [L'aérogramme de Los Angeles - Woodkid & Louis Garrel](https://www.last.fm/music/Woodkid+&+Louis+Garrel/_/L%27a%C3%A9rogramme+de+Los+Angeles) · 07/10 08:43 · x8
@@ -26,9 +29,6 @@
 - [Runaway (feat. Pusha T) - Kanye West](https://www.last.fm/music/Kanye+West/_/Runaway+(feat.+Pusha+T)) · 07/10 08:33 · x78
 - [Couleur miroir - Hugo (TSR)](https://www.last.fm/music/Hugo+(TSR)/_/Couleur+miroir) · 07/10 08:24 · x16
 - [Billet de 100 - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Billet+de+100) · 07/10 08:21 · x64
-- [Lucy (feat. 2Fingz) - Lomepal](https://www.last.fm/music/Lomepal/_/Lucy+(feat.+2Fingz)) · 07/10 08:17 · x175
-- [VRAI FLEXEUR - Rowjay](https://www.last.fm/music/Rowjay/_/VRAI+FLEXEUR) · 07/10 08:13 · x90
-- [Danser que sur le shit - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Danser+que+sur+le+shit) · 07/10 08:10 · x87
 
 </details>
 <!-- LASTFM:END -->
