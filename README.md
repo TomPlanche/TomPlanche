@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Couleur miroir - Hugo (TSR)](https://www.last.fm/music/Hugo+(TSR)/_/Couleur+miroir) · 07/10 08:24 · x16
+- [Billet de 100 - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Billet+de+100) · 07/10 08:21 · x64
+- [Lucy (feat. 2Fingz) - Lomepal](https://www.last.fm/music/Lomepal/_/Lucy+(feat.+2Fingz)) · 07/10 08:17 · x175
+- [VRAI FLEXEUR - Rowjay](https://www.last.fm/music/Rowjay/_/VRAI+FLEXEUR) · 07/10 08:13 · x90
+- [Danser que sur le shit - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Danser+que+sur+le+shit) · 07/10 08:10 · x87
+- [CANADA - LeDouble](https://www.last.fm/music/LeDouble/_/CANADA) · 07/10 08:05 · x91
+- [Benji - Népal](https://www.last.fm/music/N%C3%A9pal/_/Benji) · 07/10 08:02 · x22
 - [Mes Grands-parents - Orelsan](https://www.last.fm/music/Orelsan/_/Mes+Grands-parents) · 07/10 07:58 · x35
 - [The Rhythm Divine (feat. Shirley Bassey) - Yello](https://www.last.fm/music/Yello/_/The+Rhythm+Divine+(feat.+Shirley+Bassey)) · 07/10 07:56 · x14
 - [Grand bain - SCH](https://www.last.fm/music/SCH/_/Grand+bain) · 07/10 07:51 · x179
-- [Easy - Son Lux](https://www.last.fm/music/Son+Lux/_/Easy) · 07/10 07:48 · x44
-- [Borderline - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Borderline) · 07/10 07:44 · x51
-- [Parachute - Bu$hi](https://www.last.fm/music/Bu$hi/_/Parachute) · 07/10 07:40 · x287
-- [Rolando (Caught In The Rain) - DUSTY LOCANE](https://www.last.fm/music/DUSTY+LOCANE/_/Rolando+(Caught+In+The+Rain)) · 07/10 07:38 · x89
-- [I'm Old Fashioned - Chet Baker](https://www.last.fm/music/Chet+Baker/_/I%27m+Old+Fashioned) · 07/10 07:35 · x11
-- [HELP !!! - Laylow](https://www.last.fm/music/Laylow/_/HELP+!!!) · 07/10 07:30 · x85
-- [Hotel California - Eagles](https://www.last.fm/music/Eagles/_/Hotel+California) · 07/10 07:28 · x652
 
 </details>
 <!-- LASTFM:END -->
