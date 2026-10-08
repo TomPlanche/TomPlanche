@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Dis moi - Serane](https://www.last.fm/music/Serane/_/Dis+moi) · 08/10 13:46 · x10
+- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 08/10 13:44 · x8
 - [Creep (Best Live Performance) - Radiohead](https://www.last.fm/music/Radiohead/_/Creep+(Best+Live+Performance)) · 08/10 04:08 · x2829
 - [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep) · 08/10 04:04 · x88
 - [Creep (Best Live Performance) - Radiohead](https://www.last.fm/music/Radiohead/_/Creep+(Best+Live+Performance)) · 08/10 04:00 · x2829
@@ -27,8 +29,6 @@
 - [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep) · 08/10 03:46 · x88
 - [Creep (Best Live Performance) - Radiohead](https://www.last.fm/music/Radiohead/_/Creep+(Best+Live+Performance)) · 08/10 03:42 · x2829
 - [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep) · 08/10 03:38 · x88
-- [Creep (Best Live Performance) - Radiohead](https://www.last.fm/music/Radiohead/_/Creep+(Best+Live+Performance)) · 08/10 03:34 · x2829
-- [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep) · 08/10 03:29 · x88
 
 </details>
 <!-- LASTFM:END -->
