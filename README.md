@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 09/10 18:46 · x9
 - [Roads - Portishead](https://www.last.fm/music/Portishead/_/Roads) · 09/10 04:24 · x78
 - [Glory Box - Portishead](https://www.last.fm/music/Portishead/_/Glory+Box) · 09/10 04:19 · x890
 - [Pedestal - Portishead](https://www.last.fm/music/Portishead/_/Pedestal) · 09/10 04:14 · x70
@@ -28,7 +29,6 @@
 - [Western Eyes - Portishead, Nick Ingman & Orchestra](https://www.last.fm/music/Portishead,+Nick+Ingman+&+Orchestra/_/Western+Eyes) · 09/10 03:56 · x220
 - [Wandering Star - Portishead](https://www.last.fm/music/Portishead/_/Wandering+Star) · 09/10 03:52 · x115
 - [Sheared Box - Portishead](https://www.last.fm/music/Portishead/_/Sheared+Box) · 09/10 03:48 · x29
-- [Sour Times - Portishead](https://www.last.fm/music/Portishead/_/Sour+Times) · 09/10 03:44 · x72
 
 </details>
 <!-- LASTFM:END -->
