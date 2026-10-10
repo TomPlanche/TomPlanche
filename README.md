@@ -19,7 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Funky Shit - The Prodigy](https://www.last.fm/music/The+Prodigy/_/Funky+Shit) · 10/10 15:57 · x14
+- [Funky Shit - The Prodigy](https://www.last.fm/music/The+Prodigy/_/Funky+Shit) · 10/10 15:57 · x15
 - [Dis moi - Serane](https://www.last.fm/music/Serane/_/Dis+moi) · 10/10 15:51 · x17
 - [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 10/10 15:49 · x10
 - [Solace - Seephar](https://www.last.fm/music/Seephar/_/Solace) · 10/10 15:44 · x1
