@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Hymne à l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024) - Céline Dion](https://www.last.fm/music/C%C3%A9line+Dion/_/Hymne+%C3%A0+l%27amour+(Live+aux+Jeux+Olympiques+de+Paris+2024+%2F+Live+from+the+Olympic+Games+Paris+2024)) · 10/10 02:19 · x307
 - [ANTARCTICA - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/ANTARCTICA) · 10/10 02:15 · x88
 - [ANTARCTICA - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/ANTARCTICA) · 10/10 02:13 · x88
 - [ANTARCTICA - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/ANTARCTICA) · 10/10 02:08 · x88
@@ -28,7 +29,6 @@
 - [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 10/10 01:56 · x89
 - [To Remember - Septemberistheonlytimeidontthinkofyou](https://www.last.fm/music/Septemberistheonlytimeidontthinkofyou/_/To+Remember) · 10/10 01:37 · x12
 - [Xerces - Deftones](https://www.last.fm/music/Deftones/_/Xerces) · 10/10 01:35 · x10
-- [Dis moi - Serane](https://www.last.fm/music/Serane/_/Dis+moi) · 10/10 01:26 · x14
 
 </details>
 <!-- LASTFM:END -->
