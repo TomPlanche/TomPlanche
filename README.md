@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Pleine Lune - Walter Astral](https://www.last.fm/music/Walter+Astral/_/Pleine+Lune) · 10/10 01:59 · x30
+- [ANTARCTICA - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/ANTARCTICA) · 10/10 02:15 · x88
+- [ANTARCTICA - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/ANTARCTICA) · 10/10 02:13 · x88
+- [ANTARCTICA - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/ANTARCTICA) · 10/10 02:08 · x88
+- [ANTARCTICA - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/ANTARCTICA) · 10/10 02:06 · x88
+- [ANTARCTICA - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/ANTARCTICA) · 10/10 02:04 · x88
+- [Pleine Lune - Walter Astral](https://www.last.fm/music/Walter+Astral/_/Pleine+Lune) · 10/10 01:59 · x31
 - [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 10/10 01:56 · x89
 - [To Remember - Septemberistheonlytimeidontthinkofyou](https://www.last.fm/music/Septemberistheonlytimeidontthinkofyou/_/To+Remember) · 10/10 01:37 · x12
 - [Xerces - Deftones](https://www.last.fm/music/Deftones/_/Xerces) · 10/10 01:35 · x10
 - [Dis moi - Serane](https://www.last.fm/music/Serane/_/Dis+moi) · 10/10 01:26 · x14
-- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 10/10 01:24 · x9
-- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 09/10 18:46 · x9
-- [Roads - Portishead](https://www.last.fm/music/Portishead/_/Roads) · 09/10 04:24 · x78
-- [Glory Box - Portishead](https://www.last.fm/music/Portishead/_/Glory+Box) · 09/10 04:19 · x890
-- [Pedestal - Portishead](https://www.last.fm/music/Portishead/_/Pedestal) · 09/10 04:14 · x70
 
 </details>
 <!-- LASTFM:END -->
