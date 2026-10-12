@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Everybody - Logic](https://www.last.fm/music/Logic/_/Everybody) · 13/10 00:27 · x119
+- [Take Me to Church - Hozier](https://www.last.fm/music/Hozier/_/Take+Me+to+Church) · 13/10 00:24 · x289
+- [Lester - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Lester) · 13/10 00:20 · x78
+- [No Time - Kevin Na$h](https://www.last.fm/music/Kevin+Na$h/_/No+Time) · 13/10 00:17 · x39
+- [Shade - IAMDDB](https://www.last.fm/music/IAMDDB/_/Shade) · 13/10 00:15 · x145
+- [Si tu dois - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/Si+tu+dois) · 13/10 00:12 · x4
+- [93 mesures - Dinos](https://www.last.fm/music/Dinos/_/93+mesures) · 13/10 00:09 · x91
+- [Symphony No. 3 in F Major, Op. 90: III. Un Poco Allegretto (Arranged for Two Pianos) - Rodolfo Llambias & Tove Lønskov](https://www.last.fm/music/Rodolfo+Llambias+&+Tove+L%C3%B8nskov/_/Symphony+No.+3+in+F+Major,+Op.+90:+III.+Un+Poco+Allegretto+(Arranged+for+Two+Pianos)) · 12/10 23:08 · x351
 - [Coming Home - Robbie Doherty](https://www.last.fm/music/Robbie+Doherty/_/Coming+Home) · 12/10 18:17 · x43
 - [Pleine Lune - Walter Astral](https://www.last.fm/music/Walter+Astral/_/Pleine+Lune) · 12/10 17:56 · x32
-- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 12/10 17:53 · x90
-- [Marianne - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/Marianne) · 12/10 13:06 · x12
-- [Xerces - Deftones](https://www.last.fm/music/Deftones/_/Xerces) · 12/10 13:02 · x11
-- [Joy Division - Charly Kid](https://www.last.fm/music/Charly+Kid/_/Joy+Division) · 10/10 17:55 · x181
-- [Keyboard Song - Arthur](https://www.last.fm/music/Arthur/_/Keyboard+Song) · 10/10 17:50 · x450
-- [A View From The Sky - Harrison](https://www.last.fm/music/Harrison/_/A+View+From+The+Sky) · 10/10 17:20 · x199
-- [SWAG - 8ruki](https://www.last.fm/music/8ruki/_/SWAG) · 10/10 17:16 · x179
-- [Faïences d'azur - Sköne](https://www.last.fm/music/Sk%C3%B6ne/_/Fa%C3%AFences+d%27azur) · 10/10 17:14 · x149
 
 </details>
 <!-- LASTFM:END -->
