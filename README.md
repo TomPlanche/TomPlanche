@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Coming Home - Robbie Doherty](https://www.last.fm/music/Robbie+Doherty/_/Coming+Home) · 12/10 18:17 · x43
+- [Pleine Lune - Walter Astral](https://www.last.fm/music/Walter+Astral/_/Pleine+Lune) · 12/10 17:56 · x32
+- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 12/10 17:53 · x90
+- [Marianne - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/Marianne) · 12/10 13:06 · x12
+- [Xerces - Deftones](https://www.last.fm/music/Deftones/_/Xerces) · 12/10 13:02 · x11
 - [Joy Division - Charly Kid](https://www.last.fm/music/Charly+Kid/_/Joy+Division) · 10/10 17:55 · x181
 - [Keyboard Song - Arthur](https://www.last.fm/music/Arthur/_/Keyboard+Song) · 10/10 17:50 · x450
 - [A View From The Sky - Harrison](https://www.last.fm/music/Harrison/_/A+View+From+The+Sky) · 10/10 17:20 · x199
 - [SWAG - 8ruki](https://www.last.fm/music/8ruki/_/SWAG) · 10/10 17:16 · x179
 - [Faïences d'azur - Sköne](https://www.last.fm/music/Sk%C3%B6ne/_/Fa%C3%AFences+d%27azur) · 10/10 17:14 · x149
-- [Funky Shit - The Prodigy](https://www.last.fm/music/The+Prodigy/_/Funky+Shit) · 10/10 15:57 · x15
-- [Dis moi - Serane](https://www.last.fm/music/Serane/_/Dis+moi) · 10/10 15:51 · x17
-- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 10/10 15:49 · x10
-- [Solace - Seephar](https://www.last.fm/music/Seephar/_/Solace) · 10/10 15:44 · x2
-- [Hymne à l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024) - Céline Dion](https://www.last.fm/music/C%C3%A9line+Dion/_/Hymne+%C3%A0+l%27amour+(Live+aux+Jeux+Olympiques+de+Paris+2024+%2F+Live+from+the+Olympic+Games+Paris+2024)) · 10/10 02:19 · x307
 
 </details>
 <!-- LASTFM:END -->
