@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [STEAM DECK OLED FREESTYLE - Rowjay](https://www.last.fm/music/Rowjay/_/STEAM+DECK+OLED+FREESTYLE) · 13/10 17:12 · x34
+- [Horse Tears - Goldfrapp](https://www.last.fm/music/Goldfrapp/_/Horse+Tears) · 13/10 17:09 · x255
 - [Television Rules the Nation / Crescendolls (Live) - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Television+Rules+the+Nation+%2F+Crescendolls+(Live)) · 13/10 08:57 · x3
 - [Dis moi - Serane](https://www.last.fm/music/Serane/_/Dis+moi) · 13/10 08:51 · x18
 - [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 13/10 08:49 · x11
@@ -27,8 +29,6 @@
 - [frenchman (freestyle Konbini) - Nusky](https://www.last.fm/music/Nusky/_/frenchman+(freestyle+Konbini)) · 13/10 01:33 · x31
 - [Omotesando - Népal](https://www.last.fm/music/N%C3%A9pal/_/Omotesando) · 13/10 01:30 · x211
 - [Letter to Andalous - Meryem Aboulouafa](https://www.last.fm/music/Meryem+Aboulouafa/_/Letter+to+Andalous) · 13/10 01:27 · x91
-- [Splash - Muddy Monk](https://www.last.fm/music/Muddy+Monk/_/Splash) · 13/10 01:22 · x26
-- [Enterrez-les - Kalash Criminel](https://www.last.fm/music/Kalash+Criminel/_/Enterrez-les) · 13/10 00:36 · x28
 
 </details>
 <!-- LASTFM:END -->
