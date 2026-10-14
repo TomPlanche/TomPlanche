@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [LAVEZZI - Hologram Lo' & LEDOUBLE](https://www.last.fm/music/Hologram+Lo%27+&+LEDOUBLE/_/LAVEZZI) · 14/10 12:26 · x1
+- [07 Kodak White - Népal](https://www.last.fm/music/N%C3%A9pal/_/07+Kodak+White) · 13/10 22:30 · x49
+- [The Look - Metronomy](https://www.last.fm/music/Metronomy/_/The+Look) · 13/10 22:26 · x586
+- [My Paradise - The Trip](https://www.last.fm/music/The+Trip/_/My+Paradise) · 13/10 22:22 · x67
+- [Berry - Youv Dee](https://www.last.fm/music/Youv+Dee/_/Berry) · 13/10 22:14 · x24
+- [Sourire - Moka Boka](https://www.last.fm/music/Moka+Boka/_/Sourire) · 13/10 21:55 · x64
+- [Processus - Rowjay](https://www.last.fm/music/Rowjay/_/Processus) · 13/10 17:33 · x45
 - [STEAM DECK OLED FREESTYLE - Rowjay](https://www.last.fm/music/Rowjay/_/STEAM+DECK+OLED+FREESTYLE) · 13/10 17:12 · x34
 - [Horse Tears - Goldfrapp](https://www.last.fm/music/Goldfrapp/_/Horse+Tears) · 13/10 17:09 · x255
 - [Television Rules the Nation / Crescendolls (Live) - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Television+Rules+the+Nation+%2F+Crescendolls+(Live)) · 13/10 08:57 · x3
-- [Dis moi - Serane](https://www.last.fm/music/Serane/_/Dis+moi) · 13/10 08:51 · x18
-- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 13/10 08:49 · x11
-- [Solace - Seephar](https://www.last.fm/music/Seephar/_/Solace) · 13/10 08:43 · x2
-- [Grandes études de Paganini, S. 141: No. 3 in G-Sharp Minor "La campanella" - Daniil Trifonov](https://www.last.fm/music/Daniil+Trifonov/_/Grandes+%C3%A9tudes+de+Paganini,+S.+141:+No.+3+in+G-Sharp+Minor+%22La+campanella%22) · 13/10 04:30 · x1
-- [frenchman (freestyle Konbini) - Nusky](https://www.last.fm/music/Nusky/_/frenchman+(freestyle+Konbini)) · 13/10 01:33 · x31
-- [Omotesando - Népal](https://www.last.fm/music/N%C3%A9pal/_/Omotesando) · 13/10 01:30 · x211
-- [Letter to Andalous - Meryem Aboulouafa](https://www.last.fm/music/Meryem+Aboulouafa/_/Letter+to+Andalous) · 13/10 01:27 · x91
 
 </details>
 <!-- LASTFM:END -->
