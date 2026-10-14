@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Solace - Seephar](https://www.last.fm/music/Seephar/_/Solace) · 14/10 12:30 · x7
-- [LAVEZZI - Hologram Lo' & LEDOUBLE](https://www.last.fm/music/Hologram+Lo%27+&+LEDOUBLE/_/LAVEZZI) · 14/10 12:26 · x1
-- [07 Kodak White - Népal](https://www.last.fm/music/N%C3%A9pal/_/07+Kodak+White) · 13/10 22:30 · x49
-- [The Look - Metronomy](https://www.last.fm/music/Metronomy/_/The+Look) · 13/10 22:26 · x586
-- [My Paradise - The Trip](https://www.last.fm/music/The+Trip/_/My+Paradise) · 13/10 22:22 · x67
-- [Berry - Youv Dee](https://www.last.fm/music/Youv+Dee/_/Berry) · 13/10 22:14 · x24
-- [Sourire - Moka Boka](https://www.last.fm/music/Moka+Boka/_/Sourire) · 13/10 21:55 · x64
-- [Processus - Rowjay](https://www.last.fm/music/Rowjay/_/Processus) · 13/10 17:33 · x45
-- [STEAM DECK OLED FREESTYLE - Rowjay](https://www.last.fm/music/Rowjay/_/STEAM+DECK+OLED+FREESTYLE) · 13/10 17:12 · x34
-- [Horse Tears - Goldfrapp](https://www.last.fm/music/Goldfrapp/_/Horse+Tears) · 13/10 17:09 · x255
+- [LAVEZZI - Hologram Lo' & LEDOUBLE](https://www.last.fm/music/Hologram+Lo%27+&+LEDOUBLE/_/LAVEZZI) · 14/10 23:04 · x2
+- [J'attends personne - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/J%27attends+personne) · 14/10 14:40 · x23
+- [04 - Skyclub (Diabi Remix) - Népal](https://www.last.fm/music/N%C3%A9pal/_/04+-+Skyclub+(Diabi+Remix)) · 14/10 14:36 · x33
+- [Courchevel (feat. KSA) - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/Courchevel+(feat.+KSA)) · 14/10 14:15 · x135
+- [Je la connais - SCH](https://www.last.fm/music/SCH/_/Je+la+connais) · 14/10 14:11 · x51
+- [AYA NAKAMURA\* - 8ruki](https://www.last.fm/music/8ruki/_/AYA+NAKAMURA*) · 14/10 14:05 · x254
+- [Blacklights - Koriass](https://www.last.fm/music/Koriass/_/Blacklights) · 14/10 13:52 · x515
+- [Tard le soir - ISHA & Limsa d'Aulnay](https://www.last.fm/music/ISHA+&+Limsa+d%27Aulnay/_/Tard+le+soir) · 14/10 13:39 · x25
+- [Femme fatale - LOOPGARDEN](https://www.last.fm/music/LOOPGARDEN/_/Femme+fatale) · 14/10 13:31 · x20
+- [Voyager - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Voyager) · 14/10 13:27 · x480
 
 </details>
 <!-- LASTFM:END -->
