@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Solace - Seephar](https://www.last.fm/music/Seephar/_/Solace) · 14/10 12:30 · x7
 - [LAVEZZI - Hologram Lo' & LEDOUBLE](https://www.last.fm/music/Hologram+Lo%27+&+LEDOUBLE/_/LAVEZZI) · 14/10 12:26 · x1
 - [07 Kodak White - Népal](https://www.last.fm/music/N%C3%A9pal/_/07+Kodak+White) · 13/10 22:30 · x49
 - [The Look - Metronomy](https://www.last.fm/music/Metronomy/_/The+Look) · 13/10 22:26 · x586
@@ -28,7 +29,6 @@
 - [Processus - Rowjay](https://www.last.fm/music/Rowjay/_/Processus) · 13/10 17:33 · x45
 - [STEAM DECK OLED FREESTYLE - Rowjay](https://www.last.fm/music/Rowjay/_/STEAM+DECK+OLED+FREESTYLE) · 13/10 17:12 · x34
 - [Horse Tears - Goldfrapp](https://www.last.fm/music/Goldfrapp/_/Horse+Tears) · 13/10 17:09 · x255
-- [Television Rules the Nation / Crescendolls (Live) - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Television+Rules+the+Nation+%2F+Crescendolls+(Live)) · 13/10 08:57 · x3
 
 </details>
 <!-- LASTFM:END -->
