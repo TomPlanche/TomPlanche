@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Compresses - NES](https://www.last.fm/music/NES/_/Compresses) · 16/10 01:13 · x895
+- [Chopin – Waltz in A minor, B. 150, Op. Posth. - Kassia](https://www.last.fm/music/Kassia/_/Chopin+%E2%80%93+Waltz+in+A+minor,+B.+150,+Op.+Posth.) · 16/10 01:11 · x140
 - [Chanson pour Abel - Superpoze & Blandine Rinkel](https://www.last.fm/music/Superpoze+&+Blandine+Rinkel/_/Chanson+pour+Abel) · 16/10 00:26 · x1
 - [La Seine (Extrait de la bande originale « Un monstre à Paris ») - Vanessa Paradis & M](https://www.last.fm/music/Vanessa+Paradis+&+M/_/La+Seine+(Extrait+de+la+bande+originale+%C2%AB+Un+monstre+%C3%A0+Paris+%C2%BB)) · 15/10 09:12 · x155
 - [silent clubbing moment - Charly Kid](https://www.last.fm/music/Charly+Kid/_/silent+clubbing+moment) · 15/10 09:06 · x61
@@ -27,8 +29,6 @@
 - [Intermezzo - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/Intermezzo) · 15/10 02:10 · x5
 - [The House of the Rising Sun - The Animals](https://www.last.fm/music/The+Animals/_/The+House+of+the+Rising+Sun) · 15/10 02:08 · x108
 - [La Rua Madureira - Nino Ferrer](https://www.last.fm/music/Nino+Ferrer/_/La+Rua+Madureira) · 15/10 02:04 · x244
-- [Julio & Sa Gogo Danseuse - Krisy](https://www.last.fm/music/Krisy/_/Julio+&+Sa+Gogo+Danseuse) · 15/10 02:01 · x89
-- [VAMONOS (feat. Alpha Wann) - Laylow](https://www.last.fm/music/Laylow/_/VAMONOS+(feat.+Alpha+Wann)) · 15/10 01:57 · x108
 
 </details>
 <!-- LASTFM:END -->
