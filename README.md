@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [What He Wrote - Laura Marling](https://www.last.fm/music/Laura+Marling/_/What+He+Wrote) · 15/10 08:52 · x754
 - [Intermezzo - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/Intermezzo) · 15/10 02:10 · x5
 - [The House of the Rising Sun - The Animals](https://www.last.fm/music/The+Animals/_/The+House+of+the+Rising+Sun) · 15/10 02:08 · x108
 - [La Rua Madureira - Nino Ferrer](https://www.last.fm/music/Nino+Ferrer/_/La+Rua+Madureira) · 15/10 02:04 · x244
@@ -28,7 +29,6 @@
 - [Bohemian Rhapsody - Queen](https://www.last.fm/music/Queen/_/Bohemian+Rhapsody) · 15/10 01:49 · x79
 - [Desire - Black Dracula](https://www.last.fm/music/Black+Dracula/_/Desire) · 15/10 01:43 · x12
 - [Night Drive - Part Time](https://www.last.fm/music/Part+Time/_/Night+Drive) · 15/10 01:38 · x4
-- [Only Love Can Break Your Heart (Masters at Work Mix) - Saint Etienne](https://www.last.fm/music/Saint+Etienne/_/Only+Love+Can+Break+Your+Heart+(Masters+at+Work+Mix)) · 15/10 01:34 · x12
 
 </details>
 <!-- LASTFM:END -->
