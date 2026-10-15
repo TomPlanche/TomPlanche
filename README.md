@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Devil May Cry - Rowjay & Alpha Wann](https://www.last.fm/music/Rowjay+&+Alpha+Wann/_/Devil+May+Cry) · 14/10 23:54 · x261
-- [BOY BYE - BROCKHAMPTON](https://www.last.fm/music/BROCKHAMPTON/_/BOY+BYE) · 14/10 23:52 · x84
-- [Bittersweet - Lewis Taylor](https://www.last.fm/music/Lewis+Taylor/_/Bittersweet) · 14/10 23:49 · x1
-- [Odyssée - Coelho](https://www.last.fm/music/Coelho/_/Odyss%C3%A9e) · 14/10 23:44 · x62
-- [ELON MUSK!! (J'suis dans l'anonymat) - 8ruki](https://www.last.fm/music/8ruki/_/ELON+MUSK!!+(J%27suis+dans+l%27anonymat)) · 14/10 23:38 · x145
-- [LAVEZZI - Hologram Lo' & LEDOUBLE](https://www.last.fm/music/Hologram+Lo%27+&+LEDOUBLE/_/LAVEZZI) · 14/10 23:04 · x2
-- [J'attends personne - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/J%27attends+personne) · 14/10 14:40 · x23
-- [04 - Skyclub (Diabi Remix) - Népal](https://www.last.fm/music/N%C3%A9pal/_/04+-+Skyclub+(Diabi+Remix)) · 14/10 14:36 · x33
-- [Courchevel (feat. KSA) - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/Courchevel+(feat.+KSA)) · 14/10 14:15 · x135
-- [Je la connais - SCH](https://www.last.fm/music/SCH/_/Je+la+connais) · 14/10 14:11 · x51
+- [Intermezzo - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/Intermezzo) · 15/10 02:10 · x5
+- [The House of the Rising Sun - The Animals](https://www.last.fm/music/The+Animals/_/The+House+of+the+Rising+Sun) · 15/10 02:08 · x108
+- [La Rua Madureira - Nino Ferrer](https://www.last.fm/music/Nino+Ferrer/_/La+Rua+Madureira) · 15/10 02:04 · x244
+- [Julio & Sa Gogo Danseuse - Krisy](https://www.last.fm/music/Krisy/_/Julio+&+Sa+Gogo+Danseuse) · 15/10 02:01 · x89
+- [VAMONOS (feat. Alpha Wann) - Laylow](https://www.last.fm/music/Laylow/_/VAMONOS+(feat.+Alpha+Wann)) · 15/10 01:57 · x108
+- [Chega de Saudade (Ao Vivo no Sesc) - João Gilberto](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Chega+de+Saudade+(Ao+Vivo+no+Sesc)) · 15/10 01:54 · x209
+- [Bohemian Rhapsody - Queen](https://www.last.fm/music/Queen/_/Bohemian+Rhapsody) · 15/10 01:49 · x79
+- [Desire - Black Dracula](https://www.last.fm/music/Black+Dracula/_/Desire) · 15/10 01:43 · x12
+- [Night Drive - Part Time](https://www.last.fm/music/Part+Time/_/Night+Drive) · 15/10 01:38 · x4
+- [Only Love Can Break Your Heart (Masters at Work Mix) - Saint Etienne](https://www.last.fm/music/Saint+Etienne/_/Only+Love+Can+Break+Your+Heart+(Masters+at+Work+Mix)) · 15/10 01:34 · x12
 
 </details>
 <!-- LASTFM:END -->
