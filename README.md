@@ -19,6 +19,9 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Does The Swallow Dream Of Flying - Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake/_/Does+The+Swallow+Dream+Of+Flying) · 16/10 04:27 · x1326
+- [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 16/10 04:23 · x960
+- [Aveux - Château Forte](https://www.last.fm/music/Ch%C3%A2teau+Forte/_/Aveux) · 16/10 04:15 · x635
 - [Compresses - NES](https://www.last.fm/music/NES/_/Compresses) · 16/10 01:13 · x895
 - [Chopin – Waltz in A minor, B. 150, Op. Posth. - Kassia](https://www.last.fm/music/Kassia/_/Chopin+%E2%80%93+Waltz+in+A+minor,+B.+150,+Op.+Posth.) · 16/10 01:11 · x140
 - [Chanson pour Abel - Superpoze & Blandine Rinkel](https://www.last.fm/music/Superpoze+&+Blandine+Rinkel/_/Chanson+pour+Abel) · 16/10 00:26 · x1
@@ -26,9 +29,6 @@
 - [silent clubbing moment - Charly Kid](https://www.last.fm/music/Charly+Kid/_/silent+clubbing+moment) · 15/10 09:06 · x61
 - [Mes jambes - JeanJass](https://www.last.fm/music/JeanJass/_/Mes+jambes) · 15/10 09:02 · x157
 - [What He Wrote - Laura Marling](https://www.last.fm/music/Laura+Marling/_/What+He+Wrote) · 15/10 08:52 · x755
-- [Intermezzo - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/Intermezzo) · 15/10 02:10 · x5
-- [The House of the Rising Sun - The Animals](https://www.last.fm/music/The+Animals/_/The+House+of+the+Rising+Sun) · 15/10 02:08 · x108
-- [La Rua Madureira - Nino Ferrer](https://www.last.fm/music/Nino+Ferrer/_/La+Rua+Madureira) · 15/10 02:04 · x244
 
 </details>
 <!-- LASTFM:END -->
