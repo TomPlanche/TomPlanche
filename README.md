@@ -19,6 +19,9 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Flûtes recyclables - ISHA, Caballero & JeanJass & Limsa D'aulnay](https://www.last.fm/music/ISHA,+Caballero+&+JeanJass+&+Limsa+D%27aulnay/_/Fl%C3%BBtes+recyclables) · 17/10 21:24 · x22
+- [Wu-Tang - Oboy](https://www.last.fm/music/Oboy/_/Wu-Tang) · 17/10 20:23 · x63
+- [VARIATION AUTOUR D'UN PRÉLUDE (Anatomie d'une chute) - Benoît Daniel](https://www.last.fm/music/Beno%C3%AEt+Daniel/_/VARIATION+AUTOUR+D%27UN+PR%C3%89LUDE+(Anatomie+d%27une+chute)) · 17/10 19:37 · x148
 - [180 - Rkomi](https://www.last.fm/music/Rkomi/_/180) · 17/10 15:46 · x95
 - [Le Mékong - Lucien Kimono](https://www.last.fm/music/Lucien+Kimono/_/Le+M%C3%A9kong) · 17/10 15:42 · x1037
 - [LMXP - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/LMXP) · 17/10 12:37 · x41
@@ -26,9 +29,6 @@
 - [Gagra - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Gagra) · 17/10 02:42 · x97
 - [Freeze Raël - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Freeze+Ra%C3%ABl) · 17/10 02:38 · x47
 - [CASCADE (Remix) - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/CASCADE+(Remix)) · 17/10 02:33 · x89
-- [Une Cible, Une Flèche - NES](https://www.last.fm/music/NES/_/Une+Cible,+Une+Fle%CC%80che) · 17/10 02:30 · x426
-- [Dolores - Rusowsky & Ralphie Choo](https://www.last.fm/music/Rusowsky+&+Ralphie+Choo/_/Dolores) · 17/10 02:27 · x15
-- [November - Max Richter, BBC Philharmonic & Rumon Gamba](https://www.last.fm/music/Max+Richter,+BBC+Philharmonic+&+Rumon+Gamba/_/November) · 17/10 02:24 · x400
 
 </details>
 <!-- LASTFM:END -->
