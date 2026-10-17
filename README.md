@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Lilas - Chloé Antoniotti](https://www.last.fm/music/Chlo%C3%A9+Antoniotti/_/Lilas) · 17/10 22:29 · x163
+- [My Own Summer (Shove It) - Deftones](https://www.last.fm/music/Deftones/_/My+Own+Summer+(Shove+It)) · 17/10 22:26 · x36
+- [327 (feat. Tyler, The Creator & Billie Essco) - Westside Gunn & Joey Bada$$](https://www.last.fm/music/Westside+Gunn+&+Joey+Bada$$/_/327+(feat.+Tyler,+The+Creator+&+Billie+Essco)) · 17/10 22:23 · x150
+- [Réalité augmentée - Nekfeu](https://www.last.fm/music/Nekfeu/_/R%C3%A9alit%C3%A9+augment%C3%A9e) · 17/10 22:17 · x67
+- [Ascension - Berlioz](https://www.last.fm/music/Berlioz/_/Ascension) · 17/10 22:13 · x55
+- [Uprising - Muse](https://www.last.fm/music/Muse/_/Uprising) · 17/10 22:10 · x122
+- [IGOR'S THEME - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/IGOR%27S+THEME) · 17/10 22:05 · x66
+- [Cercle - Swing](https://www.last.fm/music/Swing/_/Cercle) · 17/10 22:01 · x51
 - [Grands Parents - Orelsan](https://www.last.fm/music/Orelsan/_/Grands+Parents) · 17/10 21:57 · x95
 - [ENTROPIA - L'Impératrice](https://www.last.fm/music/L%27Imp%C3%A9ratrice/_/ENTROPIA) · 17/10 21:55 · x66
-- [444 Nuits - Népal](https://www.last.fm/music/N%C3%A9pal/_/444+Nuits) · 17/10 21:48 · x16140
-- [Affamé #1 - Shook - Zamdane](https://www.last.fm/music/Zamdane/_/Affam%C3%A9+%231+-+Shook) · 17/10 21:45 · x30
-- [RUSH - Jeshi](https://www.last.fm/music/Jeshi/_/RUSH) · 17/10 21:42 · x566
-- [RUSH - Jeshi](https://www.last.fm/music/Jeshi/_/RUSH) · 17/10 21:42 · x566
-- [Hors ligne - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Hors+ligne) · 17/10 21:40 · x36
-- [En Melody - Serge Gainsbourg](https://www.last.fm/music/Serge+Gainsbourg/_/En+Melody) · 17/10 21:35 · x36
-- [Frivole De Nuit - Laurie DESTAL](https://www.last.fm/music/Laurie+DESTAL/_/Frivole+De+Nuit) · 17/10 21:32 · x106
-- [Flûtes recyclables - ISHA, Caballero & JeanJass & Limsa D'aulnay](https://www.last.fm/music/ISHA,+Caballero+&+JeanJass+&+Limsa+D%27aulnay/_/Fl%C3%BBtes+recyclables) · 17/10 21:24 · x22
 
 </details>
 <!-- LASTFM:END -->
