@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Au revoir merci - Siboy](https://www.last.fm/music/Siboy/_/Au+revoir+merci) · 16/10 23:38 · x53
-- [Memories (feat. Kid Cudi) - David Guetta](https://www.last.fm/music/David+Guetta/_/Memories+(feat.+Kid+Cudi)) · 16/10 23:34 · x29
-- [Pas de refrain (feat. Kaki Santana) - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Pas+de+refrain+(feat.+Kaki+Santana)) · 16/10 23:27 · x52
-- [AUDI RS - TH](https://www.last.fm/music/TH/_/AUDI+RS) · 16/10 23:24 · x87
-- [Archimedes of Syracuse - Lucien Kimono](https://www.last.fm/music/Lucien+Kimono/_/Archimedes+of+Syracuse) · 16/10 23:22 · x70
-- [In the Sunshine - Jonathan Bree](https://www.last.fm/music/Jonathan+Bree/_/In+the+Sunshine) · 16/10 23:18 · x45
-- [child-like - Sol may](https://www.last.fm/music/Sol+may/_/child-like) · 16/10 23:15 · x10
-- [Rien d'Spécial #LaxVision - Népal](https://www.last.fm/music/N%C3%A9pal/_/Rien+d%27Sp%C3%A9cial+%23LaxVision) · 16/10 23:11 · x1833
-- [Meditação (feat. Scott Hamilton) - Joan Chamorro & Alba Armengou](https://www.last.fm/music/Joan+Chamorro+&+Alba+Armengou/_/Medita%C3%A7%C3%A3o+(feat.+Scott+Hamilton)) · 16/10 23:07 · x27
-- [Le mec du tabac - Artr](https://www.last.fm/music/Artr/_/Le+mec+du+tabac) · 16/10 23:00 · x52
+- [perdue - philonille](https://www.last.fm/music/philonille/_/perdue) · 17/10 02:50 · x196
+- [Gagra - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Gagra) · 17/10 02:42 · x97
+- [Freeze Raël - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Freeze+Ra%C3%ABl) · 17/10 02:38 · x47
+- [CASCADE (Remix) - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/CASCADE+(Remix)) · 17/10 02:33 · x89
+- [Une Cible, Une Flèche - NES](https://www.last.fm/music/NES/_/Une+Cible,+Une+Fle%CC%80che) · 17/10 02:30 · x426
+- [Dolores - Rusowsky & Ralphie Choo](https://www.last.fm/music/Rusowsky+&+Ralphie+Choo/_/Dolores) · 17/10 02:27 · x15
+- [November - Max Richter, BBC Philharmonic & Rumon Gamba](https://www.last.fm/music/Max+Richter,+BBC+Philharmonic+&+Rumon+Gamba/_/November) · 17/10 02:24 · x400
+- [JE PORTE LA VILLE SUR MON BACK - Rowjay](https://www.last.fm/music/Rowjay/_/JE+PORTE+LA+VILLE+SUR+MON+BACK) · 17/10 02:17 · x142
+- [Neverender - Justice & Tame Impala](https://www.last.fm/music/Justice+&+Tame+Impala/_/Neverender) · 17/10 02:15 · x37
+- [UNE HISTOIRE ÉTRANGE - Laylow](https://www.last.fm/music/Laylow/_/UNE+HISTOIRE+%C3%89TRANGE) · 17/10 02:10 · x77
 
 </details>
 <!-- LASTFM:END -->
