@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Du Son Pour Les Gars Sûrs - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Du+Son+Pour+Les+Gars+S%C3%BBrs) · 17/10 22:59 · x131
+- [Old Devil Moon - Chet Baker](https://www.last.fm/music/Chet+Baker/_/Old+Devil+Moon) · 17/10 22:53 · x13
+- [Demons - Doja Cat](https://www.last.fm/music/Doja+Cat/_/Demons) · 17/10 22:50 · x94
+- [Mistral gagnant - Renaud](https://www.last.fm/music/Renaud/_/Mistral+gagnant) · 17/10 22:47 · x60
+- [J'oublie tout - Jul](https://www.last.fm/music/Jul/_/J%27oublie+tout) · 17/10 22:44 · x19
+- [Freeze Raël - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Freeze+Ra%C3%ABl) · 17/10 22:39 · x48
+- [My System (C4STL3 edit) - C4STL3](https://www.last.fm/music/C4STL3/_/My+System+(C4STL3+edit)) · 17/10 22:34 · x67
 - [Lilas - Chloé Antoniotti](https://www.last.fm/music/Chlo%C3%A9+Antoniotti/_/Lilas) · 17/10 22:29 · x163
 - [My Own Summer (Shove It) - Deftones](https://www.last.fm/music/Deftones/_/My+Own+Summer+(Shove+It)) · 17/10 22:26 · x36
 - [327 (feat. Tyler, The Creator & Billie Essco) - Westside Gunn & Joey Bada$$](https://www.last.fm/music/Westside+Gunn+&+Joey+Bada$$/_/327+(feat.+Tyler,+The+Creator+&+Billie+Essco)) · 17/10 22:23 · x150
-- [Réalité augmentée - Nekfeu](https://www.last.fm/music/Nekfeu/_/R%C3%A9alit%C3%A9+augment%C3%A9e) · 17/10 22:17 · x67
-- [Ascension - Berlioz](https://www.last.fm/music/Berlioz/_/Ascension) · 17/10 22:13 · x55
-- [Uprising - Muse](https://www.last.fm/music/Muse/_/Uprising) · 17/10 22:10 · x122
-- [IGOR'S THEME - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/IGOR%27S+THEME) · 17/10 22:05 · x66
-- [Cercle - Swing](https://www.last.fm/music/Swing/_/Cercle) · 17/10 22:01 · x51
-- [Grands Parents - Orelsan](https://www.last.fm/music/Orelsan/_/Grands+Parents) · 17/10 21:57 · x95
-- [ENTROPIA - L'Impératrice](https://www.last.fm/music/L%27Imp%C3%A9ratrice/_/ENTROPIA) · 17/10 21:55 · x66
 
 </details>
 <!-- LASTFM:END -->
