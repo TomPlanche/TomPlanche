@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Grands Parents - Orelsan](https://www.last.fm/music/Orelsan/_/Grands+Parents) · 17/10 21:57 · x95
+- [ENTROPIA - L'Impératrice](https://www.last.fm/music/L%27Imp%C3%A9ratrice/_/ENTROPIA) · 17/10 21:55 · x66
+- [444 Nuits - Népal](https://www.last.fm/music/N%C3%A9pal/_/444+Nuits) · 17/10 21:48 · x16140
+- [Affamé #1 - Shook - Zamdane](https://www.last.fm/music/Zamdane/_/Affam%C3%A9+%231+-+Shook) · 17/10 21:45 · x30
+- [RUSH - Jeshi](https://www.last.fm/music/Jeshi/_/RUSH) · 17/10 21:42 · x566
+- [RUSH - Jeshi](https://www.last.fm/music/Jeshi/_/RUSH) · 17/10 21:42 · x566
+- [Hors ligne - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Hors+ligne) · 17/10 21:40 · x36
+- [En Melody - Serge Gainsbourg](https://www.last.fm/music/Serge+Gainsbourg/_/En+Melody) · 17/10 21:35 · x36
+- [Frivole De Nuit - Laurie DESTAL](https://www.last.fm/music/Laurie+DESTAL/_/Frivole+De+Nuit) · 17/10 21:32 · x106
 - [Flûtes recyclables - ISHA, Caballero & JeanJass & Limsa D'aulnay](https://www.last.fm/music/ISHA,+Caballero+&+JeanJass+&+Limsa+D%27aulnay/_/Fl%C3%BBtes+recyclables) · 17/10 21:24 · x22
-- [Wu-Tang - Oboy](https://www.last.fm/music/Oboy/_/Wu-Tang) · 17/10 20:23 · x63
-- [VARIATION AUTOUR D'UN PRÉLUDE (Anatomie d'une chute) - Benoît Daniel](https://www.last.fm/music/Beno%C3%AEt+Daniel/_/VARIATION+AUTOUR+D%27UN+PR%C3%89LUDE+(Anatomie+d%27une+chute)) · 17/10 19:37 · x148
-- [180 - Rkomi](https://www.last.fm/music/Rkomi/_/180) · 17/10 15:46 · x95
-- [Le Mékong - Lucien Kimono](https://www.last.fm/music/Lucien+Kimono/_/Le+M%C3%A9kong) · 17/10 15:42 · x1037
-- [LMXP - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/LMXP) · 17/10 12:37 · x41
-- [perdue - philonille](https://www.last.fm/music/philonille/_/perdue) · 17/10 02:50 · x196
-- [Gagra - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Gagra) · 17/10 02:42 · x97
-- [Freeze Raël - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Freeze+Ra%C3%ABl) · 17/10 02:38 · x47
-- [CASCADE (Remix) - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/CASCADE+(Remix)) · 17/10 02:33 · x89
 
 </details>
 <!-- LASTFM:END -->
