@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [LMXP - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/LMXP) · 17/10 12:37 · x41
 - [perdue - philonille](https://www.last.fm/music/philonille/_/perdue) · 17/10 02:50 · x196
 - [Gagra - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Gagra) · 17/10 02:42 · x97
 - [Freeze Raël - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Freeze+Ra%C3%ABl) · 17/10 02:38 · x47
@@ -28,7 +29,6 @@
 - [November - Max Richter, BBC Philharmonic & Rumon Gamba](https://www.last.fm/music/Max+Richter,+BBC+Philharmonic+&+Rumon+Gamba/_/November) · 17/10 02:24 · x400
 - [JE PORTE LA VILLE SUR MON BACK - Rowjay](https://www.last.fm/music/Rowjay/_/JE+PORTE+LA+VILLE+SUR+MON+BACK) · 17/10 02:17 · x142
 - [Neverender - Justice & Tame Impala](https://www.last.fm/music/Justice+&+Tame+Impala/_/Neverender) · 17/10 02:15 · x37
-- [UNE HISTOIRE ÉTRANGE - Laylow](https://www.last.fm/music/Laylow/_/UNE+HISTOIRE+%C3%89TRANGE) · 17/10 02:10 · x77
 
 </details>
 <!-- LASTFM:END -->
