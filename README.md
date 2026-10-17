@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [180 - Rkomi](https://www.last.fm/music/Rkomi/_/180) · 17/10 15:46 · x94
+- [Le Mékong - Lucien Kimono](https://www.last.fm/music/Lucien+Kimono/_/Le+M%C3%A9kong) · 17/10 15:42 · x1036
 - [LMXP - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/LMXP) · 17/10 12:37 · x41
 - [perdue - philonille](https://www.last.fm/music/philonille/_/perdue) · 17/10 02:50 · x196
 - [Gagra - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Gagra) · 17/10 02:42 · x97
@@ -27,8 +29,6 @@
 - [Une Cible, Une Flèche - NES](https://www.last.fm/music/NES/_/Une+Cible,+Une+Fle%CC%80che) · 17/10 02:30 · x426
 - [Dolores - Rusowsky & Ralphie Choo](https://www.last.fm/music/Rusowsky+&+Ralphie+Choo/_/Dolores) · 17/10 02:27 · x15
 - [November - Max Richter, BBC Philharmonic & Rumon Gamba](https://www.last.fm/music/Max+Richter,+BBC+Philharmonic+&+Rumon+Gamba/_/November) · 17/10 02:24 · x400
-- [JE PORTE LA VILLE SUR MON BACK - Rowjay](https://www.last.fm/music/Rowjay/_/JE+PORTE+LA+VILLE+SUR+MON+BACK) · 17/10 02:17 · x142
-- [Neverender - Justice & Tame Impala](https://www.last.fm/music/Justice+&+Tame+Impala/_/Neverender) · 17/10 02:15 · x37
 
 </details>
 <!-- LASTFM:END -->
