@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 18/10 23:26 · x3
 - [il suffisait - La marche bleue](https://www.last.fm/music/La+marche+bleue/_/il+suffisait) · 18/10 19:16 · x175
 - [Back in Black - AC/DC](https://www.last.fm/music/AC%2FDC/_/Back+in+Black) · 17/10 23:21 · x33
 - [Wasting - Gaston Yelmini](https://www.last.fm/music/Gaston+Yelmini/_/Wasting) · 17/10 23:16 · x7
@@ -28,7 +29,6 @@
 - [Du Son Pour Les Gars Sûrs - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Du+Son+Pour+Les+Gars+S%C3%BBrs) · 17/10 22:59 · x131
 - [Old Devil Moon - Chet Baker](https://www.last.fm/music/Chet+Baker/_/Old+Devil+Moon) · 17/10 22:53 · x13
 - [Demons - Doja Cat](https://www.last.fm/music/Doja+Cat/_/Demons) · 17/10 22:50 · x94
-- [Mistral gagnant - Renaud](https://www.last.fm/music/Renaud/_/Mistral+gagnant) · 17/10 22:47 · x60
 
 </details>
 <!-- LASTFM:END -->
