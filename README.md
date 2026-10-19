@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [POURRI (prod.) - La Fève](https://www.last.fm/music/La+F%C3%A8ve/_/POURRI+(prod.)) · 19/10 17:59 · x316
+- [POURRI (prod.) - La Fève](https://www.last.fm/music/La+F%C3%A8ve/_/POURRI+(prod.)) · 19/10 17:56 · x316
+- [CASCADE (Remix) - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/CASCADE+(Remix)) · 19/10 17:53 · x90
+- [T N Biscuits - slowthai](https://www.last.fm/music/slowthai/_/T+N+Biscuits) · 19/10 17:46 · x30
+- [Polaire - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Polaire) · 19/10 17:43 · x184
+- [Devil May Cry - Rowjay & Alpha Wann](https://www.last.fm/music/Rowjay+&+Alpha+Wann/_/Devil+May+Cry) · 19/10 17:40 · x265
+- [In volo - Ludovico Einaudi](https://www.last.fm/music/Ludovico+Einaudi/_/In+volo) · 19/10 17:37 · x100
 - [GOD'S COUNTRY - Travis Scott](https://www.last.fm/music/Travis+Scott/_/GOD%27S+COUNTRY) · 19/10 17:19 · x82
 - [Nirvana - Jazzy Bazz](https://www.last.fm/music/Jazzy+Bazz/_/Nirvana) · 19/10 17:12 · x75
 - [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 19/10 17:01 · x8
-- [il pleut - victor janvier & Martin Prince](https://www.last.fm/music/victor+janvier+&+Martin+Prince/_/il+pleut) · 19/10 16:58
-- [Heartbeat Destiny - Mika Heggemann](https://www.last.fm/music/Mika+Heggemann/_/Heartbeat+Destiny) · 19/10 09:51 · x108
-- [XO - SONBEST](https://www.last.fm/music/SONBEST/_/XO) · 19/10 09:48 · x66
-- [Ça donne pas envie - Surprise](https://www.last.fm/music/Surprise/_/%C3%87a+donne+pas+envie) · 19/10 09:45 · x110
-- [perdue - philonille](https://www.last.fm/music/philonille/_/perdue) · 19/10 09:39 · x198
-- [CORTÈGE - Infinit'](https://www.last.fm/music/Infinit%27/_/CORT%C3%88GE) · 19/10 09:36 · x13
-- [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 19/10 09:33 · x8
 
 </details>
 <!-- LASTFM:END -->
