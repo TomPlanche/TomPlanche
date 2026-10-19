@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Crazy - Gnarls Barkley](https://www.last.fm/music/Gnarls+Barkley/_/Crazy) · 19/10 18:08 · x75
+- [No Kap - Rozzy & Dirtyiceboyz](https://www.last.fm/music/Rozzy+&+Dirtyiceboyz/_/No+Kap) · 19/10 18:01 · x203
 - [POURRI (prod.) - La Fève](https://www.last.fm/music/La+F%C3%A8ve/_/POURRI+(prod.)) · 19/10 17:59 · x316
 - [POURRI (prod.) - La Fève](https://www.last.fm/music/La+F%C3%A8ve/_/POURRI+(prod.)) · 19/10 17:56 · x316
 - [CASCADE (Remix) - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/CASCADE+(Remix)) · 19/10 17:53 · x90
@@ -27,8 +29,6 @@
 - [Devil May Cry - Rowjay & Alpha Wann](https://www.last.fm/music/Rowjay+&+Alpha+Wann/_/Devil+May+Cry) · 19/10 17:40 · x265
 - [In volo - Ludovico Einaudi](https://www.last.fm/music/Ludovico+Einaudi/_/In+volo) · 19/10 17:37 · x100
 - [GOD'S COUNTRY - Travis Scott](https://www.last.fm/music/Travis+Scott/_/GOD%27S+COUNTRY) · 19/10 17:19 · x82
-- [Nirvana - Jazzy Bazz](https://www.last.fm/music/Jazzy+Bazz/_/Nirvana) · 19/10 17:12 · x75
-- [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 19/10 17:01 · x8
 
 </details>
 <!-- LASTFM:END -->
