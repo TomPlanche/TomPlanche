@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [la musique de l'espace - TRENTE](https://www.last.fm/music/TRENTE/_/la+musique+de+l%27espace) · 21/10 18:48 · x83
 - [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 21/10 11:27 · x13
 - [il pleut - victor janvier & Martin Prince](https://www.last.fm/music/victor+janvier+&+Martin+Prince/_/il+pleut) · 21/10 11:24 · x2
 - [Japan - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/Japan) · 21/10 11:18 · x1
@@ -27,8 +28,7 @@
 - [Demolition - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/Demolition) · 21/10 11:07 · x1
 - [Kompavana - AlexCkj](https://www.last.fm/music/AlexCkj/_/Kompavana) · 21/10 11:04
 - [Give Up the Ghost (feat. Jay-Jay Johanson) - C2C](https://www.last.fm/music/C2C/_/Give+Up+the+Ghost+(feat.+Jay-Jay+Johanson)) · 21/10 10:06 · x176
-- [Suffisamment - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Suffisamment) · 21/10 09:54 · x366
-- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 21/10 09:50 · x97
+- [Suffisamment - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Suffisamment) · 21/10 09:54 · x370
 
 </details>
 <!-- LASTFM:END -->
