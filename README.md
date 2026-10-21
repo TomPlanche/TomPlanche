@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 21/10 11:27 · x13
 - [il pleut - victor janvier & Martin Prince](https://www.last.fm/music/victor+janvier+&+Martin+Prince/_/il+pleut) · 21/10 11:24 · x2
 - [Japan - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/Japan) · 21/10 11:18 · x1
 - [Intimate - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/Intimate) · 21/10 11:15 · x1
@@ -28,7 +29,6 @@
 - [Give Up the Ghost (feat. Jay-Jay Johanson) - C2C](https://www.last.fm/music/C2C/_/Give+Up+the+Ghost+(feat.+Jay-Jay+Johanson)) · 21/10 10:06 · x176
 - [Suffisamment - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Suffisamment) · 21/10 09:54 · x366
 - [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 21/10 09:50 · x97
-- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 21/10 09:42 · x97
 
 </details>
 <!-- LASTFM:END -->
