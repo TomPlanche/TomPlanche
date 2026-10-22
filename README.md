@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Fairytale No. 3: The Sleeping Kingdom - Claudio Constantini](https://www.last.fm/music/Claudio+Constantini/_/Fairytale+No.+3:+The+Sleeping+Kingdom) · 22/10 17:59
+- [Something in the Way - Nirvana](https://www.last.fm/music/Nirvana/_/Something+in+the+Way) · 22/10 18:28 · x287
+- [Where Is My Mind? - Pixies](https://www.last.fm/music/Pixies/_/Where+Is+My+Mind%3F) · 22/10 18:24 · x466
+- [BALACLAVA - RESELL](https://www.last.fm/music/RESELL/_/BALACLAVA) · 22/10 18:18 · x279
+- [Yeyo - Coelho](https://www.last.fm/music/Coelho/_/Yeyo) · 22/10 18:11 · x28
+- [Brutalisme - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Brutalisme) · 22/10 18:08 · x761
+- [Into The Void (feat. Jordan Lindley) - Poltergst & RØØTZ](https://www.last.fm/music/Poltergst+&+R%C3%98%C3%98TZ/_/Into+The+Void+(feat.+Jordan+Lindley)) · 22/10 18:04 · x5
+- [Sleepwalker - Laurence Ipsum](https://www.last.fm/music/Laurence+Ipsum/_/Sleepwalker) · 22/10 18:01 · x120
+- [Fairytale No. 3: The Sleeping Kingdom - Claudio Constantini](https://www.last.fm/music/Claudio+Constantini/_/Fairytale+No.+3:+The+Sleeping+Kingdom) · 22/10 17:59 · x1
 - [I Cared For You - NTO](https://www.last.fm/music/NTO/_/I+Cared+For+You) · 22/10 17:59 · x3
 - [Alegria - NTO](https://www.last.fm/music/NTO/_/Alegria) · 22/10 17:58 · x1
-- [Monday - NTO](https://www.last.fm/music/NTO/_/Monday) · 22/10 17:58 · x1
-- [Una Noche - Schrotthagen](https://www.last.fm/music/Schrotthagen/_/Una+Noche) · 22/10 17:56 · x1
-- [Hold Me Tight - Aloboi](https://www.last.fm/music/Aloboi/_/Hold+Me+Tight) · 22/10 17:53 · x1
-- [My Rage, My Fuel - Aloboi](https://www.last.fm/music/Aloboi/_/My+Rage,+My+Fuel) · 22/10 17:50 · x1
-- [Crushed - Aloboi](https://www.last.fm/music/Aloboi/_/Crushed) · 22/10 17:47 · x2
-- [Blue And Yellow Room - Aloboi](https://www.last.fm/music/Aloboi/_/Blue+And+Yellow+Room) · 22/10 17:44 · x9
-- [Override Myself - Aloboi](https://www.last.fm/music/Aloboi/_/Override+Myself) · 22/10 17:42 · x3
 
 </details>
 <!-- LASTFM:END -->
