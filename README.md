@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [The Sunny Side - Aloboi](https://www.last.fm/music/Aloboi/_/The+Sunny+Side) · 22/10 17:26 · x2
-- [Here - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Here) · 22/10 17:22 · x1
-- [City Of Gold - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/City+Of+Gold) · 22/10 17:18 · x2
-- [Summer Days - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Summer+Days) · 22/10 17:18 · x1
-- [Softskin - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Softskin) · 22/10 17:15 · x1
-- [Across The Sea - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Across+The+Sea) · 22/10 17:13 · x1
-- [Do Meu Coração - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Do+Meu+Cora%C3%A7%C3%A3o) · 22/10 17:10 · x1
-- [Don't Get On The Plane - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Don%27t+Get+On+The+Plane) · 22/10 17:10 · x1
-- [Stars - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Stars) · 22/10 17:05 · x1
-- [I Love You Everyway - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/I+Love+You+Everyway) · 22/10 17:02 · x1
+- [Fairytale No. 3: The Sleeping Kingdom - Claudio Constantini](https://www.last.fm/music/Claudio+Constantini/_/Fairytale+No.+3:+The+Sleeping+Kingdom) · 22/10 17:59
+- [I Cared For You - NTO](https://www.last.fm/music/NTO/_/I+Cared+For+You) · 22/10 17:59 · x3
+- [Alegria - NTO](https://www.last.fm/music/NTO/_/Alegria) · 22/10 17:58 · x1
+- [Monday - NTO](https://www.last.fm/music/NTO/_/Monday) · 22/10 17:58 · x1
+- [Una Noche - Schrotthagen](https://www.last.fm/music/Schrotthagen/_/Una+Noche) · 22/10 17:56 · x1
+- [Hold Me Tight - Aloboi](https://www.last.fm/music/Aloboi/_/Hold+Me+Tight) · 22/10 17:53 · x1
+- [My Rage, My Fuel - Aloboi](https://www.last.fm/music/Aloboi/_/My+Rage,+My+Fuel) · 22/10 17:50 · x1
+- [Crushed - Aloboi](https://www.last.fm/music/Aloboi/_/Crushed) · 22/10 17:47 · x2
+- [Blue And Yellow Room - Aloboi](https://www.last.fm/music/Aloboi/_/Blue+And+Yellow+Room) · 22/10 17:44 · x9
+- [Override Myself - Aloboi](https://www.last.fm/music/Aloboi/_/Override+Myself) · 22/10 17:42 · x3
 
 </details>
 <!-- LASTFM:END -->
