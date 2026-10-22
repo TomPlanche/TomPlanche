@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [So be it - Black Star](https://www.last.fm/music/Black+Star/_/So+be+it) · 22/10 16:28 · x1
-- [Dis-moi que tu m'aimes - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes) · 22/10 16:07 · x32
-- [Magma - Jazzy Bazz, EDGE & Esso Luxueux](https://www.last.fm/music/Jazzy+Bazz,+EDGE+&+Esso+Luxueux/_/Magma) · 22/10 16:05 · x128
-- [Kompavana - AlexCkj](https://www.last.fm/music/AlexCkj/_/Kompavana) · 22/10 09:51 · x1
-- [L'été Indien - Joe Dassin](https://www.last.fm/music/Joe+Dassin/_/L%27%C3%A9t%C3%A9+Indien) · 22/10 09:48 · x1078
-- [PANAME PETIT CAFÉ (feat. Yvnnis) - Gemen](https://www.last.fm/music/Gemen/_/PANAME+PETIT+CAF%C3%89+(feat.+Yvnnis)) · 22/10 09:41 · x159
-- [Devil May Cry - Rowjay & Alpha Wann](https://www.last.fm/music/Rowjay+&+Alpha+Wann/_/Devil+May+Cry) · 22/10 09:36 · x265
-- [la musique de l'espace - TRENTE](https://www.last.fm/music/TRENTE/_/la+musique+de+l%27espace) · 21/10 18:48 · x84
-- [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 21/10 11:27 · x13
-- [il pleut - victor janvier & Martin Prince](https://www.last.fm/music/victor+janvier+&+Martin+Prince/_/il+pleut) · 21/10 11:24 · x2
+- [Electronic Serenade - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Electronic+Serenade) · 22/10 16:58 · x1
+- [early breeze - Petit Biscuit](https://www.last.fm/music/Petit+Biscuit/_/early+breeze) · 22/10 16:55 · x1
+- [Paradise Island - The Avalanches](https://www.last.fm/music/The+Avalanches/_/Paradise+Island) · 22/10 16:55 · x1
+- [The Pavements Light - The Avalanches](https://www.last.fm/music/The+Avalanches/_/The+Pavements+Light) · 22/10 16:55 · x1
+- [3D Glasses Not Included - The Avalanches](https://www.last.fm/music/The+Avalanches/_/3D+Glasses+Not+Included) · 22/10 16:54 · x1
+- [Bd-R - The Avalanches](https://www.last.fm/music/The+Avalanches/_/Bd-R) · 22/10 16:54 · x1
+- [Logoland - The Avalanches](https://www.last.fm/music/The+Avalanches/_/Logoland) · 22/10 16:54 · x1
+- [Like Clockwork / Hit By Traffic - The Avalanches](https://www.last.fm/music/The+Avalanches/_/Like+Clockwork+%2F+Hit+By+Traffic) · 22/10 16:52 · x1
+- [Certi Angoli Segreti - Enrico Rava](https://www.last.fm/music/Enrico+Rava/_/Certi+Angoli+Segreti) · 22/10 16:49 · x1
+- [Mamma - Enrico Rava](https://www.last.fm/music/Enrico+Rava/_/Mamma) · 22/10 16:43 · x1
 
 </details>
 <!-- LASTFM:END -->
