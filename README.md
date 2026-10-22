@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Electronic Serenade - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Electronic+Serenade) · 22/10 16:58 · x1
-- [early breeze - Petit Biscuit](https://www.last.fm/music/Petit+Biscuit/_/early+breeze) · 22/10 16:55 · x1
-- [Paradise Island - The Avalanches](https://www.last.fm/music/The+Avalanches/_/Paradise+Island) · 22/10 16:55 · x1
-- [The Pavements Light - The Avalanches](https://www.last.fm/music/The+Avalanches/_/The+Pavements+Light) · 22/10 16:55 · x1
-- [3D Glasses Not Included - The Avalanches](https://www.last.fm/music/The+Avalanches/_/3D+Glasses+Not+Included) · 22/10 16:54 · x1
-- [Bd-R - The Avalanches](https://www.last.fm/music/The+Avalanches/_/Bd-R) · 22/10 16:54 · x1
-- [Logoland - The Avalanches](https://www.last.fm/music/The+Avalanches/_/Logoland) · 22/10 16:54 · x1
-- [Like Clockwork / Hit By Traffic - The Avalanches](https://www.last.fm/music/The+Avalanches/_/Like+Clockwork+%2F+Hit+By+Traffic) · 22/10 16:52 · x1
-- [Certi Angoli Segreti - Enrico Rava](https://www.last.fm/music/Enrico+Rava/_/Certi+Angoli+Segreti) · 22/10 16:49 · x1
-- [Mamma - Enrico Rava](https://www.last.fm/music/Enrico+Rava/_/Mamma) · 22/10 16:43 · x1
+- [The Sunny Side - Aloboi](https://www.last.fm/music/Aloboi/_/The+Sunny+Side) · 22/10 17:26 · x2
+- [Here - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Here) · 22/10 17:22 · x1
+- [City Of Gold - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/City+Of+Gold) · 22/10 17:18 · x2
+- [Summer Days - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Summer+Days) · 22/10 17:18 · x1
+- [Softskin - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Softskin) · 22/10 17:15 · x1
+- [Across The Sea - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Across+The+Sea) · 22/10 17:13 · x1
+- [Do Meu Coração - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Do+Meu+Cora%C3%A7%C3%A3o) · 22/10 17:10 · x1
+- [Don't Get On The Plane - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Don%27t+Get+On+The+Plane) · 22/10 17:10 · x1
+- [Stars - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/Stars) · 22/10 17:05 · x1
+- [I Love You Everyway - Kid Francescoli](https://www.last.fm/music/Kid+Francescoli/_/I+Love+You+Everyway) · 22/10 17:02 · x1
 
 </details>
 <!-- LASTFM:END -->
