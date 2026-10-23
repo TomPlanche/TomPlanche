@@ -19,6 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [IRM (feat. Freeze Corleone) - Kaaris](https://www.last.fm/music/Kaaris/_/IRM+(feat.+Freeze+Corleone)) · 23/10 16:44 · x1
 - [Hometown Glory - Adele](https://www.last.fm/music/Adele/_/Hometown+Glory) · 23/10 11:38 · x1956
 - [Jocelyn Flores - XXXTENTACION](https://www.last.fm/music/XXXTENTACION/_/Jocelyn+Flores) · 23/10 11:34 · x59
 - [Brain Stew - Green Day](https://www.last.fm/music/Green+Day/_/Brain+Stew) · 23/10 11:32 · x193
@@ -28,7 +29,6 @@
 - [All Night Parking (with Erroll Garner) Interlude - Adele](https://www.last.fm/music/Adele/_/All+Night+Parking+(with+Erroll+Garner)+Interlude) · 23/10 11:17 · x47
 - [Devil May Cry - Rowjay & Alpha Wann](https://www.last.fm/music/Rowjay+&+Alpha+Wann/_/Devil+May+Cry) · 23/10 11:15 · x266
 - [Spilled Milk - Flyboy Tarantino](https://www.last.fm/music/Flyboy+Tarantino/_/Spilled+Milk) · 23/10 11:12 · x49
-- [PISTOLET ROSE 2 - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/PISTOLET+ROSE+2) · 23/10 11:10 · x127
 
 </details>
 <!-- LASTFM:END -->
