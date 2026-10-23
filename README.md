@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [I Love You - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You) · 23/10 02:57 · x46
+- [Heart to Heart - Mac DeMarco](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart) · 23/10 02:54 · x686
+- [Anémone - Chloé Antoniotti](https://www.last.fm/music/Chlo%C3%A9+Antoniotti/_/An%C3%A9mone) · 23/10 02:50 · x657
+- [Ça n’existe pas - A COLORS SHOW - Iliona](https://www.last.fm/music/Iliona/_/%C3%87a+n%E2%80%99existe+pas+-+A+COLORS+SHOW) · 23/10 02:45 · x635
+- [Arp - Contrefacon](https://www.last.fm/music/Contrefacon/_/Arp) · 23/10 02:45 · x54
+- [Journey Among Worlds - Niklas Paschburg](https://www.last.fm/music/Niklas+Paschburg/_/Journey+Among+Worlds) · 23/10 02:39 · x53
+- [L'enfant Seul - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+Seul) · 23/10 02:32 · x113
+- [Ceibo - Viruks](https://www.last.fm/music/Viruks/_/Ceibo) · 23/10 02:31 · x13
 - [Echos - Erykah Badu](https://www.last.fm/music/Erykah+Badu/_/Echos) · 23/10 02:29 · x13
 - [I Just Play A Part - Erykah Badu](https://www.last.fm/music/Erykah+Badu/_/I+Just+Play+A+Part) · 23/10 02:26 · x20
-- [Dis-moi que tu m'aimes - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes) · 23/10 02:21 · x34
-- [The Sunny Side - Aloboi](https://www.last.fm/music/Aloboi/_/The+Sunny+Side) · 23/10 02:19 · x6
-- [Arp - Contrefacon](https://www.last.fm/music/Contrefacon/_/Arp) · 23/10 01:28 · x53
-- [Journey Among Worlds - Niklas Paschburg](https://www.last.fm/music/Niklas+Paschburg/_/Journey+Among+Worlds) · 23/10 01:22 · x52
-- [L'enfant Seul - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+Seul) · 23/10 01:18 · x112
-- [Ceibo - Viruks](https://www.last.fm/music/Viruks/_/Ceibo) · 23/10 01:15 · x12
-- [Echos - Erykah Badu](https://www.last.fm/music/Erykah+Badu/_/Echos) · 23/10 01:09 · x13
-- [I Just Play A Part - Erykah Badu](https://www.last.fm/music/Erykah+Badu/_/I+Just+Play+A+Part) · 23/10 01:05 · x20
 
 </details>
 <!-- LASTFM:END -->
