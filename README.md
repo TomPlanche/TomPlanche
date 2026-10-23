@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 23/10 23:25 · x17
+- [il pleut - victor janvier & Martin Prince](https://www.last.fm/music/victor+janvier+&+Martin+Prince/_/il+pleut) · 23/10 23:20 · x2
 - [Processus - Rowjay](https://www.last.fm/music/Rowjay/_/Processus) · 23/10 19:22 · x46
 - [Chasser mes Démons (Outro) - Rowjay](https://www.last.fm/music/Rowjay/_/Chasser+mes+D%C3%A9mons+(Outro)) · 23/10 19:19 · x48
 - [Inachevés - Casseurs Flowters](https://www.last.fm/music/Casseurs+Flowters/_/Inachev%C3%A9s) · 23/10 19:09 · x112
@@ -27,8 +29,6 @@
 - [L'enfant seul (Remasterisé) - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+seul+(Remasteris%C3%A9)) · 23/10 18:25 · x747
 - [LA BREITLING SUITE - joaqm](https://www.last.fm/music/joaqm/_/LA+BREITLING+SUITE) · 23/10 18:07 · x1080
 - [Schubert - Serenade (arr. Liszt) - Rousseau](https://www.last.fm/music/Rousseau/_/Schubert+-+Serenade+(arr.+Liszt)) · 23/10 18:05 · x134
-- [Docteur Lulu (feat. Osirus) - Zuukou Mayzie](https://www.last.fm/music/Zuukou+Mayzie/_/Docteur+Lulu+(feat.+Osirus)) · 23/10 17:59 · x27
-- [Miss Misery - Elliott Smith](https://www.last.fm/music/Elliott+Smith/_/Miss+Misery) · 23/10 17:56 · x36
 
 </details>
 <!-- LASTFM:END -->
