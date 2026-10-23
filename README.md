@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [MMM (Money Makin Mitch) - Ateyaba](https://www.last.fm/music/Ateyaba/_/MMM+(Money+Makin+Mitch)) · 23/10 23:31 · x1
+- [RAP RAFALE, Pt. 2 - LEDOUBLE & GAL](https://www.last.fm/music/LEDOUBLE+&+GAL/_/RAP+RAFALE,+Pt.+2) · 23/10 23:28 · x1
 - [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 23/10 23:25 · x17
 - [il pleut - victor janvier & Martin Prince](https://www.last.fm/music/victor+janvier+&+Martin+Prince/_/il+pleut) · 23/10 23:20 · x2
 - [Processus - Rowjay](https://www.last.fm/music/Rowjay/_/Processus) · 23/10 19:22 · x46
@@ -27,8 +29,6 @@
 - [Mirage - Glass Beams](https://www.last.fm/music/Glass+Beams/_/Mirage) · 23/10 19:04 · x87
 - [XX FILES (feat. Alpha Wann) - Jungle Jack](https://www.last.fm/music/Jungle+Jack/_/XX+FILES+(feat.+Alpha+Wann)) · 23/10 18:29 · x92
 - [L'enfant seul (Remasterisé) - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+seul+(Remasteris%C3%A9)) · 23/10 18:25 · x747
-- [LA BREITLING SUITE - joaqm](https://www.last.fm/music/joaqm/_/LA+BREITLING+SUITE) · 23/10 18:07 · x1080
-- [Schubert - Serenade (arr. Liszt) - Rousseau](https://www.last.fm/music/Rousseau/_/Schubert+-+Serenade+(arr.+Liszt)) · 23/10 18:05 · x134
 
 </details>
 <!-- LASTFM:END -->
