@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Docteur Lulu (feat. Osirus) - Zuukou Mayzie](https://www.last.fm/music/Zuukou+Mayzie/_/Docteur+Lulu+(feat.+Osirus)) · 23/10 17:59 · x27
+- [Miss Misery - Elliott Smith](https://www.last.fm/music/Elliott+Smith/_/Miss+Misery) · 23/10 17:56 · x36
+- [Mistral gagnant - Renaud](https://www.last.fm/music/Renaud/_/Mistral+gagnant) · 23/10 17:52 · x62
+- [New Hares (Same Shit) - Josman](https://www.last.fm/music/Josman/_/New+Hares+(Same+Shit)) · 23/10 17:50 · x46
+- [Supersonic (My Existence) - Skrillex, Noisia, josh pan & Dylan Brady](https://www.last.fm/music/Skrillex,+Noisia,+josh+pan+&+Dylan+Brady/_/Supersonic+(My+Existence)) · 23/10 17:46 · x87
+- [Obsession nonchalante - Dalí](https://www.last.fm/music/Dal%C3%AD/_/Obsession+nonchalante) · 23/10 17:44 · x297
+- [Shine Shine - Boys Noize](https://www.last.fm/music/Boys+Noize/_/Shine+Shine) · 23/10 17:40 · x187
+- [Dansez Sur Moi - Maurane](https://www.last.fm/music/Maurane/_/Dansez+Sur+Moi) · 23/10 17:34 · x3
+- [Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX) - El Columpio Asesino](https://www.last.fm/music/El+Columpio+Asesino/_/Toro+(I+Hate+Models+Speed+Up+Revival+Edit+of+Andre+VII+RMX)) · 23/10 17:31 · x25
 - [Give Me the Night - George Benson](https://www.last.fm/music/George+Benson/_/Give+Me+the+Night) · 23/10 17:25 · x21
-- [OSMOSE - NES](https://www.last.fm/music/NES/_/OSMOSE) · 23/10 17:21 · x305
-- [Almost Blue - Chet Baker](https://www.last.fm/music/Chet+Baker/_/Almost+Blue) · 23/10 17:15 · x305
-- [TIL FURTHER NOTICE (feat. James Blake & 21 Savage) - Travis Scott](https://www.last.fm/music/Travis+Scott/_/TIL+FURTHER+NOTICE+(feat.+James+Blake+&+21+Savage)) · 23/10 17:04 · x133
-- [Le radeau - -M-](https://www.last.fm/music/-M-/_/Le+radeau) · 23/10 16:58 · x10
-- [Une Cible, Une Flèche - NES](https://www.last.fm/music/NES/_/Une+Cible,+Une+Fle%CC%80che) · 23/10 16:55 · x427
-- [Turn off the Lights (feat. Alexis Roberts) - Chris Lake](https://www.last.fm/music/Chris+Lake/_/Turn+off+the+Lights+(feat.+Alexis+Roberts)) · 23/10 16:51 · x115
-- [La Seine (Extrait de la bande originale « Un monstre à Paris ») - Vanessa Paradis & M](https://www.last.fm/music/Vanessa+Paradis+&+M/_/La+Seine+(Extrait+de+la+bande+originale+%C2%AB+Un+monstre+%C3%A0+Paris+%C2%BB)) · 23/10 16:47 · x158
-- [IRM (feat. Freeze Corleone) - Kaaris](https://www.last.fm/music/Kaaris/_/IRM+(feat.+Freeze+Corleone)) · 23/10 16:44 · x1
-- [Hometown Glory - Adele](https://www.last.fm/music/Adele/_/Hometown+Glory) · 23/10 11:38 · x1956
 
 </details>
 <!-- LASTFM:END -->
