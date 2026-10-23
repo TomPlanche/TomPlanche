@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 23/10 03:58 · x961
+- [La Chanson des Vieux Amants - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/La+Chanson+des+Vieux+Amants) · 23/10 03:54 · x3210
+- [Pyramid Song - Radiohead](https://www.last.fm/music/Radiohead/_/Pyramid+Song) · 23/10 03:49 · x1166
+- [Iris - Chloé Antoniotti](https://www.last.fm/music/Chlo%C3%A9+Antoniotti/_/Iris) · 23/10 03:45 · x998
+- [L'averse (Vendredi) - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/L%27averse+(Vendredi)) · 23/10 03:41 · x450
+- [rivière - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/rivi%C3%A8re) · 23/10 03:36 · x627
 - [Contre-Temps - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Contre-Temps) · 23/10 03:22 · x308
 - [Aveux - Château Forte](https://www.last.fm/music/Ch%C3%A2teau+Forte/_/Aveux) · 23/10 03:14 · x636
 - [Brutalisme - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Brutalisme) · 23/10 03:12 · x762
 - [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 23/10 03:07 · x2349
-- [Seule - Iliona](https://www.last.fm/music/Iliona/_/Seule) · 23/10 03:04 · x189
-- [Les yeux, le reste - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Les+yeux,+le+reste) · 23/10 03:01 · x803
-- [I Love You - Fontaines D.C.](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You) · 23/10 02:57 · x46
-- [Heart to Heart - Mac DeMarco](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart) · 23/10 02:54 · x686
-- [Anémone - Chloé Antoniotti](https://www.last.fm/music/Chlo%C3%A9+Antoniotti/_/An%C3%A9mone) · 23/10 02:50 · x657
-- [Ça n’existe pas - A COLORS SHOW - Iliona](https://www.last.fm/music/Iliona/_/%C3%87a+n%E2%80%99existe+pas+-+A+COLORS+SHOW) · 23/10 02:45 · x635
 
 </details>
 <!-- LASTFM:END -->
