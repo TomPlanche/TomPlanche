@@ -19,7 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [XX FILES (feat. Alpha Wann) - Jungle Jack](https://www.last.fm/music/Jungle+Jack/_/XX+FILES+(feat.+Alpha+Wann)) · 23/10 18:29 · x91
+- [XX FILES (feat. Alpha Wann) - Jungle Jack](https://www.last.fm/music/Jungle+Jack/_/XX+FILES+(feat.+Alpha+Wann)) · 23/10 18:29 · x92
 - [L'enfant seul (Remasterisé) - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+seul+(Remasteris%C3%A9)) · 23/10 18:25 · x747
 - [LA BREITLING SUITE - joaqm](https://www.last.fm/music/joaqm/_/LA+BREITLING+SUITE) · 23/10 18:07 · x1080
 - [Schubert - Serenade (arr. Liszt) - Rousseau](https://www.last.fm/music/Rousseau/_/Schubert+-+Serenade+(arr.+Liszt)) · 23/10 18:05 · x134
