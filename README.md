@@ -19,6 +19,9 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Mille Vagues - Feu! Chatterton](https://www.last.fm/music/Feu!+Chatterton/_/Mille+Vagues) · 23/10 04:10 · x249
+- [Does The Swallow Dream Of Flying - Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake/_/Does+The+Swallow+Dream+Of+Flying) · 23/10 04:07 · x1331
+- [il suffisait - La marche bleue](https://www.last.fm/music/La+marche+bleue/_/il+suffisait) · 23/10 04:02 · x176
 - [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 23/10 03:58 · x961
 - [La Chanson des Vieux Amants - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/La+Chanson+des+Vieux+Amants) · 23/10 03:54 · x3210
 - [Pyramid Song - Radiohead](https://www.last.fm/music/Radiohead/_/Pyramid+Song) · 23/10 03:49 · x1166
@@ -26,9 +29,6 @@
 - [L'averse (Vendredi) - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/L%27averse+(Vendredi)) · 23/10 03:41 · x450
 - [rivière - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/rivi%C3%A8re) · 23/10 03:36 · x627
 - [Contre-Temps - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Contre-Temps) · 23/10 03:22 · x308
-- [Aveux - Château Forte](https://www.last.fm/music/Ch%C3%A2teau+Forte/_/Aveux) · 23/10 03:14 · x636
-- [Brutalisme - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Brutalisme) · 23/10 03:12 · x762
-- [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 23/10 03:07 · x2349
 
 </details>
 <!-- LASTFM:END -->
