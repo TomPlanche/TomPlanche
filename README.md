@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Le Grand Bond en avant (prod. Dooze) - Népal](https://www.last.fm/music/N%C3%A9pal/_/Le+Grand+Bond+en+avant+(prod.+Dooze)) · 23/10 10:59 · x27
-- [Vitamin C - Odymel](https://www.last.fm/music/Odymel/_/Vitamin+C) · 23/10 10:55 · x2
-- [No Hay Problema - Pink Martini](https://www.last.fm/music/Pink+Martini/_/No+Hay+Problema) · 23/10 09:58 · x202
-- [ANTARCTICA - $uicideboy$](https://www.last.fm/music/$uicideboy$/_/ANTARCTICA) · 23/10 09:50 · x88
-- [Ne Me Quitte Pas (Ré-enregistrement 1972) - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/Ne+Me+Quitte+Pas+(R%C3%A9-enregistrement+1972)) · 23/10 09:45 · x51
-- [30 Hours - Kanye West](https://www.last.fm/music/Kanye+West/_/30+Hours) · 23/10 09:41 · x1291
-- [Mille Vagues - Feu! Chatterton](https://www.last.fm/music/Feu!+Chatterton/_/Mille+Vagues) · 23/10 04:10 · x249
-- [Does The Swallow Dream Of Flying - Cosmo Sheldrake](https://www.last.fm/music/Cosmo+Sheldrake/_/Does+The+Swallow+Dream+Of+Flying) · 23/10 04:07 · x1331
-- [il suffisait - La marche bleue](https://www.last.fm/music/La+marche+bleue/_/il+suffisait) · 23/10 04:02 · x176
-- [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 23/10 03:58 · x961
+- [Hometown Glory - Adele](https://www.last.fm/music/Adele/_/Hometown+Glory) · 23/10 11:38 · x1956
+- [Jocelyn Flores - XXXTENTACION](https://www.last.fm/music/XXXTENTACION/_/Jocelyn+Flores) · 23/10 11:34 · x59
+- [Brain Stew - Green Day](https://www.last.fm/music/Green+Day/_/Brain+Stew) · 23/10 11:32 · x193
+- [I'm Gonna Be The Everything (A Band Of Brothers Remix) - Marcellus Pittman](https://www.last.fm/music/Marcellus+Pittman/_/I%27m+Gonna+Be+The+Everything+(A+Band+Of+Brothers+Remix)) · 23/10 11:28 · x2
+- [Here - Alessia Cara](https://www.last.fm/music/Alessia+Cara/_/Here) · 23/10 11:24 · x120
+- [Poches Pleines - Vald](https://www.last.fm/music/Vald/_/Poches+Pleines) · 23/10 11:21 · x53
+- [All Night Parking (with Erroll Garner) Interlude - Adele](https://www.last.fm/music/Adele/_/All+Night+Parking+(with+Erroll+Garner)+Interlude) · 23/10 11:17 · x47
+- [Devil May Cry - Rowjay & Alpha Wann](https://www.last.fm/music/Rowjay+&+Alpha+Wann/_/Devil+May+Cry) · 23/10 11:15 · x266
+- [Spilled Milk - Flyboy Tarantino](https://www.last.fm/music/Flyboy+Tarantino/_/Spilled+Milk) · 23/10 11:12 · x49
+- [PISTOLET ROSE 2 - Alpha Wann](https://www.last.fm/music/Alpha+Wann/_/PISTOLET+ROSE+2) · 23/10 11:10 · x127
 
 </details>
 <!-- LASTFM:END -->
