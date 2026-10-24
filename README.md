@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Suffisamment - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Suffisamment) · 24/10 04:11 · x372
+- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 24/10 04:07 · x97
 - [MMM (Money Makin Mitch) - Ateyaba](https://www.last.fm/music/Ateyaba/_/MMM+(Money+Makin+Mitch)) · 23/10 23:31 · x1
 - [RAP RAFALE, Pt. 2 - LEDOUBLE & GAL](https://www.last.fm/music/LEDOUBLE+&+GAL/_/RAP+RAFALE,+Pt.+2) · 23/10 23:28 · x1
 - [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 23/10 23:25 · x17
@@ -27,8 +29,6 @@
 - [Chasser mes Démons (Outro) - Rowjay](https://www.last.fm/music/Rowjay/_/Chasser+mes+D%C3%A9mons+(Outro)) · 23/10 19:19 · x48
 - [Inachevés - Casseurs Flowters](https://www.last.fm/music/Casseurs+Flowters/_/Inachev%C3%A9s) · 23/10 19:09 · x112
 - [Mirage - Glass Beams](https://www.last.fm/music/Glass+Beams/_/Mirage) · 23/10 19:04 · x87
-- [XX FILES (feat. Alpha Wann) - Jungle Jack](https://www.last.fm/music/Jungle+Jack/_/XX+FILES+(feat.+Alpha+Wann)) · 23/10 18:29 · x92
-- [L'enfant seul (Remasterisé) - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/L%27enfant+seul+(Remasteris%C3%A9)) · 23/10 18:25 · x747
 
 </details>
 <!-- LASTFM:END -->
