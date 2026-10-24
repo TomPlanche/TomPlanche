@@ -19,8 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Suffisamment - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Suffisamment) · 24/10 04:11 · x372
-- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 24/10 04:07 · x97
+- [Suffisamment - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Suffisamment) · 24/10 04:11 · x373
+- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 24/10 04:07 · x98
 - [MMM (Money Makin Mitch) - Ateyaba](https://www.last.fm/music/Ateyaba/_/MMM+(Money+Makin+Mitch)) · 23/10 23:31 · x1
 - [RAP RAFALE, Pt. 2 - LEDOUBLE & GAL](https://www.last.fm/music/LEDOUBLE+&+GAL/_/RAP+RAFALE,+Pt.+2) · 23/10 23:28 · x1
 - [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 23/10 23:25 · x17
