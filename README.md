@@ -19,7 +19,7 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [Rehab - Amy Winehouse](https://www.last.fm/music/Amy+Winehouse/_/Rehab) · 25/10 20:59
+- [Rehab - Amy Winehouse](https://www.last.fm/music/Amy+Winehouse/_/Rehab) · 25/10 20:59 · x1
 - [Heart to Heart - Mac DeMarco](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart) · 25/10 04:10 · x686
 - [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 24/10 20:48 · x13
 - [Suffisamment - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Suffisamment) · 24/10 04:11 · x373
