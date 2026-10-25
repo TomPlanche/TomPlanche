@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Incroyaux (feat. Roméo Elvis) - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Incroyaux+(feat.+Rom%C3%A9o+Elvis)) · 26/10 00:29 · x35
+- [Will He - Joji](https://www.last.fm/music/Joji/_/Will+He) · 26/10 00:25 · x46
+- [Splash - Muddy Monk](https://www.last.fm/music/Muddy+Monk/_/Splash) · 26/10 00:22 · x27
+- [La cause (feat. Roi Heenok) - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/La+cause+(feat.+Roi+Heenok)) · 26/10 00:17 · x64
+- [Here - Alessia Cara](https://www.last.fm/music/Alessia+Cara/_/Here) · 26/10 00:13 · x121
+- [Follow God - Kanye West](https://www.last.fm/music/Kanye+West/_/Follow+God) · 26/10 00:10 · x36
+- [Be a Man - Sacha Rudy](https://www.last.fm/music/Sacha+Rudy/_/Be+a+Man) · 26/10 00:08 · x195
+- [Hangar vortex (Bet de break playlist podcast) - Mézigue](https://www.last.fm/music/M%C3%A9zigue/_/Hangar+vortex+(Bet+de+break+playlist+podcast)) · 26/10 00:05 · x18
+- [Le Combat Continue - Ideal J](https://www.last.fm/music/Ideal+J/_/Le+Combat+Continue) · 25/10 23:59 · x65
 - [Mariah - Luv Resval & Alkpote](https://www.last.fm/music/Luv+Resval+&+Alkpote/_/Mariah) · 25/10 23:51 · x30
-- [-M- JE DIS AIME @ Vieilles Charrues 2022 - Vieilles Charrues Officiel](https://www.last.fm/music/Vieilles+Charrues+Officiel/_/-M-+JE+DIS+AIME+@+Vieilles+Charrues+2022) · 25/10 23:47 · x89
-- [Panorama (feat. Alpha Wann) - Jazzy Bazz](https://www.last.fm/music/Jazzy+Bazz/_/Panorama+(feat.+Alpha+Wann)) · 25/10 23:35 · x82
-- [Rehab - Amy Winehouse](https://www.last.fm/music/Amy+Winehouse/_/Rehab) · 25/10 20:59 · x1
-- [Heart to Heart - Mac DeMarco](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart) · 25/10 04:10 · x686
-- [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 24/10 20:48 · x13
-- [Suffisamment - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Suffisamment) · 24/10 04:11 · x373
-- [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 24/10 04:07 · x98
-- [MMM (Money Makin Mitch) - Ateyaba](https://www.last.fm/music/Ateyaba/_/MMM+(Money+Makin+Mitch)) · 23/10 23:31 · x1
-- [RAP RAFALE, Pt. 2 - LEDOUBLE & GAL](https://www.last.fm/music/LEDOUBLE+&+GAL/_/RAP+RAFALE,+Pt.+2) · 23/10 23:28 · x2
 
 </details>
 <!-- LASTFM:END -->
