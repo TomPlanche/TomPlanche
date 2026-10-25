@@ -19,6 +19,9 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Mariah - Luv Resval & Alkpote](https://www.last.fm/music/Luv+Resval+&+Alkpote/_/Mariah) · 25/10 23:51 · x30
+- [-M- JE DIS AIME @ Vieilles Charrues 2022 - Vieilles Charrues Officiel](https://www.last.fm/music/Vieilles+Charrues+Officiel/_/-M-+JE+DIS+AIME+@+Vieilles+Charrues+2022) · 25/10 23:47 · x89
+- [Panorama (feat. Alpha Wann) - Jazzy Bazz](https://www.last.fm/music/Jazzy+Bazz/_/Panorama+(feat.+Alpha+Wann)) · 25/10 23:35 · x82
 - [Rehab - Amy Winehouse](https://www.last.fm/music/Amy+Winehouse/_/Rehab) · 25/10 20:59 · x1
 - [Heart to Heart - Mac DeMarco](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart) · 25/10 04:10 · x686
 - [Am I Wrong - Etienne de Crécy](https://www.last.fm/music/Etienne+de+Cr%C3%A9cy/_/Am+I+Wrong) · 24/10 20:48 · x13
@@ -26,9 +29,6 @@
 - [Dis-moi que tu m'aimes (modular version) - Zaho de Sagazan](https://www.last.fm/music/Zaho+de+Sagazan/_/Dis-moi+que+tu+m%27aimes+(modular+version)) · 24/10 04:07 · x98
 - [MMM (Money Makin Mitch) - Ateyaba](https://www.last.fm/music/Ateyaba/_/MMM+(Money+Makin+Mitch)) · 23/10 23:31 · x1
 - [RAP RAFALE, Pt. 2 - LEDOUBLE & GAL](https://www.last.fm/music/LEDOUBLE+&+GAL/_/RAP+RAFALE,+Pt.+2) · 23/10 23:28 · x2
-- [Du Bon Onss - Evil Grimace](https://www.last.fm/music/Evil+Grimace/_/Du+Bon+Onss) · 23/10 23:25 · x21
-- [il pleut - victor janvier & Martin Prince](https://www.last.fm/music/victor+janvier+&+Martin+Prince/_/il+pleut) · 23/10 23:20 · x2
-- [Processus - Rowjay](https://www.last.fm/music/Rowjay/_/Processus) · 23/10 19:22 · x46
 
 </details>
 <!-- LASTFM:END -->
