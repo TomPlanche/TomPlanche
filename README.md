@@ -19,6 +19,9 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Contre-Temps - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Contre-Temps) · 26/10 03:22 · x309
+- [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 26/10 03:18 · x962
+- [La Chanson des Vieux Amants - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/La+Chanson+des+Vieux+Amants) · 26/10 03:14 · x3211
 - [Donquixote Doflamingo - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Donquixote+Doflamingo) · 26/10 02:05 · x113
 - [Tropique ouverture - Clea Vincent](https://www.last.fm/music/Clea+Vincent/_/Tropique+ouverture) · 26/10 02:01 · x6
 - [Intro - Infinit'](https://www.last.fm/music/Infinit%27/_/Intro) · 26/10 01:58 · x455
@@ -26,9 +29,6 @@
 - [A.M.I - Azur](https://www.last.fm/music/Azur/_/A.M.I) · 26/10 01:52 · x96
 - [Easy - Son Lux](https://www.last.fm/music/Son+Lux/_/Easy) · 26/10 01:49 · x49
 - [Joy Division - Charly Kid](https://www.last.fm/music/Charly+Kid/_/Joy+Division) · 26/10 01:45 · x182
-- [Monnayer - Di-Meh](https://www.last.fm/music/Di-Meh/_/Monnayer) · 26/10 01:42 · x60
-- [Chanson pour Abel - Superpoze & Blandine Rinkel](https://www.last.fm/music/Superpoze+&+Blandine+Rinkel/_/Chanson+pour+Abel) · 26/10 01:39 · x6
-- [MONOGRAMME - Rowjay](https://www.last.fm/music/Rowjay/_/MONOGRAMME) · 26/10 01:37 · x62
 
 </details>
 <!-- LASTFM:END -->
