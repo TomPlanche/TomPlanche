@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [MMM (Money Makin Mitch) - Ateyaba](https://www.last.fm/music/Ateyaba/_/MMM+(Money+Makin+Mitch)) · 26/10 01:26 · x4
-- [Something About Us (Love Theme From Interstella 5555) - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Something+About+Us+(Love+Theme+From+Interstella+5555)) · 26/10 01:24 · x115
-- [Matière Noire - Eléonore Moreaux](https://www.last.fm/music/El%C3%A9onore+Moreaux/_/Mati%C3%A8re+Noire) · 26/10 01:22 · x9
-- [Grand bain - SCH](https://www.last.fm/music/SCH/_/Grand+bain) · 26/10 01:18 · x181
-- [VILAIN (feat. Khali) - La Fève & Kosei](https://www.last.fm/music/La+F%C3%A8ve+&+Kosei/_/VILAIN+(feat.+Khali)) · 26/10 01:15 · x339
-- [Au revoir merci - Siboy](https://www.last.fm/music/Siboy/_/Au+revoir+merci) · 26/10 01:12 · x55
-- [Intempéries - Superpoze & Blandine Rinkel](https://www.last.fm/music/Superpoze+&+Blandine+Rinkel/_/Intemp%C3%A9ries) · 26/10 01:07 · x9
-- [GOJJ - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/GOJJ) · 26/10 01:04 · x43
-- [Oublier quelqu'un - PoliGONE](https://www.last.fm/music/PoliGONE/_/Oublier+quelqu%27un) · 26/10 01:00 · x205
-- [Laisse Tourner - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/Laisse+Tourner) · 26/10 00:58 · x52
+- [Intro - Infinit'](https://www.last.fm/music/Infinit%27/_/Intro) · 26/10 01:58 · x455
+- [Phantom, Pt. II - Justice](https://www.last.fm/music/Justice/_/Phantom,+Pt.+II) · 26/10 01:56 · x33
+- [A.M.I - Azur](https://www.last.fm/music/Azur/_/A.M.I) · 26/10 01:52 · x96
+- [Easy - Son Lux](https://www.last.fm/music/Son+Lux/_/Easy) · 26/10 01:49 · x49
+- [Joy Division - Charly Kid](https://www.last.fm/music/Charly+Kid/_/Joy+Division) · 26/10 01:45 · x182
+- [Monnayer - Di-Meh](https://www.last.fm/music/Di-Meh/_/Monnayer) · 26/10 01:42 · x60
+- [Chanson pour Abel - Superpoze & Blandine Rinkel](https://www.last.fm/music/Superpoze+&+Blandine+Rinkel/_/Chanson+pour+Abel) · 26/10 01:39 · x6
+- [MONOGRAMME - Rowjay](https://www.last.fm/music/Rowjay/_/MONOGRAMME) · 26/10 01:37 · x62
+- [Aucune émotion - Krisy](https://www.last.fm/music/Krisy/_/Aucune+%C3%A9motion) · 26/10 01:35 · x174
+- [VOIR LE MONDE BRÛLER - Laylow](https://www.last.fm/music/Laylow/_/VOIR+LE+MONDE+BR%C3%9BLER) · 26/10 01:32 · x47
 
 </details>
 <!-- LASTFM:END -->
