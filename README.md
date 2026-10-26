@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [L'averse (Vendredi) - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/L%27averse+(Vendredi)) · 26/10 03:56 · x451
+- [il suffisait - La marche bleue](https://www.last.fm/music/La+marche+bleue/_/il+suffisait) · 26/10 03:51 · x177
+- [rivière - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/rivi%C3%A8re) · 26/10 03:46 · x628
+- [Heart to Heart - Mac DeMarco](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart) · 26/10 03:42 · x687
+- [Les yeux, le reste - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Les+yeux,+le+reste) · 26/10 03:39 · x804
+- [Mille Vagues - Feu! Chatterton](https://www.last.fm/music/Feu!+Chatterton/_/Mille+Vagues) · 26/10 03:34 · x250
+- [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 26/10 03:30 · x2350
 - [Contre-Temps - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Contre-Temps) · 26/10 03:22 · x309
 - [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 26/10 03:18 · x962
 - [La Chanson des Vieux Amants - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/La+Chanson+des+Vieux+Amants) · 26/10 03:14 · x3211
-- [Donquixote Doflamingo - Freeze Corleone](https://www.last.fm/music/Freeze+Corleone/_/Donquixote+Doflamingo) · 26/10 02:05 · x113
-- [Tropique ouverture - Clea Vincent](https://www.last.fm/music/Clea+Vincent/_/Tropique+ouverture) · 26/10 02:01 · x6
-- [Intro - Infinit'](https://www.last.fm/music/Infinit%27/_/Intro) · 26/10 01:58 · x455
-- [Phantom, Pt. II - Justice](https://www.last.fm/music/Justice/_/Phantom,+Pt.+II) · 26/10 01:56 · x33
-- [A.M.I - Azur](https://www.last.fm/music/Azur/_/A.M.I) · 26/10 01:52 · x96
-- [Easy - Son Lux](https://www.last.fm/music/Son+Lux/_/Easy) · 26/10 01:49 · x49
-- [Joy Division - Charly Kid](https://www.last.fm/music/Charly+Kid/_/Joy+Division) · 26/10 01:45 · x182
 
 </details>
 <!-- LASTFM:END -->
