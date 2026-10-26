@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
-- [NEW (feat. Le Juiice) - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/NEW+(feat.+Le+Juiice)) · 26/10 17:29 · x197
+- [LE SANG - Luther](https://www.last.fm/music/Luther/_/LE+SANG) · 26/10 17:56 · x78
+- [Tous les mêmes - Stromae](https://www.last.fm/music/Stromae/_/Tous+les+m%C3%AAmes) · 26/10 17:50 · x134
+- [Flight - Casey Histed](https://www.last.fm/music/Casey+Histed/_/Flight) · 26/10 17:46 · x19
+- [Qui dit mieux (feat. Orelsan, Vald & Suikon Blaz AD) - Gringe](https://www.last.fm/music/Gringe/_/Qui+dit+mieux+(feat.+Orelsan,+Vald+&+Suikon+Blaz+AD)) · 26/10 17:43 · x30
+- [Goodbye - Russ](https://www.last.fm/music/Russ/_/Goodbye) · 26/10 17:39 · x50
+- [Ouverture - Oxmo Puccino](https://www.last.fm/music/Oxmo+Puccino/_/Ouverture) · 26/10 17:35 · x7
+- [Une Cible, Une Flèche - NES](https://www.last.fm/music/NES/_/Une+Cible,+Une+Fle%CC%80che) · 26/10 17:34 · x431
+- [Binks 2.0 - 13 Block](https://www.last.fm/music/13+Block/_/Binks+2.0) · 26/10 17:31 · x43
+- [NEW (feat. Le Juiice) - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/NEW+(feat.+Le+Juiice)) · 26/10 17:29 · x198
 - [Splash - Muddy Monk](https://www.last.fm/music/Muddy+Monk/_/Splash) · 26/10 17:26 · x28
-- [About You - XXYYXX](https://www.last.fm/music/XXYYXX/_/About+You) · 26/10 17:21 · x116
-- [Elle aime (feat. Laylow) - Lefa](https://www.last.fm/music/Lefa/_/Elle+aime+(feat.+Laylow)) · 26/10 17:17 · x61
-- [Kompavana - AlexCkj](https://www.last.fm/music/AlexCkj/_/Kompavana) · 26/10 17:14 · x6
-- [Violent Crimes - Kanye West](https://www.last.fm/music/Kanye+West/_/Violent+Crimes) · 26/10 17:10 · x47
-- [Fin de ce qui est relatif à la nature, au temps, à la conscience et aux perspectives (2h44) - Sköne](https://www.last.fm/music/Sk%C3%B6ne/_/Fin+de+ce+qui+est+relatif+%C3%A0+la+nature,+au+temps,+%C3%A0+la+conscience+et+aux+perspectives+(2h44)) · 26/10 17:06 · x97
-- [Música da Lagoa (feat. Itiberê Zwarg, Jovino Santos Neto, Carlos Malta & Marcio Bahia) - Hermeto Pascoal](https://www.last.fm/music/Hermeto+Pascoal/_/M%C3%BAsica+da+Lagoa+(feat.+Itiber%C3%AA+Zwarg,+Jovino+Santos+Neto,+Carlos+Malta+&+Marcio+Bahia)) · 26/10 17:00 · x2
-- [Mercutio - Sean](https://www.last.fm/music/Sean/_/Mercutio) · 26/10 16:55 · x197
-- [DEUSS DEUSS - Sneazzy](https://www.last.fm/music/Sneazzy/_/DEUSS+DEUSS) · 26/10 16:52 · x36
 
 </details>
 <!-- LASTFM:END -->
