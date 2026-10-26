@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Mercutio - Sean](https://www.last.fm/music/Sean/_/Mercutio) · 26/10 16:55 · x197
+- [DEUSS DEUSS - Sneazzy](https://www.last.fm/music/Sneazzy/_/DEUSS+DEUSS) · 26/10 16:52 · x36
+- [touch - Øneheart](https://www.last.fm/music/%C3%98neheart/_/touch) · 26/10 16:49 · x79
+- [Lacrimosa - Requiem em ré menor (K. 626) - W.A Mozart - Braulino Lansac](https://www.last.fm/music/Braulino+Lansac/_/Lacrimosa+-+Requiem+em+r%C3%A9+menor+(K.+626)+-+W.A+Mozart) · 26/10 16:46 · x2956
+- [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 26/10 16:43 · x963
+- [Mirage - Glass Beams](https://www.last.fm/music/Glass+Beams/_/Mirage) · 26/10 16:39 · x93
+- [Mille Vagues - Feu! Chatterton](https://www.last.fm/music/Feu!+Chatterton/_/Mille+Vagues) · 26/10 16:34 · x250
 - [WOW - Josman](https://www.last.fm/music/Josman/_/WOW) · 26/10 16:07 · x100
 - [This Is Who I Am (From “The Day of the Jackal”) - Celeste](https://www.last.fm/music/Celeste/_/This+Is+Who+I+Am+(From+%E2%80%9CThe+Day+of+the+Jackal%E2%80%9D)) · 26/10 16:04 · x151
 - [Share a Line - Shaka Ponk](https://www.last.fm/music/Shaka+Ponk/_/Share+a+Line) · 26/10 16:00 · x14
-- [Machistador - -M-](https://www.last.fm/music/-M-/_/Machistador) · 26/10 15:54 · x80
-- [Morna - Dino d'Santiago](https://www.last.fm/music/Dino+d%27Santiago/_/Morna) · 26/10 15:50 · x101
-- [Léwé - Oboy](https://www.last.fm/music/Oboy/_/L%C3%A9w%C3%A9) · 26/10 15:47 · x58
-- [HESED - Ptite Soeur & neophron](https://www.last.fm/music/Ptite+Soeur+&+neophron/_/HESED) · 26/10 15:43 · x71
-- [Ave Cesaria - Stromae](https://www.last.fm/music/Stromae/_/Ave+Cesaria) · 26/10 15:41 · x86
-- [Closed on Sunday - Kanye West](https://www.last.fm/music/Kanye+West/_/Closed+on+Sunday) · 26/10 12:47 · x44
-- [Vue sur la banque - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/Vue+sur+la+banque) · 26/10 12:43 · x14
 
 </details>
 <!-- LASTFM:END -->
