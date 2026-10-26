@@ -19,6 +19,8 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [Closed on Sunday - Kanye West](https://www.last.fm/music/Kanye+West/_/Closed+on+Sunday) · 26/10 12:47 · x44
+- [Vue sur la banque - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/Vue+sur+la+banque) · 26/10 12:43 · x14
 - [L'averse (Vendredi) - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/L%27averse+(Vendredi)) · 26/10 03:56 · x451
 - [il suffisait - La marche bleue](https://www.last.fm/music/La+marche+bleue/_/il+suffisait) · 26/10 03:51 · x177
 - [rivière - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/rivi%C3%A8re) · 26/10 03:46 · x628
@@ -27,8 +29,6 @@
 - [Mille Vagues - Feu! Chatterton](https://www.last.fm/music/Feu!+Chatterton/_/Mille+Vagues) · 26/10 03:34 · x250
 - [Exit Music (for a Film) - Radiohead](https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)) · 26/10 03:30 · x2350
 - [Contre-Temps - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Contre-Temps) · 26/10 03:22 · x309
-- [Castelmaure - Flavien Berger](https://www.last.fm/music/Flavien+Berger/_/Castelmaure) · 26/10 03:18 · x962
-- [La Chanson des Vieux Amants - Jacques Brel](https://www.last.fm/music/Jacques+Brel/_/La+Chanson+des+Vieux+Amants) · 26/10 03:14 · x3211
 
 </details>
 <!-- LASTFM:END -->
