@@ -19,16 +19,16 @@
 <details>
   <summary>My last 10 songs</summary>
 
+- [MMM (Money Makin Mitch) - Ateyaba](https://www.last.fm/music/Ateyaba/_/MMM+(Money+Makin+Mitch)) · 26/10 01:26 · x4
+- [Something About Us (Love Theme From Interstella 5555) - Daft Punk](https://www.last.fm/music/Daft+Punk/_/Something+About+Us+(Love+Theme+From+Interstella+5555)) · 26/10 01:24 · x115
+- [Matière Noire - Eléonore Moreaux](https://www.last.fm/music/El%C3%A9onore+Moreaux/_/Mati%C3%A8re+Noire) · 26/10 01:22 · x9
+- [Grand bain - SCH](https://www.last.fm/music/SCH/_/Grand+bain) · 26/10 01:18 · x181
+- [VILAIN (feat. Khali) - La Fève & Kosei](https://www.last.fm/music/La+F%C3%A8ve+&+Kosei/_/VILAIN+(feat.+Khali)) · 26/10 01:15 · x339
+- [Au revoir merci - Siboy](https://www.last.fm/music/Siboy/_/Au+revoir+merci) · 26/10 01:12 · x55
+- [Intempéries - Superpoze & Blandine Rinkel](https://www.last.fm/music/Superpoze+&+Blandine+Rinkel/_/Intemp%C3%A9ries) · 26/10 01:07 · x9
+- [GOJJ - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/GOJJ) · 26/10 01:04 · x43
+- [Oublier quelqu'un - PoliGONE](https://www.last.fm/music/PoliGONE/_/Oublier+quelqu%27un) · 26/10 01:00 · x205
 - [Laisse Tourner - Fixpen Sill](https://www.last.fm/music/Fixpen+Sill/_/Laisse+Tourner) · 26/10 00:58 · x52
-- [Ship (feat. FM LAETI) - Lucien Kimono](https://www.last.fm/music/Lucien+Kimono/_/Ship+(feat.+FM+LAETI)) · 26/10 00:53 · x440
-- [02 Oxmose - Népal](https://www.last.fm/music/N%C3%A9pal/_/02+Oxmose) · 26/10 00:47 · x159
-- [One Minute to Midnight - Justice](https://www.last.fm/music/Justice/_/One+Minute+to+Midnight) · 26/10 00:44 · x54
-- [T N Biscuits - slowthai](https://www.last.fm/music/slowthai/_/T+N+Biscuits) · 26/10 00:41 · x34
-- [Spirit - Lewis Taylor](https://www.last.fm/music/Lewis+Taylor/_/Spirit) · 26/10 00:38 · x3
-- [Please (Feat. Ceelo Green) - Selah Sue](https://www.last.fm/music/Selah+Sue/_/Please+(Feat.+Ceelo+Green)) · 26/10 00:34 · x8
-- [Incroyaux (feat. Roméo Elvis) - Caballero & JeanJass](https://www.last.fm/music/Caballero+&+JeanJass/_/Incroyaux+(feat.+Rom%C3%A9o+Elvis)) · 26/10 00:29 · x35
-- [Will He - Joji](https://www.last.fm/music/Joji/_/Will+He) · 26/10 00:25 · x46
-- [Splash - Muddy Monk](https://www.last.fm/music/Muddy+Monk/_/Splash) · 26/10 00:22 · x27
 
 </details>
 <!-- LASTFM:END -->
